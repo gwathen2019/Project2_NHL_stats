@@ -37,11 +37,11 @@ def index():
 
 @app.route("/bday_group1")
 def group1():
-    bdays = engine.execute('SELECT player_id, birthdate, nationality \
+    bdays = engine.execute('SELECT player_id, birthdate \
         FROM player_info \
         WHERE EXTRACT(MONTH FROM birthdate) \
         BETWEEN 01 AND 03;').fetchall()
-    return jsonify(list(bdays))
+    return jsonify(dict(bdays))
 
 @app.route("/games_played")
 def longevity():
