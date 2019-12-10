@@ -78,3 +78,4 @@ CREATE TABLE game_goalie_stats (
   FOREIGN KEY (player_id) REFERENCES player_info(player_id),
   FOREIGN KEY (game_id) REFERENCES game(game_id)
 );
+
