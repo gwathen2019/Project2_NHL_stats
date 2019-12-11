@@ -124,6 +124,10 @@
         </div>
       </div>
       <div class="row">
+          <div class="col-md-5">
+              <div id="plot"></div>
+          </div>
+      <div class="row">
         <div class="col-md-1"></div>
         <div class="col-md-5">
           <img src="Scatter_Plot.png" class="img-fluid" alt="Scatter Plot">
@@ -148,7 +152,19 @@
       </div>
       <br>
       <br>
-
+      <div class="row">
+          <div class="col-md-2">
+            <div class="well">
+              <h5>SELECT :</h5>
+              <select id="selDataset" onchange="optionChanged(this.value)"></select>
+            </div>
+            <div class="panel panel-primary">
+              <div class="panel-heading">
+                <h3 class="panel-title">Player Data</h3>
+              </div>
+              <div id="skater_games" class="panel-body"></div>
+            </div>
+          </div>
       <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
 
       <h2>Section title</h2>
@@ -282,7 +298,8 @@
     </main>
   </div>
 </div>
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" 
 integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" 
 crossorigin="anonymous"></script>
@@ -301,6 +318,8 @@ crossorigin="anonymous"></script>
 
 <script src="static/app.js"></script>
 <script src="dashboard.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
 <script src="https://rawgit.com/WeiChiaChang/Easter-egg/master/easter-eggs-collection.js"></script>
 
 </body>
