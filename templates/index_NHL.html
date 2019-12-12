@@ -124,7 +124,16 @@
         </div>
       </div>
       <div class="row">
-          <div class="col-md-5">
+        <div class="col-md-18">
+          <div id="bar"></div>
+      <select id="selDataset" onchange="getData(this.value)">
+          <option value="USA">USA</option>
+          <option value="CAN">CANADA</option>
+          <option value="CHE">SWITZERLAND</option>
+      </select>
+        </div>
+      <div class="row">
+          <div class="col-md-12">
               <div id="plot"></div>
           </div>
       <div class="row">
@@ -152,19 +161,6 @@
       </div>
       <br>
       <br>
-      <div class="row">
-          <div class="col-md-2">
-            <div class="well">
-              <h5>SELECT :</h5>
-              <select id="selDataset" onchange="optionChanged(this.value)"></select>
-            </div>
-            <div class="panel panel-primary">
-              <div class="panel-heading">
-                <h3 class="panel-title">Player Data</h3>
-              </div>
-              <div id="skater_games" class="panel-body"></div>
-            </div>
-          </div>
       <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
 
       <h2>Section title</h2>

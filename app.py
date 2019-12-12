@@ -94,38 +94,38 @@ def longevity():
 
     return jsonify(games_played)
 
-#     number_assists = engine.execute(
-#     'SELECT player_id, COUNT(assists) AS "assists" \
-#     FROM game_skater_stats \
-#     GROUP BY player_id \
-#     ORDER BY assists DESC \
-#     LIMIT 100 \
-#     ;').fetchall()
-#     assists = {}
+@app.route("/USA")
+def manualUSA():
 
-#     for each in number_assists:
-#         assists[each[0]] = each[1]
+    plot_trace = {
+        "x": ["Jan","Feb","Mar","Apr","May","June","July","August","September","October","November","December"],
+        "y": [280,270,230,285,225,180,140,175,145,80,130,145],
+        "type": "scatter"
+    }
 
-#     number_goals = engine.execute(
-#     'SELECT player_id, COUNT(goals) AS "goals" \
-#     FROM game_skater_stats \
-#     GROUP BY player_id \
-#     ORDER BY goals DESC \
-#     LIMIT 100 \
-#     ;').fetchall()
+    return jsonify(plot_trace)   
 
-#     goals = {}
+@app.route("/CAN")
+def manualCAN():
 
-#     for each in number_goals:
-#         goals[each[0]] = each[1]
+    plot_trace = {
+        "x": ["Jan","Feb","Mar","Apr","May","June","July","August","September","October","November","December"],
+        "y": [212,170,330,485,625,120,110,105,125,90,160,115],
+        "type": "scatter"
+    }
 
-    # f_dict = {
-    #     "games" : games_played
-    #     "goals" : goals 
-    #     "assists" : assists
-    # }
+    return jsonify(plot_trace)
 
-#     return jsonify(f_dict)
+@app.route("/CHE")
+def manualCHE():
+
+    plot_trace = {
+        "x": ["Jan","Feb","Mar","Apr","May","June","July","August","September","October","November","December"],
+        "y": [145,180,230,785,125,220,110,85,95,90,80,45],
+        "type": "scatter"
+    }
+
+    return jsonify(plot_trace)
 
 if __name__ == '__main__':
     app.run(debug=True)
