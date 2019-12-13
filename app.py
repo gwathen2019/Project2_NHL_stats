@@ -12,7 +12,7 @@ import psycopg2
 #################################################
 # Database Setup
 #################################################
-engine = create_engine('postgres+psycopg2://postgres:Ursus2000@localhost:5432/Project2_NHL_Stats')
+engine = create_engine('postgres+psycopg2://postgres:Claymol1324@localhost:5432/Birthday_Effect')
 
 # reflect an existing database into a new model
 Base = automap_base()
@@ -94,7 +94,6 @@ def longevity():
 
     return jsonify(games_played)
 
-<<<<<<< HEAD
 @app.route("/USA")
 def manualUSA():
 #     USA = engine.execute("\
@@ -430,7 +429,7 @@ def manualFIN():
     WHERE \
 	(\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
-    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    OR nationality = 'CZE' OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
 	BETWEEN 01 AND 01\
@@ -442,10 +441,10 @@ def manualFIN():
     WHERE \
 	(\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
-    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    OR nationality = 'CZE' OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
-	BETWEEN 01 AND 01\
+	BETWEEN 02 AND 02\
     ;").fetchall()
     
     uFeb = len(Feb)
@@ -454,10 +453,10 @@ def manualFIN():
     WHERE \
 	(\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
-    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    OR nationality = OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
-	BETWEEN 01 AND 01\
+	BETWEEN 03 AND 03\
     ;").fetchall()
     
     uMar = len(Mar)
@@ -470,96 +469,103 @@ def manualFIN():
     OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
-	BETWEEN 01 AND 01\
+	BETWEEN 04 AND 04\
     ;").fetchall()
     
     uApr = len(Apr)
 
-    May = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 05 AND 05 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
+    May = engine.execute("SELECT birthdate, firstname, lastname, nationality FROM player_info\
+    WHERE \
+	(\
+	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
+    OR nationality = 'CZE' OR nationality = 'SVN')\
+    AND \
+	EXTRACT(MONTH FROM birthdate)\
+	BETWEEN 05 AND 05\
+    ;").fetchall()
     
     uMay = len(May)
 
-    June = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 06 AND 06 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
+    June = engine.execute("SELECT birthdate, firstname, lastname, nationality FROM player_info\
+    WHERE \
+	(\
+	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
+    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    AND \
+	EXTRACT(MONTH FROM birthdate)\
+	BETWEEN 06 AND 06\
+    ;").fetchall()
     
     uJune = len(June)
 
-    July = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 07 AND 07 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
+    July = engine.execute("SELECT birthdate, firstname, lastname, nationality FROM player_info\
+    WHERE \
+	(\
+	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
+    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    AND \
+	EXTRACT(MONTH FROM birthdate)\
+	BETWEEN 07 AND 07\
+    ;").fetchall()
     
     uJuly = len(July)
 
-    Aug = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 08 AND 08 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
+    Aug = engine.execute("SELECT birthdate, firstname, lastname, nationality FROM player_info\
+    WHERE \
+	(\
+	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
+    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    AND \
+	EXTRACT(MONTH FROM birthdate)\
+	BETWEEN 08 AND 08\
+    ;").fetchall()
     
     uAug = len(Aug)
 
-    Sept = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 09 AND 09 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
+    Sept = engine.execute("SELECT birthdate, firstname, lastname, nationality FROM player_info\
+    WHERE \
+	(\
+	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
+    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    AND \
+	EXTRACT(MONTH FROM birthdate)\
+	BETWEEN 09 AND 09\
+    ;").fetchall()
     
     uSept = len(Sept)
 
-    Oct = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 10 AND 10 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
-    
+    Oct = engine.execute("SELECT birthdate, firstname, lastname, nationality FROM player_info\
+    WHERE \
+	(\
+	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
+    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    AND \
+	EXTRACT(MONTH FROM birthdate)\
+	BETWEEN 10 AND 10\
+    ;").fetchall()
     uOct = len(Oct)
 
-    Nov = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 11 AND 11 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
+    Nov = engine.execute("SELECT birthdate, firstname, lastname, nationality FROM player_info\
+    WHERE \
+	(\
+	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
+    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    AND \
+	EXTRACT(MONTH FROM birthdate)\
+	BETWEEN 11 AND 11\
+    ;").fetchall()
     
     uNov = len(Nov)
 
-    Dec = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 12 AND 12 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
+    Dec = engine.execute("SELECT birthdate, firstname, lastname, nationality FROM player_info\
+    WHERE \
+	(\
+	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
+    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    AND \
+	EXTRACT(MONTH FROM birthdate)\
+	BETWEEN 12 AND 12\
+    ;").fetchall()
     
     uDec = len(Dec)
 
@@ -570,40 +576,6 @@ def manualFIN():
     }
 
     return jsonify(plot_trace)
-=======
-#     number_assists = engine.execute(
-#     'SELECT player_id, COUNT(assists) AS "assists" \
-#     FROM game_skater_stats \
-#     GROUP BY player_id \
-#     ORDER BY assists DESC \
-#     LIMIT 100 \
-#     ;').fetchall()
-#     assists = {}
-
-#     for each in number_assists:
-#         assists[each[0]] = each[1]
-
-#     number_goals = engine.execute(
-#     'SELECT player_id, COUNT(goals) AS "goals" \
-#     FROM game_skater_stats \
-#     GROUP BY player_id \
-#     ORDER BY goals DESC \
-#     LIMIT 100 \
-#     ;').fetchall()
-
-#     goals = {}
-
-#     for each in number_goals:
-#         goals[each[0]] = each[1]
-
-    # f_dict = {
-    #     "games" : games_played
-    #     "goals" : goals 
-    #     "assists" : assists
-    # }
-
-#     return jsonify(f_dict)
->>>>>>> 7a31ad6357c313616c173d82bbba8546c9b38142
 
 if __name__ == '__main__':
     app.run(debug=True)
