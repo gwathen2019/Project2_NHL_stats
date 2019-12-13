@@ -40,15 +40,15 @@ def index():
 def geo_loc():
     lat_long = engine.execute('\
     select\
-	p.player_id,\
-	p.nationality,\
-	p.birthcity,\
-	w.city_ascii,\
-	w.iso3,\
-	w.lat,\
-	w.long\
-    from worldcities as w\
-    right join player_info as p on\
+        p.player_cnt,\
+        p.nationality,\
+        p.birthcity,\
+        w.city_ascii,\
+        w.iso3,\
+        w.lat,\
+        w.long\
+        from worldcities as w\
+    right join player_cnt as p on\
     p.birthcity=w.city_ascii and p.nationality=w.iso3;'
     ).fetchall()
 
