@@ -1,5 +1,17 @@
 // // REQUEST THE DATA
+// const url3 = "http://127.0.0.1:5000/bday_group1";
+// d3.json(url3).then(function(data) {
+//     console.log(data)
 
+// function find_in_object(data, datetime){
+
+//   return data.filter(function(obj) {
+//     return Object.values(datetime).every(function(c) {
+//       return obj[c] == bdays[c];
+//     });
+//   });
+
+// }
 const url = "http://127.0.0.1:5000/bday_group1";
 d3.json(url).then(function(data) {
     console.log(data)
@@ -11,15 +23,15 @@ d3.json(url).then(function(data) {
     stats = Object.entries(data).forEach(([key, value]) => {
       country = value[2]
       bday = value[1]
-      console.log(country)
-      console.log(bday)
+      // console.log(country)
+      // console.log(bday)
       ; 
     });
     // Grab values from the response json object to build the plots
     var months = ["Jan","Feb","Mar","Apr","May","June","July","August","September","October","November","December"] 
     var b_days_USA = [280,270,230,285,225,180,140,175,145,80,130,145]
-    var b_days_CAN = [280,270,230,285,225,180,140,175,145,80,130,145]
-    var b_days_CHE = [280,270,230,285,225,180,140,175,145,80,130,145]
+    // var b_days_CAN = [280,270,230,285,225,180,140,175,145,80,130,145]
+    // var b_days_CHE = [280,270,230,285,225,180,140,175,145,80,130,145]
     
     var trace1 = {
       type: "scatter",
@@ -45,7 +57,7 @@ d3.json(url).then(function(data) {
        }
      };
 
-    Plotly.Plot("plot", graph, layout);
+    Plotly.newPlot("plot", graph, layout);
 
   });
 

@@ -96,10 +96,185 @@ def longevity():
 
 @app.route("/USA")
 def manualUSA():
+#     USA = engine.execute("\
+#       with score_total as (\
+# 	select\
+# 	  b.player_id,\
+# 	  sum(e.goals) as tg,\
+# 	  sum(e.assists) as ta,\
+#       count(e.game_id) as gm\
+# 	 from\
+# 	  player_info b\
+# 	  inner join game_skater_stats e on (b.player_id = e.player_id)\
+# 	group by\
+# 	  b.player_id\
+#     )\
+#     SELECT\
+#   b.player_id, \
+#   b.birthdate, \
+#   b.nationality,\
+#   b.firstname,\
+#   b.lastname,\
+#   st.tg as total_goals,\
+#   st.ta as total_assists,\
+#   st.tg + st.ta as points,\
+#   st.gm as total_games\
+#  FROM\
+#   player_info b\
+#   left join score_total st on (st.player_id = b.player_id)\
+#   WHERE nationality = 'USA'\
+#  ORDER BY points DESC\
+#  ;\
+#     ").fetchall()
+#     Jan1 = {}
+
+#     for each in USA:
+#         Jan1[each[1]] = each[1]
+    
+    
+#     Jan_bday = {}
+#     for each in Jan1:
+#         Jan_bday[each[2]] = each[2]
+    
+#     for row in Jan1:
+#         d = dict(row.items())
+#         d['Tags'] = d['Keywords']
+
+#     return jsonify(str(d))
+
+    Jan = engine.execute("SELECT COUNT(birthdate) \
+        FROM player_info\
+        WHERE nationality = 'USA' AND \
+        EXTRACT\
+        (MONTH FROM birthdate)\
+	    BETWEEN 01 AND 01 \
+        GROUP BY birthdate \
+        ;").fetchall()
+    
+    uJan = len(Jan)
+
+    Feb = engine.execute("SELECT COUNT(birthdate) \
+        FROM player_info\
+        WHERE nationality = 'USA' AND\
+        EXTRACT(MONTH FROM birthdate)\
+	    BETWEEN 02 AND 02 \
+        GROUP BY birthdate \
+        ;").fetchall()
+    
+    uFeb = len(Feb)
+
+    Mar = engine.execute("SELECT COUNT(birthdate) \
+        FROM player_info\
+        WHERE nationality = 'USA' AND \
+        EXTRACT(MONTH FROM birthdate)\
+	    BETWEEN 03 AND 03 \
+        GROUP BY birthdate \
+        ;").fetchall()
+    
+    uMar = len(Mar)
+
+
+    Apr = engine.execute("SELECT COUNT(birthdate) \
+        FROM player_info\
+        WHERE nationality = 'USA' AND\
+        EXTRACT(MONTH FROM birthdate) \
+	    BETWEEN 04 AND 04 \
+        GROUP BY birthdate \
+        ;").fetchall()
+    
+    uApr = len(Apr)
+
+    May = engine.execute("SELECT COUNT(birthdate) \
+        FROM player_info\
+        WHERE nationality = 'USA' AND\
+        EXTRACT(MONTH FROM birthdate)\
+	    BETWEEN 05 AND 05 \
+        GROUP BY birthdate \
+        ORDER BY birthdate DESC\
+        ;").fetchall()
+    
+    uMay = len(May)
+
+    June = engine.execute("SELECT COUNT(birthdate) \
+        FROM player_info\
+        WHERE nationality = 'USA' AND\
+        EXTRACT(MONTH FROM birthdate)\
+	    BETWEEN 06 AND 06 \
+        GROUP BY birthdate \
+        ORDER BY birthdate DESC\
+        ;").fetchall()
+    
+    uJune = len(June)
+
+    July = engine.execute("SELECT COUNT(birthdate) \
+        FROM player_info\
+        WHERE nationality = 'USA' AND\
+        EXTRACT(MONTH FROM birthdate)\
+	    BETWEEN 07 AND 07 \
+        GROUP BY birthdate \
+        ORDER BY birthdate DESC\
+        ;").fetchall()
+    
+    uJuly = len(July)
+
+    Aug = engine.execute("SELECT COUNT(birthdate) \
+        FROM player_info\
+        WHERE nationality = 'USA' AND\
+        EXTRACT(MONTH FROM birthdate)\
+	    BETWEEN 08 AND 08 \
+        GROUP BY birthdate \
+        ORDER BY birthdate DESC\
+        ;").fetchall()
+    
+    uAug = len(Aug)
+
+    Sept = engine.execute("SELECT COUNT(birthdate) \
+        FROM player_info\
+        WHERE nationality = 'USA' AND\
+        EXTRACT(MONTH FROM birthdate)\
+	    BETWEEN 09 AND 09 \
+        GROUP BY birthdate \
+        ORDER BY birthdate DESC\
+        ;").fetchall()
+    
+    uSept = len(Sept)
+
+    Oct = engine.execute("SELECT COUNT(birthdate) \
+        FROM player_info\
+        WHERE nationality = 'USA' AND\
+        EXTRACT(MONTH FROM birthdate)\
+	    BETWEEN 10 AND 10 \
+        GROUP BY birthdate \
+        ORDER BY birthdate DESC\
+        ;").fetchall()
+    
+    uOct = len(Oct)
+
+    Nov = engine.execute("SELECT COUNT(birthdate) \
+        FROM player_info\
+        WHERE nationality = 'USA' AND\
+        EXTRACT(MONTH FROM birthdate)\
+	    BETWEEN 11 AND 11 \
+        GROUP BY birthdate \
+        ORDER BY birthdate DESC\
+        ;").fetchall()
+    
+    uNov = len(Nov)
+
+    Dec = engine.execute("SELECT COUNT(birthdate) \
+        FROM player_info\
+        WHERE nationality = 'USA' AND\
+        EXTRACT(MONTH FROM birthdate)\
+	    BETWEEN 12 AND 12 \
+        GROUP BY birthdate \
+        ORDER BY birthdate DESC\
+        ;").fetchall()
+    
+    uDec = len(Dec)
 
     plot_trace = {
         "x": ["Jan","Feb","Mar","Apr","May","June","July","August","September","October","November","December"],
-        "y": [280,270,230,285,225,180,140,175,145,80,130,145],
+        "y": [uJan, uFeb, uMar, uApr, uMay, uJune, uJuly, uAug, uSept, uOct, uNov, uDec],
         "type": "scatter"
     }
 
