@@ -9,6 +9,7 @@ from collections import OrderedDict
 from flask import Flask, jsonify, Response, render_template
 import psycopg2
 
+
 #################################################
 # Database Setup
 #################################################
@@ -29,11 +30,11 @@ app = Flask(__name__)
 # Flask Routes
 #################################################
 
-@app.route("/")
+@app.route("/clay")
 def index():
     """Return the homepage."""
     
-    return render_template("index_NHL.html")
+    return render_template("index_BdayEffect.html")
 
 @app.route("/bday_group1")
 

@@ -69,7 +69,7 @@ d3.json(url2).then(function(data) {
     console.log(Jan_March)
 });
 
-var defaultURL = "http://127.0.0.1:5000/";
+var defaultURL = "http://127.0.0.1:5000/clay";
 d3.json(defaultURL).then(function(data) {
   var data = [data];
   var layout = { margin: { t: 30, b: 100 } };
