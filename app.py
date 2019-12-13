@@ -12,7 +12,7 @@ import psycopg2
 #################################################
 # Database Setup
 #################################################
-engine = create_engine('postgres+psycopg2://postgres:Claymol1324@localhost:5432/Birthday_Effect')
+engine = create_engine('postgres+psycopg2://postgres:Ursus2000@localhost:5432/Project2_NHL_Stats')
 
 # reflect an existing database into a new model
 Base = automap_base()
