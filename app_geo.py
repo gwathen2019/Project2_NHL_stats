@@ -35,64 +35,30 @@ def index():
     
     return render_template("index_NHL.html")
 
-@app.route("/bday_group1")
+@app.route("/player_geo")
 
-def group1():
-    bdays = engine.execute('\
-with score_total as (\
-	select\
-	  b.player_id,\
-	  sum(e.goals) as tg,\
-	  sum(e.assists) as ta,\
-      count(e.game_id) as gm\
-	 from\
-	  player_info b\
-	  inner join game_skater_stats e on (b.player_id = e.player_id)\
-	group by\
-	  b.player_id\
-)\
-SELECT\
-  b.player_id, \
-  b.birthdate, \
-  b.nationality,\
-  b.firstname,\
-  b.lastname,\
-  st.tg as total_goals,\
-  st.ta as total_assists,\
-  st.tg + st.ta as points,\
-  st.gm as total_games\
- FROM\
-  player_info b\
-  left join score_total st on (st.player_id = b.player_id)\
- WHERE EXTRACT(MONTH FROM birthdate)\
- BETWEEN 01 AND 03\
- ORDER BY points DESC\
- ;\
-    ').fetchall()
-    
-    group_1 = {}
-    
-    for each in bdays:
-        group_1[each[0]] = each[:]
-     
-    return jsonify(group_1)
+def geo_loc():
+    lat_long = engine.execute('\
+    select\
+	p.player_id,\
+	p.nationality,\
+	p.birthcity,\
+	w.city_ascii,\
+	w.iso3,\
+	w.lat,\
+	w.long\
+    from worldcities as w\
+    right join player_info as p on\
+    p.birthcity=w.city_ascii and p.nationality=w.iso3;'
+    ).fetchall()
 
-@app.route("/games_played")
-def longevity():
-
-    number_games = engine.execute(
-    'SELECT player_id, COUNT(game_id) AS "games_played" \
-        FROM game_skater_stats \
-        GROUP BY player_id \
-        ORDER BY games_played  \
-        ;').fetchall()
     
-    games_played = {}
+    location = {}
     
-    for each in number_games:
-        games_played[each[0]] = each[1]
+    for each in lat_long:
+        location[each[0]] = each[:]
 
-    return jsonify(games_played)
+    return jsonify(location)
 
 #     number_assists = engine.execute(
 #     'SELECT player_id, COUNT(assists) AS "assists" \
