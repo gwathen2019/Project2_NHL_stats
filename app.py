@@ -283,10 +283,6 @@ def manualUSA():
 @app.route("/CAN")
 def manualCAN():
 
-<<<<<<< HEAD
-    
-=======
->>>>>>> clay2
     Jan = engine.execute("SELECT COUNT(birthdate) \
         FROM player_info\
         WHERE nationality = 'CAN' AND \
@@ -425,22 +421,13 @@ def manualCAN():
 
     return jsonify(plot_trace)
 
-<<<<<<< HEAD
 @app.route("/FIN")
-=======
-@app.route("/CHE")
->>>>>>> clay2
 def manualFIN():
     
     Jan = engine.execute("SELECT birthdate, firstname, lastname, nationality FROM player_info\
-    WHERE \
-	(\
+    WHERE(\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
-<<<<<<< HEAD
     OR nationality = 'CZE' OR nationality = 'SVN')\
-=======
-    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
->>>>>>> clay2
     AND \
 	EXTRACT(MONTH FROM birthdate)\
 	BETWEEN 01 AND 01\
@@ -452,17 +439,10 @@ def manualFIN():
     WHERE \
 	(\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
-<<<<<<< HEAD
     OR nationality = 'CZE' OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
 	BETWEEN 02 AND 02\
-=======
-    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
-    AND \
-	EXTRACT(MONTH FROM birthdate)\
-	BETWEEN 01 AND 01\
->>>>>>> clay2
     ;").fetchall()
     
     uFeb = len(Feb)
@@ -471,17 +451,10 @@ def manualFIN():
     WHERE \
 	(\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
-<<<<<<< HEAD
     OR nationality = OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
 	BETWEEN 03 AND 03\
-=======
-    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
-    AND \
-	EXTRACT(MONTH FROM birthdate)\
-	BETWEEN 01 AND 01\
->>>>>>> clay2
     ;").fetchall()
     
     uMar = len(Mar)
@@ -494,16 +467,11 @@ def manualFIN():
     OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
-<<<<<<< HEAD
 	BETWEEN 04 AND 04\
-=======
-	BETWEEN 01 AND 01\
->>>>>>> clay2
     ;").fetchall()
     
     uApr = len(Apr)
 
-<<<<<<< HEAD
     May = engine.execute("SELECT birthdate, firstname, lastname, nationality FROM player_info\
     WHERE \
 	(\
@@ -573,6 +541,7 @@ def manualFIN():
 	EXTRACT(MONTH FROM birthdate)\
 	BETWEEN 10 AND 10\
     ;").fetchall()
+   
     uOct = len(Oct)
 
     Nov = engine.execute("SELECT birthdate, firstname, lastname, nationality FROM player_info\
@@ -596,93 +565,6 @@ def manualFIN():
 	EXTRACT(MONTH FROM birthdate)\
 	BETWEEN 12 AND 12\
     ;").fetchall()
-=======
-    May = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 05 AND 05 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
-    
-    uMay = len(May)
-
-    June = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 06 AND 06 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
-    
-    uJune = len(June)
-
-    July = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 07 AND 07 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
-    
-    uJuly = len(July)
-
-    Aug = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 08 AND 08 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
-    
-    uAug = len(Aug)
-
-    Sept = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 09 AND 09 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
-    
-    uSept = len(Sept)
-
-    Oct = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 10 AND 10 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
-    
-    uOct = len(Oct)
-
-    Nov = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 11 AND 11 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
-    
-    uNov = len(Nov)
-
-    Dec = engine.execute("SELECT COUNT(birthdate) \
-        FROM player_info\
-        WHERE nationality = 'FIN' AND\
-        EXTRACT(MONTH FROM birthdate)\
-	    BETWEEN 12 AND 12 \
-        GROUP BY birthdate \
-        ORDER BY birthdate DESC\
-        ;").fetchall()
->>>>>>> clay2
     
     uDec = len(Dec)
 
@@ -691,6 +573,8 @@ def manualFIN():
         "y": [uJan, uFeb, uMar, uApr, uMay, uJune, uJuly, uAug, uSept, uOct, uNov, uDec],
         "type": "scatter"
     }
+
+    return jsonify(plot_trace)
 
 
 if __name__ == '__main__':
