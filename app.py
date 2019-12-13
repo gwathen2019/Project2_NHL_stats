@@ -12,7 +12,7 @@ import psycopg2
 #################################################
 # Database Setup
 #################################################
-engine = create_engine('postgres+psycopg2://postgres:Claymol1324@localhost:5432/Birthday_Effect')
+engine = create_engine('postgres+psycopg2://postgres:Ursus2000@localhost:5432/Project2_NHL_Stats')
 
 # reflect an existing database into a new model
 Base = automap_base()
@@ -94,6 +94,7 @@ def longevity():
 
     return jsonify(games_played)
 
+<<<<<<< HEAD
 @app.route("/USA")
 def manualUSA():
 #     USA = engine.execute("\
@@ -569,6 +570,40 @@ def manualFIN():
     }
 
     return jsonify(plot_trace)
+=======
+#     number_assists = engine.execute(
+#     'SELECT player_id, COUNT(assists) AS "assists" \
+#     FROM game_skater_stats \
+#     GROUP BY player_id \
+#     ORDER BY assists DESC \
+#     LIMIT 100 \
+#     ;').fetchall()
+#     assists = {}
+
+#     for each in number_assists:
+#         assists[each[0]] = each[1]
+
+#     number_goals = engine.execute(
+#     'SELECT player_id, COUNT(goals) AS "goals" \
+#     FROM game_skater_stats \
+#     GROUP BY player_id \
+#     ORDER BY goals DESC \
+#     LIMIT 100 \
+#     ;').fetchall()
+
+#     goals = {}
+
+#     for each in number_goals:
+#         goals[each[0]] = each[1]
+
+    # f_dict = {
+    #     "games" : games_played
+    #     "goals" : goals 
+    #     "assists" : assists
+    # }
+
+#     return jsonify(f_dict)
+>>>>>>> 7a31ad6357c313616c173d82bbba8546c9b38142
 
 if __name__ == '__main__':
     app.run(debug=True)
