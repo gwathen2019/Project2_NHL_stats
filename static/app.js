@@ -30,8 +30,8 @@ d3.json(url).then(function(data) {
     // Grab values from the response json object to build the plots
     var months = ["Jan","Feb","Mar","Apr","May","June","July","August","September","October","November","December"] 
     var b_days_USA = [280,270,230,285,225,180,140,175,145,80,130,145]
-    // var b_days_CAN = [280,270,230,285,225,180,140,175,145,80,130,145]
-    // var b_days_CHE = [280,270,230,285,225,180,140,175,145,80,130,145]
+    var b_days_CAN = [280,270,230,285,225,180,140,175,145,80,130,145]
+    var b_days_CHE = [280,270,230,285,225,180,140,175,145,80,130,145]
     
     var trace1 = {
       type: "scatter",
@@ -46,7 +46,7 @@ d3.json(url).then(function(data) {
     var graph = [trace1];
 
      var layout = {
-       title: `brithday_effect_USA`,
+       title: `birthday_effect`,
        xaxis: {
          autorange: true,
          type: "months"
@@ -60,6 +60,37 @@ d3.json(url).then(function(data) {
     Plotly.newPlot("plot", graph, layout);
 
   });
+  ////histogram
+    var usabirthdays = [280,270,230,285,225,180,140,175,145,80,130,145];
+    var usagoals = [479,468,462,513,479,457,463,475,471,524,463,481,482,494,469,471];
+  
+    var trace1 = {
+      x: usabirthdays,
+      type: "histogram",
+      opacity: 0.5,
+      marker: {
+        color: 'green',
+      },
+    };
+    var trace2 = {
+      x: usagoals,
+      type: "histogram",
+      opacity: 0.6,
+      marker: {
+        color: 'red',
+      },
+   };
+
+    var data = [trace1, trace2];
+    var layout = {
+      barmode: "overlay",
+      title: "Birthdays v. Goals",
+      xaxis: {title: "Months"},
+      yaxis: {title: "Goals"}
+    };
+
+    Plotly.newPlot("MyDiv", data, layout);
+//////////
 
 const url2 = "http://127.0.0.1:5000/games_played";
 d3.json(url2).then(function(data) {
@@ -89,3 +120,4 @@ function getData(route) {
   updatePlotly(data);
   });
 }
+  

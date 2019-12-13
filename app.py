@@ -12,7 +12,7 @@ import psycopg2
 #################################################
 # Database Setup
 #################################################
-engine = create_engine('postgres+psycopg2://postgres:Ursus2000@localhost:5432/Project2_NHL_Stats')
+engine = create_engine('postgres+psycopg2://postgres:bellerose@localhost:5432/NHL')
 
 # reflect an existing database into a new model
 Base = automap_base()
