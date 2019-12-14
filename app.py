@@ -421,11 +421,11 @@ def manualCAN():
 
     return jsonify(plot_trace)
 
-@app.route("/FIN")
+@app.route("/CHE")
 def manualFIN():
     
     Jan = engine.execute("SELECT birthdate, firstname, lastname, nationality FROM player_info\
-    WHERE(\
+    WHERE (\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
     OR nationality = 'CZE' OR nationality = 'SVN')\
     AND \
@@ -451,7 +451,7 @@ def manualFIN():
     WHERE \
 	(\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
-    OR nationality = OR nationality = 'SVN')\
+    OR nationality = 'CZE' OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
 	BETWEEN 03 AND 03\
@@ -464,7 +464,7 @@ def manualFIN():
     WHERE \
 	(\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
-    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    OR nationality = 'CZE' OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
 	BETWEEN 04 AND 04\
@@ -488,7 +488,7 @@ def manualFIN():
     WHERE \
 	(\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
-    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    OR nationality = 'CZE' OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
 	BETWEEN 06 AND 06\
@@ -500,7 +500,7 @@ def manualFIN():
     WHERE \
 	(\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
-    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    OR nationality = 'CZE' OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
 	BETWEEN 07 AND 07\
@@ -512,7 +512,7 @@ def manualFIN():
     WHERE \
 	(\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
-    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    OR nationality = 'CZE' OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
 	BETWEEN 08 AND 08\
@@ -524,7 +524,7 @@ def manualFIN():
     WHERE \
 	(\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
-    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    OR nationality = 'CZE' OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
 	BETWEEN 09 AND 09\
@@ -536,19 +536,19 @@ def manualFIN():
     WHERE \
 	(\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
-    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    OR nationality = 'CZE' OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
 	BETWEEN 10 AND 10\
     ;").fetchall()
-   
+    
     uOct = len(Oct)
 
     Nov = engine.execute("SELECT birthdate, firstname, lastname, nationality FROM player_info\
     WHERE \
 	(\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
-    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    OR nationality = 'CZE' OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
 	BETWEEN 11 AND 11\
@@ -560,13 +560,14 @@ def manualFIN():
     WHERE \
 	(\
 	nationality = 'FIN' OR nationality = 'CHE' OR nationality = 'SWE' OR nationality = 'RUS' OR nationality = 'SVK'OR nationality = 'DEU'\
-    OR nationality = 'CZE'OR nationality = 'SVK' OR nationality = 'SVN')\
+    OR nationality = 'CZE' OR nationality = 'SVN')\
     AND \
 	EXTRACT(MONTH FROM birthdate)\
 	BETWEEN 12 AND 12\
     ;").fetchall()
     
     uDec = len(Dec)
+
 
     plot_trace = {
         "x": ["Jan","Feb","Mar","Apr","May","June","July","August","September","October","November","December"],
