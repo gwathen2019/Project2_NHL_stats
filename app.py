@@ -30,11 +30,11 @@ app = Flask(__name__)
 # Flask Routes
 #################################################
 
-@app.route("/clay")
+@app.route("/")
 def index():
     """Return the homepage."""
     
-    return render_template("index_BdayEffect.html")
+    return render_template("index_NHL.html")
 
 @app.route("/bday_group1")
 
@@ -65,16 +65,24 @@ SELECT\
  FROM\
   player_info b\
   left join score_total st on (st.player_id = b.player_id)\
- WHERE EXTRACT(MONTH FROM birthdate)\
- BETWEEN 01 AND 03\
- ORDER BY points DESC\
  ;\
     ').fetchall()
     
     group_1 = {}
     
     for each in bdays:
-        group_1[each[0]] = each[:]
+        group_1[each[0]] = {
+            "birthDate": each[1],
+            "nationality": each[2],
+            "firstName": each[3],
+            "lastName": each[4],
+            "totalGoals": each[5],
+            "totalAssists": each[6],
+            "totalPoints": each[7],
+            "totalGames": each[8]
+        }
+        #group_1[each[0]] = each[:]
+    
      
     return jsonify(group_1)
 
@@ -95,53 +103,47 @@ def longevity():
 
     return jsonify(games_played)
 
+@app.route("/goals")
+def scoring():
+
+    goals = engine.execute("\
+    with score_total as (\
+	select \
+	  b.player_id,\
+	  sum(e.goals) as tg \
+	from \
+	  player_info b\
+	  inner join game_skater_stats e on (b.player_id = e.player_id)\
+	group by \
+	  b.player_id\
+    )\
+    SELECT\
+    date_part('month', b.birthdate) as birthmonth, \
+    st.tg as total_goals\
+    FROM\
+    player_info b\
+    left join score_total st on (st.player_id = b.player_id)\
+    ORDER BY birthmonth\
+    ;" ).fetchall()
+    
+    gls = []
+    gls2 = []
+    
+    for x in goals:
+        key = x[0]
+        value = x[1]
+        gls.append(key)
+        gls2.append(value)
+    
+    goals = {
+        "birthmonth":gls,
+        "goals":gls2
+    }
+   
+    return jsonify(goals)
+
 @app.route("/USA")
 def manualUSA():
-#     USA = engine.execute("\
-#       with score_total as (\
-# 	select\
-# 	  b.player_id,\
-# 	  sum(e.goals) as tg,\
-# 	  sum(e.assists) as ta,\
-#       count(e.game_id) as gm\
-# 	 from\
-# 	  player_info b\
-# 	  inner join game_skater_stats e on (b.player_id = e.player_id)\
-# 	group by\
-# 	  b.player_id\
-#     )\
-#     SELECT\
-#   b.player_id, \
-#   b.birthdate, \
-#   b.nationality,\
-#   b.firstname,\
-#   b.lastname,\
-#   st.tg as total_goals,\
-#   st.ta as total_assists,\
-#   st.tg + st.ta as points,\
-#   st.gm as total_games\
-#  FROM\
-#   player_info b\
-#   left join score_total st on (st.player_id = b.player_id)\
-#   WHERE nationality = 'USA'\
-#  ORDER BY points DESC\
-#  ;\
-#     ").fetchall()
-#     Jan1 = {}
-
-#     for each in USA:
-#         Jan1[each[1]] = each[1]
-    
-    
-#     Jan_bday = {}
-#     for each in Jan1:
-#         Jan_bday[each[2]] = each[2]
-    
-#     for row in Jan1:
-#         d = dict(row.items())
-#         d['Tags'] = d['Keywords']
-
-#     return jsonify(str(d))
 
     Jan = engine.execute("SELECT COUNT(birthdate) \
         FROM player_info\
