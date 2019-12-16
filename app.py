@@ -39,7 +39,7 @@ def index():
 @app.route("/bday_group1")
 
 def group1():
-    bdays = engine.execute('\
+    bdays = engine.execute("\
 with score_total as (\
 	select\
 	  b.player_id,\
@@ -54,7 +54,7 @@ with score_total as (\
 )\
 SELECT\
   b.player_id, \
-  b.birthdate, \
+  date_part('month', birthdate) as birthmonth, \
   b.nationality,\
   b.firstname,\
   b.lastname,\
@@ -65,26 +65,70 @@ SELECT\
  FROM\
   player_info b\
   left join score_total st on (st.player_id = b.player_id)\
+  WHERE gm > 20 \
+  ORDER BY birthmonth\
  ;\
-    ').fetchall()
+    ").fetchall()
     
-    group_1 = {}
+    # group_1 = {}
     
-    for each in bdays:
-        group_1[each[0]] = {
-            "birthDate": each[1],
-            "nationality": each[2],
-            "firstName": each[3],
-            "lastName": each[4],
-            "totalGoals": each[5],
-            "totalAssists": each[6],
-            "totalPoints": each[7],
-            "totalGames": each[8]
-        }
-        #group_1[each[0]] = each[:]
+    # for each in bdays:
+    #     group_1[each[0]] = {
+    #         "birthDate": each[1],
+    #         "nationality": each[2],
+    #         "firstName": each[3],
+    #         "lastName": each[4],
+    #         "totalGoals": each[5],
+    #         "totalAssists": each[6],
+    #         "totalPoints": each[7],
+    #         "totalGames": each[8]
+    #     }
+    plyrid = []
+    bmonth= []
+    nation= []
+    first=[]
+    last=[]
+    tl_goals=[]
+    tl_assists=[]
+    tl_points=[]
+    tl_games=[]
+
+    for x in bdays:
+        pl_id = x[0]
+        month_born = x[1]
+        nationality = x[2]
+        firstname = x[3]
+        lastname = x[4]
+        goals = x[5]
+        assists=x[6]
+        points=x[7]
+        games=x[8]
+        plyrid.append(pl_id)
+        bmonth.append(month_born)
+        nation.append(nationality)
+        first.append(firstname)
+        last.append(lastname)
+        tl_goals.append(goals)
+        tl_assists.append(assists)
+        tl_points.append(points)
+        tl_games.append(games)
+
+
+    
+    big_fat_dict = {
+        "id" : plyrid,
+        "birth_month" : bmonth,
+        "nation" : nationality,
+        "first_name": first,
+        "last_name": last,
+        "goals" : tl_goals,
+        "assists" : tl_assists,
+        "points" : tl_points,
+        "games" : tl_games
+    }
     
      
-    return jsonify(group_1)
+    return jsonify(big_fat_dict)
 
 @app.route("/games_played")
 def longevity():

@@ -1,105 +1,101 @@
 // REQUEST THE DATA
-// const url3 = "http://127.0.0.1:5000/bday_group1";
-// d3.json(url3).then(function(data) {
-//     console.log(data)
-
-// function find_in_object(data, datetime){
-
-//   return data.filter(function(obj) {
-//     return Object.values(datetime).every(function(c) {
-//       return obj[c] == bdays[c];
-//     });
-//   });
+const url4 = "http://127.0.0.1:5000/bday_group1";
+d3.json(url4).then(function(data) {
+    // console.log(data)
+    var goals = Object.values(data['goals']['birth_month'])
+    console.log(goals);
+});
 
 const url3 = "http://127.0.0.1:5000/goals";
 d3.json(url3).then(function(data) {
   var goals_data = Object.values(data['goals']);
-  console.log(goals_data);
-  console.log(goals_data[0]);
+  // console.log(goals_data);
+  // console.log(goals_data[0]);
   
   var USA_goals = Object.values(data['goals']);
-  console.log(USA_goals);
+  // console.log(USA_goals);
   var CAN_goals = Object.values(data['goals']);
-  console.log(CAN_goals)
+  // console.log(CAN_goals)
   var ATL_goals = Object.values(data['goals']);
-  console.log(ATL_goals)
+  // console.log(ATL_goals)
+  var USA_players = Object.values(data['birthmonth']);
 
   var xx = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October','November', 'December']
 
-//  var trace1 = {
-//   x: xx,
-//   y: USA_goals,
-//   name: 'USA',
-//   autobinx: true, 
-//   histnorm: "count", 
-//   marker: {
-//     color: "rgba(255, 100, 102, 0.7)", 
-//      line: {
-//       color:  "rgba(255, 100, 102, 1)", 
-//       width: 1
-//     }
-//   },  
-//   opacity: 0.5, 
-//   type: "histogram", 
-//   // xbins: {
-//   //   end: 2.8, 
-//   //   size: 0.06, 
-//   //   start: .5
-//   // }
-// };
-// var trace2 = {
-//   x: xx,
-//   y: CAN_goals * 2, 
-//   autobinx: true, 
-//   marker: {
-//           color: "rgba(255, 200, 102, 0.7)",
-//            line: {
-//             color:  "rgba(100, 200, 102, 1)", 
-//             width: 1
-//     } 
-//        }, 
-//   name: "CANADA", 
-//   opacity: 0.75, 
-//   type: "histogram", 
-//   // xbins: { 
-//   //   end: 4, 
-//   //   size: 0.06, 
-//   //   start: -3.2
+ var trace1 = {
+  x: USA_players,
+  y: USA_goals,
+  name: 'USA',
+  autobinx: true, 
+  histnorm: "count", 
+  marker: {
+    color: "rgba(255, 100, 102, 0.7)", 
+     line: {
+      color:  "rgba(255, 100, 102, 1)", 
+      width: 1
+    }
+  },  
+  opacity: 0.5, 
+  type: "histogram", 
+  // xbins: {
+  //   end: 2.8, 
+  //   size: 0.06, 
+  //   start: .5
+  // }
+};
+var trace2 = {
+  x: USA_players,
+  y: CAN_goals, 
+  autobinx: true, 
+  marker: {
+          color: "rgba(255, 200, 102, 0.7)",
+           line: {
+            color:  "rgba(100, 200, 102, 1)", 
+            width: 1
+    } 
+       }, 
+  name: "CANADA", 
+  opacity: 0.75, 
+  type: "histogram", 
+  // xbins: { 
+  //   end: 4, 
+  //   size: 0.06, 
+  //   start: -3.2
 
-//   // }
-// };
-// var trace3 = {
-//   x: xx,
-//   y: ATL_goals - 34, 
-//   autobinx: true, 
-//   marker: {
-//           color: "rgba(100, 200, 102, 0.7)",
-//            line: {
-//             color:  "rgba(100, 200, 102, 1)", 
-//             width: 1
-//     } 
-//        }, 
-//   name: "Across the Atlantic", 
-//   opacity: 0.9, 
-//   type: "histogram", 
-//   // xbins: { 
-//   //   end: 5, 
-//   //   size: 0.06, 
-//   //   start: -2.2
+  // }
+};
+var trace3 = {
+  x: USA_players,
+  y: ATL_goals , 
+  autobinx: true, 
+  marker: {
+          color: "rgba(100, 200, 102, 0.7)",
+           line: {
+            color:  "rgba(100, 200, 102, 1)", 
+            width: 1
+    } 
+       }, 
+  name: "Across the Atlantic", 
+  opacity: 0.9, 
+  type: "histogram", 
+  // xbins: { 
+  //   end: 5, 
+  //   size: 0.06, 
+  //   start: -2.2
 
-//   // }
-// };
-// var data = [trace1, trace2, trace3];
-// var layout = {
-//   bargap: 0.05, 
-//   bargroupgap: 0.2, 
-//   barmode: "overlay", 
-//   title: "GOALS BY BIRTHMONTH AND COUNTRY", 
-//   xaxis: {title: "BIRTHMONTH"}, 
-//   yaxis: {title: "Count"}
-// };
-// Plotly.newPlot('histogram', data, layout);
-// });
+  // }
+};
+var data = [trace1, trace2, trace3];
+var layout = {
+  bargap: 0.05, 
+  bargroupgap: 0.2, 
+  barmode: "overlay", 
+  title: "GOALS BY BIRTHMONTH AND COUNTRY", 
+  xaxis: {title: "BIRTHMONTH"}, 
+  yaxis: {title: "Count"}
+};
+Plotly.newPlot('histogram', data, layout);
+});
 
 const url = "http://127.0.0.1:5000/games_played";
 d3.json(url).then(function(data) {
