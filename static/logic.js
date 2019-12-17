@@ -546,7 +546,7 @@ for (var i = 0; i < NHL_birthcity.length; i++) {
   if (NHL_birthcity[i].player_cnt > 30) {
     color = "yellow";
   }
-  else if (NHL_birthcity[i].player_cnt > 15) {
+  else if (NHL_birthcity[i].player_cnt > 20) {
     color = "blue";
   }
   else if (NHL_birthcity[i].player_cnt > 10) {
@@ -562,6 +562,6 @@ for (var i = 0; i < NHL_birthcity.length; i++) {
     color: "white",
     fillColor: color,
     // Adjust radius
-    radius: NHL_birthcity[i].player_cnt * 5000
-  }).bindPopup("<h1>" + NHL_birthcity[i].name + "</h1> <hr> <h3>Points: " + NHL_birthcity[i].player_cnt + "</h3>").addTo(myMap);
+    radius: NHL_birthcity[i].player_cnt * 4500
+  }).bindPopup("<h2>Birth City: " + NHL_birthcity[i].birthcity + "</h2> <hr> <h3>Players: " + NHL_birthcity[i].player_cnt + "</h3>").addTo(myMap);
 }
