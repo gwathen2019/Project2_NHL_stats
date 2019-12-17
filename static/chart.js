@@ -1,14 +1,37 @@
-const url = "http://127.0.0.1:5000/bday_group1";
-d3.json(url).then(function(data) {
+function BuildCharts() {
+	const url6 = "http://127.0.0.1:5000/CHE"
+	const url5 = "http://127.0.0.1:5000/bday_group1";
+	d3.json(url5).then(function(data) {
+		// console.log(data)
+		var b_months = Object.values(data['birth_month'])
+		var id = Object.values(data['id'])
+		var goals = Object.values(data['goals'])
+		console.log(goals)
+		var assists = Object.values(data['assists'])
+		var points = Object.values(data['points'])
+		var firstname = Object.values(data['first_name'])
+		var lastname = Object.values(data['last_name'])
+		var games_played = Object.values(data['games'])
+		var nationality = Object.values(data['nation'])
 
-            
+	d3.json(url6).then(function(data2) {
+		var eur_goals = Object.values(data2['europe_goals'])
+		console.log(eur_goals)
+	
+	
+		
+		
+	
+			// console.log(data.income)
+		  
+		var barChartData = {
             labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October','November', 'December'],
 			datasets: [{
-				label: 'USA',
+				label: 'goals',
 				// backgroundColor: window.chartColors.red,
 				stack: 'Stack 0',
 				data: [
-                   
+                   [goals]
                 ],
                 backgroundColor: [
                     'rgba(155, 199, 32, 0.2)'
@@ -21,11 +44,11 @@ d3.json(url).then(function(data) {
                 borderWidth: 1
             
 			}, {
-				label: 'CANADA',
+				label: 'assists',
 				// backgroundColor: window.chartColors.blue,
 				stack: 'Stack 1',
 				data: [
-					35,27,45,34,45,24,76,23,43,34,56,34 
+					[assists]
                 ],
                 backgroundColor: [
                     'rgba(105, 69, 192, 0.2)',
@@ -42,11 +65,11 @@ d3.json(url).then(function(data) {
                 ],
                 borderWidth: 1
 			}, {
-                label: 'ACROSS THE ATLANTIC',
+                label: 'games',
 				// backgroundColor: window.chartColors.green,
 				stack: 'Stack 2',
 				data: [
-					53,64,43,62,16,37,15,65,3,65,35,27
+					[games_played]
                 ],
                 backgroundColor: [
                     'rgba(225, 125, 115, 0.2)'
@@ -58,9 +81,8 @@ d3.json(url).then(function(data) {
                 ],
                 borderWidth: 1
 			}]
-
-        };
-    });
+		}
+        
 		window.onload = function() {
 			var ctx = document.getElementById('myChart').getContext('2d');
 			window.myBar = new Chart(ctx, {
@@ -96,4 +118,8 @@ d3.json(url).then(function(data) {
 			});
 			window.myBar.update();
 		});
-	
+	});
+   });
+};
+
+BuildCharts() ;
