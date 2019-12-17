@@ -61,35 +61,38 @@ d3.json(url).then(function(data) {
 
   });
   ////histogram
-    var usabirthdays = [280,270,230,285,225,180,140,175,145,80,130,145];
-    var usagoals = [479,468,462,513,479,457,463,475,471,524,463,481,482,494,469,471];
+  var data = [{
+    type: "sunburst",
+    ids: [
+      "January", "February", "March", "April", "May",
+      "June", "July", "August",
+      "September","October", "November",
+      "December", 
+    ],
+    labels: [
+      "January", "February", "March", "April", "May",
+      "June", "July", "August",
+      "September","October", "November",
+      "December", 
+    ],
+    parents: [
+      "", "", "", "North America", "North America", "North America", "Europe",
+      "Europe", "Europe","Australia", "Australia - Football", "Australia - Football",
+      "Australia - Football", "Australia - Football", "Australia - Rugby",
+      "Australia - Rugby"
+    ],
+    outsidetextfont: {size: 20, color: "#377eb8"},
+    // leaf: {opacity: 0.4},
+    marker: {line: {width: 2}},
+  }];
   
-    var trace1 = {
-      x: usabirthdays,
-      type: "histogram",
-      opacity: 0.5,
-      marker: {
-        color: 'green',
-      },
-    };
-    var trace2 = {
-      x: usagoals,
-      type: "histogram",
-      opacity: 0.6,
-      marker: {
-        color: 'red',
-      },
-   };
-
-    var data = [trace1, trace2];
-    var layout = {
-      barmode: "overlay",
-      title: "Birthdays v. Goals",
-      xaxis: {title: "Months"},
-      yaxis: {title: "Goals"}
-    };
-
-    Plotly.newPlot("MyDiv", data, layout);
+  var layout = {
+    margin: {l: 0, r: 0, b: 0, t:0},
+    sunburstcolorway:["#636efa","#ef553b","#00cc96"],
+  };
+  
+  
+  Plotly.newPlot('myDiv', data, layout);
 //////////
 
 const url2 = "http://127.0.0.1:5000/games_played";
