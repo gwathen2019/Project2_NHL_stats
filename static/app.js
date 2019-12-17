@@ -6,6 +6,8 @@ d3.json(url3).then(function(data) {
   // console.log(data)
   var b_months = Object.values(data['birth_month'])
   console.log(b_months)
+  var b_days = Object.values(data['bday'])
+  console.log(b_days)
   var id = Object.values(data['id'])
   var goals = Object.values(data['goals'])
   console.log(goals)
@@ -16,81 +18,67 @@ d3.json(url3).then(function(data) {
   var lastname = Object.values(data['last_name'])
   var games_played = Object.values(data['games'])
   var nationality = Object.values(data['nation'])
+ 
+  
+  // var trace1 = {
+  //   x: b_days,
+  //   y: games_played,
+  //   // mode: 'line',
+  //   opacity: .5,
+  //   type: 'bar',
+  //   name: 'goals',
+  //   text: firstname,
+  //   marker: { size: 8 }
+  // };
+  
+  var trace2 = {
+    x: b_days,
+    y: games_played,
+    mode: 'markers',
+    opacity : .5,
+    type: 'bar',
+    name: 'games played',
+    text: lastname,
+    marker: { color : 'Black',
+      size: 7,
+      line: {
+        color: 'MediumPurple',
+        width: 1
+      }
+      }
+  };
+  
+  var trace3 = {
+    x: b_days,
+    y: points,
+    mode: 'markers',
+    opacity : .9,
+    type: 'scatter',
+    name: 'points',
+    text: firstname,
+    marker: { color : 'LightSkyBlue',
+      size: 12,
+      line: {
+        color: 'MediumPurple',
+        width: 1
+      }
+      }
+  };
+  var data = [ trace2, trace3 ];
+  
+  var layout = {
+    xaxis: {
+      range: [ -20, 135 ]
 
-  var xx = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October','November', 'December']
+    },
+    yaxis: {
+      range: [0, 650],
+      title: 'Goals + Assists'
+    },
+    title:'Top Scoring Skaters by Birthday'
+  };
+  
 
- var trace1 = {
-  x: b_months,
-  y: goals,
-  name: 'Goals',
-  autobinx: true, 
-  histnorm: "count", 
-  marker: {
-    color: "rgba(255, 100, 102, 0.7)", 
-     line: {
-      color:  "rgba(255, 100, 102, 1)", 
-      width: 1
-    }
-  },  
-  opacity: 0.5, 
-  type: "bar", 
-  xbins: {
-    end: 2.8, 
-    size: 0.06, 
-    start: .5
-  }
-};
-var trace2 = {
-  x: b_months,
-  y: assists, 
-  autobinx: true, 
-  marker: {
-          color: "rgba(155, 200, 222, 0.7)",
-           line: {
-            color:  "rgba(100, 150, 102, 1)", 
-            width: 1
-    } 
-       }, 
-  name: "assists", 
-  opacity: 0.75, 
-  type: "bar", 
-  xbins: { 
-    end: 4, 
-    size: 0.06, 
-    start: -3.2
-
-  }
-};
-var trace3 = {
-  x: b_months,
-  y: games_played , 
-  autobinx: true, 
-  marker: {
-          color: "rgba(225, 170, 255, 0.7)",
-           line: {
-            color:  "rgba(215, 200, 102, 1)", 
-            width: 1
-    } 
-       }, 
-  name: "games_played", 
-  opacity: 0.9, 
-  type: "bar", 
-  xbins: { 
-    end: 5, 
-    size: 0.06, 
-    start: -2.2
-
-  }
-};
-var data = [trace1, trace2, trace3];
-var layout = {
-  bargap: 0.05, 
-  bargroupgap: 0.2, 
-  barmode: "overlay", 
-  title: "GOALS BY BIRTHMONTH AND COUNTRY", 
-  xaxis: {title: "BIRTHMONTH"}, 
-  yaxis: {title: "Values"}
-};
 Plotly.newPlot('histogram', data, layout);
 });
 
@@ -113,10 +101,12 @@ Plotly.newPlot('histogram', data, layout);
        xaxis: {
          autorange: true,
          type: "months"
+        
        },
        yaxis: {
          autorange: true,
-         type: "linear"
+         type: "linear",
+         title: "# players in NHL"
        }
      };
 
@@ -143,3 +133,4 @@ function getData(route) {
   
  });
 }
+

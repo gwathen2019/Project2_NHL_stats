@@ -7,13 +7,13 @@ from sqlalchemy import create_engine, func
 from collections import OrderedDict
 from flask import Flask, jsonify, Response, render_template
 import psycopg2
-import json
+from datetime import date, timedelta
 
 
 #################################################
 # Database Setup
 #################################################
-engine = create_engine('postgres+psycopg2://postgres:postgres@localhost:5432/NHL Stats')
+engine = create_engine('postgres+psycopg2://postgres:Ursus2000@localhost:5432/Project2_NHL_Stats')
 
 # reflect an existing database into a new model
 Base = automap_base()
@@ -55,6 +55,7 @@ with score_total as (\
 SELECT\
   b.player_id, \
   date_part('month', birthdate) as birthmonth, \
+  b.birthdate,\
   b.nationality,\
   b.firstname,\
   b.lastname,\
@@ -65,13 +66,15 @@ SELECT\
  FROM\
   player_info b\
   left join score_total st on (st.player_id = b.player_id)\
-  WHERE gm > 20 \
+  WHERE tg > 95 \
   ORDER BY birthmonth\
  ;\
     ").fetchall()
-    
+
+
     plyrid = []
     bmonth= []
+    birthday = []
     nation= []
     first=[]
     last=[]
@@ -83,15 +86,17 @@ SELECT\
     for x in bdays:
         pl_id = x[0]
         month_born = x[1]
-        nationality = x[2]
-        firstname = x[3]
-        lastname = x[4]
-        goals = x[5]
-        assists=x[6]
-        points=x[7]
-        games=x[8]
+        bday = x[2]
+        nationality = x[3]
+        firstname = x[4]
+        lastname = x[5]
+        goals = x[6]
+        assists=x[7]
+        points=x[8]
+        games=x[9]
         plyrid.append(pl_id)
         bmonth.append(month_born)
+        birthday.append(bday)
         nation.append(nationality)
         first.append(firstname)
         last.append(lastname)
@@ -100,9 +105,11 @@ SELECT\
         tl_points.append(points)
         tl_games.append(games)
 
+        # list(datetime_range(start=datetime(1967, 1, 1), end=datetime(1999, 12, 31)))
     data = {
         "id" : plyrid,
         "birth_month" : bmonth,
+        "bday" : birthday,
         "nation" : nationality,
         "first_name": first,
         "last_name": last,
@@ -110,72 +117,12 @@ SELECT\
         "assists" : tl_assists,
         "points" : tl_points,
         "games" : tl_games
+       
     }
     
 
     return jsonify(data)
      
-    # return jsonify(big_fat_dict)
-
-@app.route("/games_played")
-def longevity():
-
-    number_games = engine.execute(
-    'SELECT player_id, COUNT(game_id) AS "games_played" \
-        FROM game_skater_stats \
-        GROUP BY player_id \
-        ORDER BY games_played  \
-        ;').fetchall()
-    
-    games_played = {}
-    
-    for each in number_games:
-        games_played[each[0]] = each[1]
-
-    return jsonify(games_played)
-
-@app.route("/goals")
-def scoring():
-
-    goals = engine.execute("\
-    with score_total as (\
-	select \
-	  b.player_id,\
-	  sum(e.goals) as tg,\
-      count(e.game_id) as gm \
-	from \
-	  player_info b\
-	  inner join game_skater_stats e on (b.player_id = e.player_id)\
-	group by \
-	  b.player_id\
-    )\
-    SELECT\
-    date_part('month', b.birthdate) as birthmonth, \
-    st.tg as total_goals,\
-    st.gm as total_games\
-    FROM\
-    player_info b\
-    left join score_total st on (st.player_id = b.player_id)\
-    WHERE gm > 20\
-    ORDER BY birthmonth\
-    ;" ).fetchall()
-    
-    gls = []
-    gls2 = []
-    
-    for x in goals:
-        key = x[0]
-        value = x[1]
-        gls.append(key)
-        gls2.append(value)
-    
-    goals = {
-        "birthmonth":gls,
-        "goals":gls2
-    }
-   
-    return jsonify(goals)
-
 @app.route("/USA")
 def manualUSA():
 
@@ -292,10 +239,8 @@ def manualCAN():
     Dec = len([i for i in months if 11 < i < 13])
     
 
-
-
     plot_trace = {
-        "x": ["Januar","February","March","April","May","June","July","August","September","October","November","December"],
+        "x": ["Jan","Feb","Mar","Apr","May","June","July","August","September","October","November","December"],
         "y": [Jan, Feb, Mar, Apr, May, June, July, Aug, Sept, Oct, Nov, Dec],
         "type": "scatter"
     }
@@ -357,13 +302,18 @@ def manualFIN():
     Nov = len([i for i in months if 10< i < 12])
     Dec = len([i for i in months if 11 < i < 13])
     
-
-
+    goals = []
+    for goals in goals:
+        score = x[7]
+        goals.append(score)
+    
+    europe_goals = sum(goals)
 
     plot_trace = {
-        "x": ["January","February","March","April","May","June","July","August","September","October","November","December"],
+        "x": ["Jan","Feb","Mar","Apr","May","June","July","August","September","October","November","December"],
         "y": [Jan, Feb, Mar, Apr, May, June, July, Aug, Sept, Oct, Nov, Dec],
-        "type": "scatter"
+        "type": "scatter",
+        "europe": europe_goals
     }
 
     return jsonify(plot_trace)
@@ -387,13 +337,10 @@ def player_table():
 	    b.player_id;"""
     sel = engine.execute(players_table_query).fetchall()
     # need to make into a dictionary, then use js to make table!
-    #def Convert(sel): 
-    #res_dct = {sel[i]: lst[i + 1] for i in range(0, len(lst), 2)} 
-    #return res_dct 
-
-
-    print("df is here")
-    return jsonify(df)
+    df = pd.read_sql(sel, con=engine)
+    #return jsonify(df)
+    html_table = df.to_html()
+    html_table
 
 if __name__ == '__main__':
     app.run(debug=True)
