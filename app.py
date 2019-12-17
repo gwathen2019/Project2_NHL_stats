@@ -370,25 +370,29 @@ def manualFIN():
 
 @app.route("/table")
 def player_table():
-    sel = engine.execute(
-        "SELECT \
-            b.player_id,\
-            b.lastName,\
-            b.firstName,\
-            b.nationality,\
-            b.birthCity,\
-            b.birthDate,\
-            SUM(e.goals) AS total_goals,\
-            SUM(e.assists) AS total_assists,\
-            COUNT(e.game_id) AS games_played\
-        FROM \
-	        player_info b\
-	    INNER JOIN game_skater_stats e ON (b.player_id = e.player_id)\
-        GROUP BY\
-	    b.player_id\
-        ;").fetchall()
+    players_table_query = """SELECT 
+            b.player_id,
+            b.lastName,
+            b.firstName,
+            b.nationality,
+            b.birthCity,
+            b.birthDate,
+            SUM(e.goals) AS total_goals,
+            SUM(e.assists) AS total_assists,
+            COUNT(e.game_id) AS games_played
+        FROM 
+	        player_info b
+	    INNER JOIN game_skater_stats e ON (b.player_id = e.player_id)
+        GROUP BY
+	    b.player_id;"""
+    sel = engine.execute(players_table_query).fetchall()
     # need to make into a dictionary, then use js to make table!
-    df = pd.read_sql(sel, con=engine)
+    #def Convert(sel): 
+    #res_dct = {sel[i]: lst[i + 1] for i in range(0, len(lst), 2)} 
+    #return res_dct 
+
+
+    print("df is here")
     return jsonify(df)
 
 if __name__ == '__main__':
