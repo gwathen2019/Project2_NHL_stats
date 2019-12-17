@@ -7,12 +7,13 @@ from sqlalchemy import create_engine, func
 from collections import OrderedDict
 from flask import Flask, jsonify, Response, render_template
 import psycopg2
+import json
 
 
 #################################################
 # Database Setup
 #################################################
-engine = create_engine('postgres+psycopg2://postgres:Ursus2000@localhost:5432/Project2_NHL_Stats')
+engine = create_engine('postgres+psycopg2://postgres:postgres@localhost:5432/NHL Stats')
 
 # reflect an existing database into a new model
 Base = automap_base()
@@ -140,7 +141,7 @@ def scoring():
     with score_total as (\
 	select \
 	  b.player_id,\
-	  sum(e.goals) as tg\
+	  sum(e.goals) as tg,\
       count(e.game_id) as gm \
 	from \
 	  player_info b\
@@ -150,8 +151,8 @@ def scoring():
     )\
     SELECT\
     date_part('month', b.birthdate) as birthmonth, \
-    st.tg as total_goals\
-    st.gm as total games\
+    st.tg as total_goals,\
+    st.gm as total_games\
     FROM\
     player_info b\
     left join score_total st on (st.player_id = b.player_id)\
@@ -229,7 +230,7 @@ def manualUSA():
     Dec = len([i for i in months if 11 < i < 13])
     
     plot_trace = {
-        "x": ["Jan","Feb","Mar","Apr","May","June","July","August","September","October","November","December"],
+        "x": ["January","February","March","April","May","June","July","August","September","October","November","December"],
         "y": [Jan, Feb, Mar, Apr, May, June, July, Aug, Sept, Oct, Nov, Dec],
         "type": "scatter"
     }
@@ -294,7 +295,7 @@ def manualCAN():
 
 
     plot_trace = {
-        "x": ["Jan","Feb","Mar","Apr","May","June","July","August","September","October","November","December"],
+        "x": ["Januar","February","March","April","May","June","July","August","September","October","November","December"],
         "y": [Jan, Feb, Mar, Apr, May, June, July, Aug, Sept, Oct, Nov, Dec],
         "type": "scatter"
     }
@@ -360,14 +361,35 @@ def manualFIN():
 
 
     plot_trace = {
-        "x": ["Jan","Feb","Mar","Apr","May","June","July","August","September","October","November","December"],
+        "x": ["January","February","March","April","May","June","July","August","September","October","November","December"],
         "y": [Jan, Feb, Mar, Apr, May, June, July, Aug, Sept, Oct, Nov, Dec],
         "type": "scatter"
     }
 
     return jsonify(plot_trace)
 
-
+@app.route("/table")
+def player_table():
+    sel = engine.execute(
+        "SELECT \
+            b.player_id,\
+            b.lastName,\
+            b.firstName,\
+            b.nationality,\
+            b.birthCity,\
+            b.birthDate,\
+            SUM(e.goals) AS total_goals,\
+            SUM(e.assists) AS total_assists,\
+            COUNT(e.game_id) AS games_played\
+        FROM \
+	        player_info b\
+	    INNER JOIN game_skater_stats e ON (b.player_id = e.player_id)\
+        GROUP BY\
+	    b.player_id\
+        ;").fetchall()
+    # need to make into a dictionary, then use js to make table!
+    df = pd.read_sql(sel, con=engine)
+    return jsonify(df)
 
 if __name__ == '__main__':
     app.run(debug=True)
