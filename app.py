@@ -342,6 +342,7 @@ def player_table():
     html_table = df.to_html()
     html_table
 
+
 if __name__ == '__main__':
     app.run(debug=True)
 
