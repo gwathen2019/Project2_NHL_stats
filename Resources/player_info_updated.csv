@@ -1,0 +1,2247 @@
+player_id,firstName,lastName,nationality,birthCity,birthDate,birthMonth,birthMonthName
+8467412,Alexei,Ponikarovsky,UKR,Kiev,1980-04-09,4,April
+8468501,Anton,Volchenkov,RUS,Moscow,1982-02-25,2,February
+8459670,Kimmo,Timonen,FIN,Kuopio,1975-03-18,3,March
+8471233,Travis,Zajac,CAN,Winnipeg,1985-05-13,5,May
+8455710,Martin,Brodeur,CAN,Montreal,1972-05-06,5,May
+8475640,Erik,Gustafsson,SWE,Kvissleby,1988-12-15,12,December
+8476177,Matt,Read,CAN,Ilderton,1986-06-14,6,June
+8464977,Dainius,Zubrus,LTU,Elektrenai,1978-06-16,6,June
+8474190,Wayne,Simmonds,CAN,Scarborough,1988-08-26,8,August
+8464975,Daniel,Briere,CAN,Gatineau,1977-10-06,10,October
+8468534,Andreas,Lilja,SWE,Helsingborg,1975-07-13,7,July
+8475603,Ben,Holmstrom,USA,Colorado Springs,1987-04-09,4,April
+8472410,Stephen,Gionta,USA,Rochester,1983-10-09,10,October
+8474037,James,van Riemsdyk,USA,Middletown,1989-05-04,5,May
+8473542,Tom,Sestito,USA,Rome,1987-09-28,9,September
+8476457,Adam,Larsson,SWE,Skellefteå,1992-11-12,11,November
+8474631,Marc-Andre,Bourdon,CAN,St-Hyacinthe,1989-09-17,9,September
+8472382,Andy,Greene,USA,Trenton,1982-10-30,10,October
+8474641,Adam,Henrique,CAN,Brantford,1990-02-06,2,February
+8474161,Jakub,Voracek,CZE,Kladno,1989-08-15,8,August
+8475972,Tyler,Brown,CAN,Wasaga Beach,1990-02-07,2,February
+8476461,Sean,Couturier,CAN,Phoenix,1992-12-07,12,December
+8460720,Eric,Boulton,CAN,Halifax,1976-08-17,8,August
+8469454,Ilya,Kovalchuk,RUS,Tver,1983-04-15,4,April
+8475170,Brayden,Schenn,CAN,Saskatoon,1991-08-22,8,August
+8468524,Ilya,Bryzgalov,RUS,Togliatti,1980-06-22,6,June
+8470609,Steve,Bernier,CAN,Quebec City,1985-03-31,3,March
+8465210,Pavel,Kubina,CZE,Celadna,1977-04-15,4,April
+8471816,Mark,Fayne,USA,Nashua,1987-05-15,5,May
+8468486,Scott,Hartnell,CAN,Regina,1982-04-18,4,April
+8470123,Cam,Janssen,USA,St. Louis,1984-04-15,4,April
+8470640,Matt,Carle,USA,Anchorage,1984-09-25,9,September
+8473512,Claude,Giroux,CAN,Hearst,1988-01-12,1,January
+8475775,Tye,McGinn,CAN,Fergus,1990-07-29,7,July
+8470920,David,Clarkson,CAN,Toronto,1984-03-31,3,March
+8470601,Braydon,Coburn,CAN,Shaunavon,1985-02-27,2,February
+8475342,Oliver,Lauridsen,DNK,Gentofte,1989-03-24,3,March
+8470171,Max,Talbot,CAN,Lemoyne,1984-02-11,2,February
+8474892,Eric,Wellwood,CAN,Windsor,1990-03-06,3,March
+8476158,Harry,Zolnierczyk,CAN,Toronto,1987-09-01,9,September
+8475185,Jacob,Josefson,SWE,Stockholm,1991-03-02,3,March
+8472394,Peter,Harrold,USA,Kirtland Hills,1983-06-08,6,June
+8462535,Jody,Shelley,CAN,Thompson,1976-02-07,2,February
+8448208,Jaromir,Jagr,CZE,Kladno,1972-02-15,2,February
+8469623,Marek,Zidlicky,CZE,Most,1977-02-03,2,February
+8468038,Michael,Leighton,CAN,Petrolia,1981-05-19,5,May
+8474736,Zac,Rinaldo,CAN,Mississauga,1990-06-15,6,June
+8473646,Ryan,Carter,USA,White Bear Lake,1983-08-03,8,August
+8471269,Nicklas,Grossmann,SWE,Stockholm,1985-01-22,1,January
+8471467,Matthew,Ford,USA,West Hills,1984-10-09,10,October
+8470610,Zach,Parise,USA,Minneapolis,1984-07-28,7,July
+8475430,Brandon,Manning,CAN,Prince George,1990-06-04,6,June
+8460626,Bryce,Salvador,CAN,Brandon,1976-02-11,2,February
+8460465,Petr,Sykora,CZE,Plzen,1976-11-19,11,November
+8460542,Patrik,Elias,CZE,Trebic,1976-04-13,4,April
+8471636,Tim,Sestito,USA,Rome,1984-08-28,8,August
+8476209,Mike,Sislo,USA,Superior,1988-01-20,1,January
+8471712,Jeff,Frazee,USA,Edina,1987-05-13,5,May
+8471236,Andrej,Meszaros,SVK,Povazská Bystrica,1985-10-13,10,October
+8473580,Matthew,Corrente,CAN,Mississauga,1988-03-17,3,March
+8471365,Steven,Zalewski,USA,Utica,1986-08-20,8,August
+8473944,Matt,Anderson,USA,West Islip,1982-10-31,10,October
+8475248,Alexander,Urbom,SWE,Stockholm,1990-12-20,12,December
+8473592,Vladimir,Zharkov,RUS,Elektrostal,1988-01-10,1,January
+8467436,Jay,Leach,USA,Syracuse,1979-09-02,9,September
+8476234,Keith,Kinkaid,USA,Farmingville,1989-07-04,7,July
+8475060,Matt,Taormina,USA,Warren,1986-10-20,10,October
+8473927,Brad,Mills,CAN,Terrace,1983-05-03,5,May
+8474614,Brandon,Burlon,CAN,Nobleton,1990-03-05,3,March
+8474219,Dan,Kelly,USA,Plattsburgh,1989-05-17,5,May
+8475199,Eric,Gelinas,CAN,Vanier,1991-05-08,5,May
+8474023,Mike,Hoeffel,USA,North Oaks,1989-04-09,4,April
+8474582,Mattias,Tedenby,SWE,Vetlanda,1990-02-21,2,February
+8467452,Rob,Scuderi,USA,Syosset,1978-12-30,12,December
+8471718,Marc-Andre,Cliche,CAN,Rouyn-Noranda,1987-03-23,3,March
+8470662,Colin,Fraser,CAN,Sicamous,1985-01-28,1,January
+8476404,Andy,Andreoff,CAN,Pickering,1991-05-17,5,May
+8474594,Slava,Voynov,RUS,Chelyabinsk,1990-01-15,1,January
+8475160,Kyle,Clifford,CAN,Ayr,1991-01-13,1,January
+8471208,Dustin,Penner,CAN,Winkler,1982-09-28,9,September
+8474518,Davis,Drewiske,USA,Hudson,1984-11-22,11,November
+8473908,Kevin,Westgarth,CAN,Amherstburg,1984-02-07,2,February
+8465185,Willie,Mitchell,CAN,Port McNeill,1977-04-23,4,April
+8471685,Anze,Kopitar,SVN,Jesenice,1987-08-24,8,August
+8473664,Justin,Azevedo,CAN,West Lorne,1988-04-01,4,April
+8475726,Tyler,Toffoli,CAN,Scarborough,1992-04-24,4,April
+8474638,Andrew,Campbell,CAN,Caledonia,1988-02-04,2,February
+8470755,Brad,Richardson,CAN,Belleville,1985-02-04,2,February
+8475325,Jordan,Nolan,CAN,"Garden River, First Nations",1989-06-23,6,June
+8474563,Drew,Doughty,CAN,London,1989-12-08,12,December
+8474162,Jake,Muzzin,CAN,Woodstock,1989-02-21,2,February
+8475096,Patrick,Mullen,USA,Pittsburgh,1986-05-06,5,May
+8474166,Alec,Martinez,USA,Rochester Hills,1987-07-26,7,July
+8474681,Andrei,Loktionov,RUS,Voskresensk,1990-05-30,5,May
+8468526,Jarret,Stoll,CAN,Melville,1982-06-24,6,June
+8470604,Jeff,Carter,CAN,London,1985-01-01,1,January
+8470606,Dustin,Brown,USA,Ithaca,1984-11-04,11,November
+8474889,Martin,Jones,CAN,North Vancouver,1990-01-10,1,January
+8470121,Matt,Greene,USA,Grand Ledge,1983-05-13,5,May
+8466182,Henrik,Tallinder,SWE,Stockholm,1979-01-10,1,January
+8471733,Rich,Clune,CAN,Toronto,1987-04-25,4,April
+8471734,Jonathan,Quick,USA,Milford,1986-01-21,1,January
+8475223,Linden,Vey,CAN,Wakaw,1991-07-17,7,July
+8467346,Simon,Gagne,CAN,Ste. Foy,1980-02-29,2,February
+8470617,Mike,Richards,CAN,Kenora,1985-02-11,2,February
+8473453,Trevor,Lewis,USA,Salt Lake City,1987-01-08,1,January
+8474100,Dwight,King,CAN,Meadow Lake,1989-07-05,7,July
+8474066,Thomas,Hickey,CAN,Calgary,1989-02-08,2,February
+8468508,Justin,Williams,CAN,Cobourg,1981-10-04,10,October
+8473419,Brad,Marchand,CAN,Halifax,1988-05-11,5,May
+8470905,Randy,Jones,CAN,Quispamsis,1981-07-23,7,July
+8474749,Matt,Bartkowski,USA,Pittsburgh,1988-06-04,6,June
+8471717,Adam,McQuaid,CAN,Charlottetown,1986-10-12,10,October
+8471916,Mike,Angelidis,CAN,Woodbridge,1985-06-27,6,June
+8471276,David,Krejci,CZE,Sternberk,1986-04-28,4,April
+8470187,Johnny,Boychuk,CAN,Edmonton,1984-01-19,1,January
+8471514,Rich,Peverley,CAN,Kingston,1982-07-08,7,July
+8471314,Mike,Lundin,USA,Burnsville,1984-09-24,9,September
+8475167,Victor,Hedman,SWE,Ornskoldsvik,1990-12-18,12,December
+8470230,Daniel,Paille,CAN,Welland,1984-04-15,4,April
+8467925,Adam,Hall,USA,Kalamazoo,1980-08-14,8,August
+8469765,Marc-Andre,Bergeron,CAN,Trois-Rivieres,1980-10-13,10,October
+8467329,Vincent,Lecavalier,CAN,Ile Bizard,1980-04-21,4,April
+8467967,Chris,Kelly,CAN,Toronto,1980-11-11,11,November
+8470638,Patrice,Bergeron,CAN,Ancienne-Lorette,1985-07-24,7,July
+8468575,Dominic,Moore,CAN,Thornhill,1980-08-03,8,August
+8450725,Mark,Recchi,CAN,Kamloops,1968-02-01,2,February
+8470596,Nathan,Horton,CAN,Welland,1985-05-29,5,May
+8471767,Blair,Jones,CAN,Central Butte,1986-09-27,9,September
+8470634,Matt,Smaby,USA,Minneapolis,1984-10-14,10,October
+8474682,Dustin,Tokarski,CAN,Watson,1989-09-16,9,September
+8460806,Dwayne,Roloson,CAN,Simcoe,1969-10-12,10,October
+8474564,Steven,Stamkos,CAN,Markham,1990-02-07,2,February
+8474002,Colby,Cohen,USA,Villanova,1989-04-25,4,April
+8473473,Milan,Lucic,CAN,Vancouver,1988-06-07,6,June
+8474000,Steven,Kampfer,USA,Ann Arbor,1988-09-24,9,September
+8465978,Shawn,Thornton,CAN,Oshawa,1977-07-23,7,July
+8471418,Anton,Khudobin,RUS,Ust-Kamenogorsk,1986-05-07,5,May
+8469619,Dennis,Seidenberg,DEU,Schwenningen,1981-07-18,7,July
+8465056,Trent,Whitfield,CAN,Alameda,1977-06-17,6,June
+8466142,Eric,Brewer,CAN,Vernon,1979-04-17,4,April
+8470804,Mathieu,Roy,CAN,St. Georges,1983-08-10,8,August
+8470169,Gregory,Campbell,CAN,London,1983-12-17,12,December
+8474095,Dana,Tyrell,CAN,Airdrie,1989-04-23,4,April
+8465009,Zdeno,Chara,SVK,Trencin,1977-03-18,3,March
+8467988,Ryan,Malone,USA,Pittsburgh,1979-12-01,12,December
+8470615,Marc-Antoine,Pouliot,CAN,,1985-05-22,5,May
+8467545,Michael,Ryder,CAN,Bonavista,1980-03-31,3,March
+8465200,Tomas,Kaberle,CZE,Rakovnik,1978-03-02,3,March
+8466333,Andrew,Ference,CAN,Edmonton,1979-03-17,3,March
+8471703,Steve,Downie,CAN,Newmarket,1987-04-03,4,April
+8466378,Martin,St. Louis,CAN,Laval,1975-06-18,6,June
+8465122,Brett,Clark,CAN,Wapella,1976-12-23,12,December
+8474657,Jamie,Arniel,CAN,Kingston,1989-11-16,11,November
+8473962,Teddy,Purcell,CAN,St. John's,1985-09-08,9,September
+8470176,Sean,Bergenheim,FIN,Helsinki,1984-02-08,2,February
+8471668,Mattias,Ritola,SWE,Borlange,1987-03-14,3,March
+8470775,Nate,Thompson,USA,Anchorage,1984-10-05,10,October
+8475794,Tyler,Seguin,CAN,Brampton,1992-01-31,1,January
+8460703,Tim,Thomas,USA,Flint,1974-04-15,4,April
+8460503,Mattias,Ohlund,SWE,Pitea,1976-09-09,9,September
+8475150,Jordan,Caron,CAN,Sayabec,1990-11-02,11,November
+8460661,Shane,Hnidy,CAN,Neepawa,1975-11-08,11,November
+8469608,Mike,Smith,CAN,Kingston,1982-03-22,3,March
+8471958,Dan,Girardi,CAN,Welland,1984-04-29,4,April
+8471873,Anton,Stralman,SWE,Tibro,1986-08-01,8,August
+8473932,Darroll,Powe,CAN,Saskatoon,1985-06-22,6,June
+8475118,Matt,Gilroy,USA,North Bellmore,1984-07-20,7,July
+8470192,Steve,Eminger,CAN,Woodbridge,1983-10-31,10,October
+8475243,Ryan,Bourque,USA,Boxford,1991-01-03,1,January
+8474230,Micheal,Haley,CAN,Guelph,1986-03-30,3,March
+8474151,Ryan,McDonagh,USA,St. Paul,1989-06-13,6,June
+8458938,Roman,Hamrlik,CZE,Zlin,1974-04-12,4,April
+8462033,Wade,Redden,CAN,Lloydminster,1977-06-12,6,June
+8465025,Arron,Asham,CAN,Portage la Prairie,1978-04-13,4,April
+8467881,Taylor,Pyatt,CAN,Thunder Bay,1981-08-19,8,August
+8473544,Derick,Brassard,CAN,Hull,1987-09-22,9,September
+8471686,Marc,Staal,CAN,Thunder Bay,1987-01-13,1,January
+8470232,Kris,Newbury,CAN,Brampton,1982-02-19,2,February
+8474678,Jason,Missiaen,CAN,Chatham,1990-04-25,4,April
+8475692,Mats,Zuccarello,NOR,Oslo,1987-09-01,9,September
+8476462,Dougie,Hamilton,CAN,Toronto,1993-06-17,6,June
+8470041,Rick,Nash,CAN,Brampton,1984-06-16,6,June
+8469534,Aaron,Johnson,CAN,Port Hawkesbury,1983-04-30,4,April
+8471339,Ryan,Callahan,USA,Rochester,1985-03-21,3,March
+8468685,Henrik,Lundqvist,SWE,Are,1982-03-02,3,March
+8459454,Jay,Pandolfo,USA,Winchester,1974-12-27,12,December
+8473432,Derek,Dorsett,CAN,Kindersley,1986-12-20,12,December
+8471695,Tuukka,Rask,FIN,Savonlinna,1987-03-10,3,March
+8476468,J.T.,Miller,USA,East Palestine,1993-03-14,3,March
+8474772,Stu,Bickel,USA,Chanhassen,1986-10-02,10,October
+8474850,Brandon,Mashinter,CAN,Bradford,1988-09-20,9,September
+8475184,Chris,Kreider,USA,Boxford,1991-04-30,4,April
+8475186,John,Moore,USA,Winnetka,1990-11-19,11,November
+8476792,Torey,Krug,USA,Livonia,1991-04-12,4,April
+8473484,Kaspars,Daugavins,LVA,Riga,1988-05-18,5,May
+8474176,Carl,Hagelin,SWE,Sodertalje,1988-08-23,8,August
+8475660,Cam,Talbot,CAN,Caledonia,1987-07-05,7,July
+8471262,Carl,Soderberg,SWE,Malmö,1985-10-12,10,October
+8469622,Ryane,Clowe,CAN,St. John's,1982-09-30,9,September
+8467389,Brad,Richards,CAN,Murray Hbr.,1980-05-02,5,May
+8470619,Brian,Boyle,USA,Hingham,1984-12-18,12,December
+8474613,Derek,Stepan,USA,Hastings,1990-06-18,6,June
+8475749,Christian,Thomas,CAN,Toronto,1992-05-26,5,May
+8474584,Michael,Del Zotto,CAN,Stouffville,1990-06-24,6,June
+8475795,Dylan,McIlrath,CAN,Winnipeg,1992-04-20,4,April
+8469755,Brandon,Segal,CAN,Richmond,1983-07-12,7,July
+8476844,Niklas,Svedberg,SWE,Sollentuna,1989-09-04,9,September
+8465951,Matt,Cooke,CAN,Belleville,1978-09-07,9,September
+8469638,Jussi,Jokinen,FIN,Kalajoki,1983-04-01,4,April
+8468542,Paul,Martin,USA,Minneapolis,1981-03-05,3,March
+8462042,Jarome,Iginla,CAN,Edmonton,1977-07-01,7,July
+8471311,Tyler,Kennedy,CAN,Sault Ste. Marie,1986-07-15,7,July
+8471675,Sidney,Crosby,CAN,Cole Harbour,1987-08-07,8,August
+8466160,Brenden,Morrow,CAN,Carlyle,1979-01-16,1,January
+8470543,Chris,Kunitz,CAN,Regina,1979-09-26,9,September
+8476211,Carter,Camper,USA,Cleveland,1988-07-06,7,July
+8475761,Beau,Bennett,USA,Gardena,1991-11-27,11,November
+8471724,Kris,Letang,CAN,Montreal,1987-04-24,4,April
+8468498,Brooks,Orpik,USA,San Francisco,1980-09-26,9,September
+8466393,Pascal,Dupuis,CAN,Laval,1979-04-07,4,April
+8471246,Chris,Bourque,USA,Boston,1986-01-29,1,January
+8471856,Joe,Vitale,USA,St. Louis,1985-08-20,8,August
+8471215,Evgeni,Malkin,RUS,Magnitogorsk,1986-07-31,7,July
+8460712,Tomas,Vokoun,CZE,Karlovy Vary,1976-07-02,7,July
+8474091,Brandon,Sutter,CAN,Huntington,1989-02-14,2,February
+8471702,Matt,Niskanen,USA,Virginia,1986-12-06,12,December
+8468114,Douglas,Murray,SWE,Bromma,1980-03-12,3,March
+8465166,Craig,Adams,CAN,Seria,1977-04-26,4,April
+8468674,Deryk,Engelland,CAN,Edmonton,1982-04-03,4,April
+8471707,James,Neal,CAN,Whitby,1987-09-03,9,September
+8474138,Dustin,Jeffrey,CAN,Sarnia,1988-02-27,2,February
+8467580,Mark,Eaton,USA,Wilmington,1977-05-06,5,May
+8470854,Tanner,Glass,CAN,Regina,1983-11-29,11,November
+8475155,Simon,Despres,CAN,Laval,1991-07-27,7,July
+8474145,Robert,Bortuzzo,CAN,Thunder Bay,1989-03-18,3,March
+8470594,Marc-Andre,Fleury,CAN,Sorel,1984-11-28,11,November
+8473553,Jeff,Zatkoff,USA,Detroit,1987-06-09,6,June
+8471716,Justin,Abdelkader,USA,Muskegon,1987-02-25,2,February
+8471956,Andrew,Desjardins,CAN,Lively,1986-07-27,7,July
+8467331,Brad,Stuart,CAN,Rocky Mountain House,1979-11-06,11,November
+8470861,Sean,Sullivan,USA,Boston,1984-03-29,3,March
+8467096,Dan,Boyle,CAN,Ottawa,1976-07-12,7,July
+8474027,Justin,Braun,USA,Minneapolis,1987-02-10,2,February
+8471794,Darren,Helm,CAN,St. Andrews,1987-01-21,1,January
+8470622,Patrick,Eaves,USA,Calgary,1984-05-01,5,May
+8459514,Jamal,Mayers,CAN,Toronto,1974-10-24,10,October
+8474667,Harri,Sateri,FIN,Toijala,1989-12-29,12,December
+8474550,Antti,Niemi,FIN,Vantaa,1983-08-29,8,August
+8474032,Nick,Petrecki,USA,Schenectady,1989-07-11,7,July
+8475202,Taylor,Doherty,CAN,Cambridge,1991-03-02,3,March
+8470273,Ian,White,CAN,Steinbach,1984-06-04,6,June
+8471682,Devin,Setoguchi,CAN,Taber,1987-01-01,1,January
+8467928,Doug,Janik,USA,Agawam,1980-03-26,3,March
+8446485,Kris,Draper,CAN,Toronto,1971-05-24,5,May
+8470318,Jonathan,Ericsson,SWE,Karlskrona,1984-03-02,3,March
+8468577,Niclas,Wallin,SWE,Boden,1975-02-20,2,February
+8475607,Cameron,MacIntyre,CAN,Sooke,1985-10-03,10,October
+8470794,Joe,Pavelski,USA,Plover,1984-07-11,7,July
+8473465,Jamie,McGinn,CAN,Fergus,1988-08-05,8,August
+8470280,Ben,Eager,CAN,Ottawa,1984-01-22,1,January
+8471693,Jakub,Kindl,CZE,Sumperk,1987-02-10,2,February
+8464962,Ruslan,Salei,BLR,Minsk,1974-11-02,11,November
+8467514,Pavel,Datsyuk,RUS,Sverdlovsk,1978-07-20,7,July
+8466149,Daniel,Cleary,CAN,Carbonear,1978-12-18,12,December
+8467478,Kent,Huskins,CAN,Almonte,1979-05-04,5,May
+8470201,Jiri,Hudler,CZE,Olomouc,1984-01-04,1,January
+8470047,Valtteri,Filppula,FIN,Vantaa,1984-03-20,3,March
+8468482,Dany,Heatley,CAN,Freiburg,1981-01-21,1,January
+8468083,Henrik,Zetterberg,SWE,Njurunda,1980-10-09,10,October
+8471338,Torrey,Mitchell,CAN,Greenfield Park,1985-01-30,1,January
+8473558,Cory,Emmerton,CAN,St. Thomas,1988-06-01,6,June
+8474053,Logan,Couture,CAN,Guelph,1989-03-28,3,March
+8469581,Kyle,Wellwood,CAN,Windsor,1983-05-16,5,May
+8473562,John,McCarthy,USA,Boston,1986-08-09,8,August
+8474090,Brendan,Smith,CAN,Mimico,1989-02-08,2,February
+8466139,Patrick,Marleau,CAN,Aneroid,1979-09-15,9,September
+8471309,Johan,Franzen,SWE,Vetlanda,1979-12-23,12,December
+8466138,Joe,Thornton,CAN,London,1979-07-02,7,July
+8470778,Drew,Miller,USA,Dover,1984-02-17,2,February
+8470657,Jimmy,Howard,USA,Syracuse,1984-03-26,3,March
+8471306,Thomas,Greiss,DEU,Fussen,1986-01-29,1,January
+8457063,Nicklas,Lidstrom,SWE,Vasteras,1970-04-28,4,April
+8471709,Marc-Edouard,Vlasic,CAN,Montreal,1987-03-30,3,March
+8474739,Tommy,Wingels,USA,Evanston,1988-04-12,4,April
+8459687,Scott,Nichol,CAN,Edmonton,1974-12-31,12,December
+8473600,Benn,Ferriero,USA,Boston,1987-04-29,4,April
+8475625,Matt,Irwin,CAN,Victoria,1987-11-29,11,November
+8459444,Todd,Bertuzzi,CAN,Sudbury,1975-02-02,2,February
+8475346,Marek,Viedensky,SVK,Handlova,1990-08-18,8,August
+8475622,Carter,Hutton,CAN,Thunder Bay,1985-12-19,12,December
+8473569,Jan,Mursak,SVN,Maribor,1988-01-20,1,January
+8474218,Jason,Demers,CAN,Dorval,1988-06-09,6,June
+8470061,Derek,Meech,CAN,Winnipeg,1984-04-21,4,April
+8460743,Tomas,Holmstrom,SWE,Pitea,1973-01-23,1,January
+8468509,Niklas,Kronwall,SWE,Stockholm,1981-01-12,1,January
+8475193,Tomas,Tatar,SVK,Ilava,1990-12-01,12,December
+8467856,Brian,Rafalski,USA,Dearborn,1973-09-28,9,September
+8449645,Mike,Modano,USA,Livonia,1970-06-07,6,June
+8467876,Henrik,Sedin,SWE,Ornskoldsvik,1980-09-26,9,September
+8471859,Sergei,Kostitsyn,BLR,Novopolotsk,1987-03-20,3,March
+8467875,Daniel,Sedin,SWE,Ornskoldsvik,1980-09-26,9,September
+8467330,David,Legwand,USA,Detroit,1980-08-17,8,August
+8468485,Raffi,Torres,CAN,Toronto,1981-10-08,10,October
+8474569,Colin,Wilson,USA,Greenwich,1989-10-20,10,October
+8471498,Jannik,Hansen,DNK,Rødovre,1986-03-15,3,March
+8466141,Roberto,Luongo,CAN,Montreal,1979-04-04,4,April
+8468064,Martin,Erat,CZE,Trebic,1981-08-29,8,August
+8467370,Mike,Fisher,CAN,Peterborough,1980-06-05,6,June
+8468162,Jerred,Smithson,CAN,Vernon,1979-02-04,2,February
+8470600,Ryan,Suter,USA,Madison,1985-01-21,1,January
+8471811,Cal,O'Reilly,CAN,Toronto,1986-09-30,9,September
+8470642,Shea,Weber,CAN,Sicamous,1985-08-14,8,August
+8470620,Jeff,Tambellini,CAN,Calgary,1984-04-13,4,April
+8474096,Nick,Spaling,CAN,Palmerston,1988-09-19,9,September
+8460719,Steve,Sullivan,CAN,Timmins,1974-07-06,7,July
+8470054,Keith,Ballard,USA,Baudette,1982-11-26,11,November
+8470274,Chris,Higgins,USA,Smithtown,1983-06-02,6,June
+8474570,Cody,Hodgson,CAN,Toronto,1990-02-18,2,February
+8469465,Dan,Hamhuis,CAN,Smithers,1982-12-13,12,December
+8464957,J-P,Dumont,CAN,Montreal,1978-04-01,4,April
+8474094,Matt,Halischuk,CAN,Toronto,1988-06-01,6,June
+8469547,Jordin,Tootoo,CAN,Churchill,1983-02-02,2,February
+8473608,Blake,Geoffrion,USA,Plantation,1988-02-03,2,February
+8469626,Andrew,Alberts,USA,Minneapolis,1981-06-30,6,June
+8465202,Sami,Salo,FIN,Turku,1974-09-02,9,September
+8470616,Ryan,Kesler,USA,Livonia,1984-08-31,8,August
+8470839,Shane,O'Brien,CAN,Port Hope,1983-08-09,8,August
+8467463,Mikael,Samuelsson,SWE,Mariefred,1976-12-23,12,December
+8470310,Aaron,Rome,CAN,Nesbitt,1983-09-27,9,September
+8470630,Kevin,Klein,CAN,Kitchener,1984-12-13,12,December
+8471664,Mason,Raymond,CAN,Cochrane,1985-09-17,9,September
+8471268,Victor,Oreskovich,CAN,Whitby,1986-08-15,8,August
+8471887,Patric,Hornqvist,SWE,Sollentuna,1987-01-01,1,January
+8471469,Pekka,Rinne,FIN,Kempele,1982-11-03,11,November
+8470358,Alexandre,Burrows,CAN,Pincourt,1981-04-11,4,April
+8471742,Cody,Franson,CAN,Sicamous,1987-08-08,8,August
+8471303,Alexander,Edler,SWE,Ostersund,1986-04-21,4,April
+8470654,Maxim,Lapierre,CAN,Saint-Léonard,1985-03-29,3,March
+8474164,Jonathon,Blum,USA,Long Beach,1989-01-30,1,January
+8469598,Kevin,Bieksa,CAN,Grimsby,1981-06-16,6,June
+8469555,Christian,Ehrhoff,DEU,Moers,1982-07-06,7,July
+8468208,Joel,Ward,CAN,North York,1980-12-02,12,December
+8471741,Teemu,Laakso,FIN,Tuusula,1987-08-27,8,August
+8474580,Chet,Pickard,CAN,Moncton,1989-11-29,11,November
+8474535,Chris,Mueller,USA,West Seneca,1986-03-06,3,March
+8474629,Shawn,Lalonde,CAN,Ottawa,1990-03-10,3,March
+8474625,Jimmy,Hayes,USA,Dorchester,1989-11-21,11,November
+8470666,Daniel,Carcillo,CAN,King City,1985-01-28,1,January
+8476403,Klas,Dahlbeck,SWE,Katrineholm,1991-07-06,7,July
+8473537,Viktor,Stalberg,SWE,Gothenburg,1986-01-17,1,January
+8477225,Jared,Coreau,CAN,Perth,1991-11-05,11,November
+8475323,Marcus,Kruger,SWE,Stockholm,1990-05-27,5,May
+8471769,Niklas,Hjalmarsson,SWE,Eksjo,1987-06-06,6,June
+8474679,Gustav,Nyquist,SWE,Halmstad,1989-09-01,9,September
+8471245,Dave,Bolland,CAN,Mimico,1986-06-05,6,June
+8475204,Brandon,Pirri,CAN,Toronto,1991-04-10,4,April
+8475650,Brandon,Bollig,USA,St. Charles,1987-01-31,1,January
+8470281,Duncan,Keith,CAN,Winnipeg,1983-07-16,7,July
+8474168,Joakim,Andersson,SWE,Munkedal,1989-02-05,2,February
+8476381,Andrew,Shaw,CAN,Belleville,1991-07-20,7,July
+8468927,Steve,Montador,CAN,Vancouver,1979-12-21,12,December
+8466148,Marian,Hossa,SVK,Stará Lubovna,1979-01-12,1,January
+8470724,Kyle,Quincey,CAN,Kitchener,1985-08-12,8,August
+8465058,Michal,Rozsival,CZE,Vlasim,1978-09-03,9,September
+8474727,Ben,Smith,USA,Winston-Salem,1988-07-11,7,July
+8470607,Brent,Seabrook,CAN,Richmond,1985-04-20,4,April
+8471254,Bryan,Bickell,CAN,Bowmanville,1986-03-09,3,March
+8475214,Jeremy,Morin,USA,Auburn,1991-04-16,4,April
+8470645,Corey,Crawford,CAN,Montreal,1984-12-31,12,December
+8476431,Adam,Clendening,USA,Niagara Falls,1992-10-26,10,October
+8475181,Nick,Leddy,USA,Eden Prairie,1991-03-20,3,March
+8469544,Patrick,Sharp,CAN,Winnipeg,1981-12-27,12,December
+8469665,Johnny,Oduya,SWE,Stockholm,1981-10-01,10,October
+8473564,Michael,Frolik,CZE,Kladno,1988-02-17,2,February
+8473604,Jonathan,Toews,CAN,Winnipeg,1988-04-29,4,April
+8476438,Brandon,Saad,USA,Pittsburgh,1992-10-27,10,October
+8477059,Damien,Brunner,CHE,Zürich,1986-03-09,3,March
+8474141,Patrick,Kane,USA,Buffalo,1988-11-19,11,November
+8475431,Henrik,Karlsson,SWE,Tumba,1983-11-27,11,November
+8469470,Carlo,Colaiacovo,CAN,Toronto,1983-01-27,1,January
+8475114,Jordan,Pearce,USA,Anchorage,1986-10-10,10,October
+8475598,Ryan,Stanton,CAN,St. Albert,1989-07-20,7,July
+8475153,Dylan,Olsen,CAN,Salt Lake City,1991-01-03,1,January
+8469992,Sheldon,Brookbank,CAN,Lanigan,1980-10-03,10,October
+8462129,Michal,Handzus,SVK,Banská Bystrica,1977-03-11,3,March
+8471719,Matt,Kassian,CAN,Edmonton,1986-10-28,10,October
+8467496,Andrei,Markov,RUS,Voskresensk,1978-12-20,12,December
+8467493,Chris,Neil,CAN,Flesherton,1979-06-18,6,June
+8475797,Jarred,Tinordi,USA,Burnsville,1992-02-20,2,February
+8471679,Carey,Price,CAN,Anahim Lake,1987-08-16,8,August
+8476851,Alex,Galchenyuk,USA,Milwaukee,1994-02-12,2,February
+8474157,Max,Pacioretty,USA,New Canaan,1988-11-20,11,November
+8475164,Jakob,Silfverberg,SWE,Gävle,1990-10-13,10,October
+8471283,Brandon,Prust,CAN,London,1984-03-16,3,March
+8469521,Tomas,Plekanec,CZE,Kladno,1982-10-31,10,October
+8467407,Brian,Gionta,USA,Rochester,1979-01-18,1,January
+8473468,Eric,Gryba,CAN,Saskatoon,1988-04-14,4,April
+8473588,Erik,Condra,USA,Trenton,1986-08-06,8,August
+8476419,Jean-Gabriel,Pageau,CAN,Ottawa,1992-11-11,11,November
+8473466,Ryan,White,CAN,Brandon,1988-03-17,3,March
+8475848,Brendan,Gallagher,CAN,Edmonton,1992-05-06,5,May
+8476459,Mika,Zibanejad,SWE,Huddinge,1993-04-18,4,April
+8470599,Milan,Michalek,CZE,Jindrichuv Hradec,1984-12-07,12,December
+8475254,Gabriel,Dumont,CAN,Ville Degelis,1990-10-06,10,October
+8471296,Alexei,Emelin,RUS,Togliatti,1986-04-25,4,April
+8475174,Jared,Cowen,CAN,Saskatoon,1991-01-25,1,January
+8467831,Jeff,Halpern,USA,Washington,1976-05-03,5,May
+8467950,Craig,Anderson,USA,Park Ridge,1981-05-21,5,May
+8475739,Michael,Bournival,CAN,Shawinigan,1992-05-31,5,May
+8470760,Marc,Methot,CAN,Ottawa,1985-06-21,6,June
+8471299,Peter,Regin,DNK,Herning,1986-04-16,4,April
+8474605,Patrick,Wiercioch,CAN,Burnaby,1990-09-12,9,September
+8474884,Mike,Hoffman,CAN,Kitchener,1989-11-24,11,November
+8471976,David,Desharnais,CAN,Laurier-Station,1986-09-14,9,September
+8474688,Greg,Pateryn,USA,Sterling Heights,1990-06-20,6,June
+8470324,Josh,Gorges,CAN,Kelowna,1984-08-14,8,August
+8474250,Zack,Smith,CAN,Maple Creek,1988-04-05,4,April
+8474134,Yannick,Weber,CHE,Morges,1988-09-23,9,September
+8474056,P.K.,Subban,CAN,Toronto,1989-05-13,5,May
+8464956,Chris,Phillips,CAN,Calgary,1978-03-09,3,March
+8476195,Cory,Conacher,CAN,Burlington,1989-12-14,12,December
+8476470,Nathan,Beaulieu,CAN,Strathroy,1992-12-05,12,December
+8475183,Louis,Leblanc,CAN,Pointe-Claire,1991-01-26,1,January
+8468635,Travis,Moen,CAN,Stewart Valley,1982-04-06,4,April
+8471504,Rene,Bourque,CAN,Lac La Biche,1981-12-10,12,December
+8471229,Petteri,Nokelainen,FIN,Imatra,1986-01-16,1,January
+8471663,Mike,Blunden,CAN,Toronto,1986-12-15,12,December
+8471862,Colin,Greening,CAN,St. John's,1986-03-09,3,March
+8458951,Sergei,Gonchar,RUS,Chelyabinsk,1974-04-13,4,April
+8474775,Robert,Mayer,CZE,Havirov,1989-10-09,10,October
+8474578,Erik,Karlsson,SWE,Landsbro,1990-05-31,5,May
+8470378,Andre,Benoit,CAN,St. Albert,1984-01-06,1,January
+8476244,Raphael,Diaz,CHE,Baar,1986-01-09,1,January
+8471670,Guillaume,Latendresse,CAN,Ste-Catherine,1987-05-24,5,May
+8474068,Kyle,Turris,CAN,New Westminster,1989-08-14,8,August
+8474024,Jim,O'Brien,USA,Maplewood,1989-01-29,1,January
+8474189,Lars,Eller,DNK,Rodovre,1989-05-08,5,May
+8469474,Colby,Armstrong,CAN,Lloydminster,1982-11-23,11,November
+8460621,Daniel,Alfredsson,SWE,Gothenburg,1972-12-11,12,December
+8465914,Francis,Bouillon,USA,New York City,1975-10-17,10,October
+8475913,Mark,Stone,CAN,Winnipeg,1992-05-13,5,May
+8476205,Stephane,Da Costa,FRA,Paris,1989-07-11,7,July
+8474683,Derek,Grant,CAN,Abbotsford,1990-04-20,4,April
+8476386,Shane,Prince,USA,Rochester,1992-11-16,11,November
+8475661,Dave,Dziurzynski,CAN,Lloydminster,1989-10-06,10,October
+8476477,Matt,Puempel,CAN,Windsor,1993-01-24,1,January
+8476474,Stefan,Noesen,USA,Plano,1993-02-12,2,February
+8476879,Cody,Ceci,CAN,Ottawa,1993-12-21,12,December
+8474855,Nathan,Lawson,CAN,Calgary,1983-09-29,9,September
+8474697,Mark,Borowiecki,CAN,Ottawa,1989-07-12,7,July
+8469514,Peter,Budaj,SVK,Banská Bystrica,1982-09-18,9,September
+8467336,Mike,Rupp,USA,Cleveland,1980-01-13,1,January
+8470104,Tom,Gilbert,USA,Bloomington,1983-01-10,1,January
+8470153,Pierre-Marc,Bouchard,CAN,Sherbrooke,1984-04-27,4,April
+8474716,Jared,Spurgeon,CAN,Edmonton,1989-11-29,11,November
+8473504,Cal,Clutterbuck,CAN,Welland,1987-11-18,11,November
+8475722,Jason,Zucker,USA,Newport Beach,1992-01-16,1,January
+8473992,Justin,Falk,CAN,Snowflake,1988-10-11,10,October
+8476463,Jonas,Brodin,SWE,Karlstad,1993-07-12,7,July
+8469459,Mikko,Koivu,FIN,Turku,1983-03-12,3,March
+8470803,Kyle,Brodziak,CAN,St. Paul,1984-05-25,5,May
+8470886,Clayton,Stoner,CAN,Port McNeill,1985-02-19,2,February
+8475613,Nate,Prosser,USA,Elk River,1986-05-07,5,May
+8469820,Zenon,Konopka,CAN,Niagara on the Lake,1981-01-02,1,January
+8469548,Ray,Emery,CAN,Hamilton,1982-09-28,9,September
+8469506,Jason,Pominville,USA,Repentigny,1982-11-30,11,November
+8474618,Marco,Scandella,CAN,Montreal,1990-02-23,2,February
+8470216,Josh,Harding,CAN,Regina,1984-06-18,6,June
+8475745,Charlie,Coyle,USA,E. Weymouth,1992-03-02,3,March
+8464989,Matt,Cullen,USA,Virginia,1976-11-02,11,November
+8473404,Niklas,Backstrom,FIN,Helsinki,1978-02-13,2,February
+8475798,Mikael,Granlund,FIN,Oulu,1992-02-26,2,February
+8469542,Stephane,Veilleux,CAN,Beauceville,1981-11-16,11,November
+8471352,Jake,Dowell,USA,Eau Claire,1985-03-04,3,March
+8475757,Brett,Bulmer,CAN,Prince George,1992-04-26,4,April
+8470074,Jeff,Deslauriers,CAN,St-Jean-Richelieu,1984-05-15,5,May
+8474077,Carson,McMillan,CAN,Brandon,1988-09-10,9,September
+8471885,Chad,Rau,USA,Eden Prairie,1987-01-18,1,January
+8476856,Matt,Dumba,CAN,Regina,1994-07-25,7,July
+8475311,Darcy,Kuemper,CAN,Saskatoon,1990-05-05,5,May
+8476481,Zack,Phillips,CAN,Fredericton,1992-10-28,10,October
+8476235,Justin,Fontaine,CAN,Bonnyville,1987-11-06,11,November
+8473445,Kyle,Medvec,USA,Westminster,1988-06-16,6,June
+8473618,Mathieu,Perreault,CAN,Drummondville,1988-01-05,1,January
+8469639,Brooks,Laich,CAN,Wawota,1983-06-23,6,June
+8459429,Jason,Arnott,CAN,Collingwood,1974-10-11,10,October
+8474590,John,Carlson,USA,Natick,1990-01-10,1,January
+8471242,Mike,Green,CAN,Calgary,1985-10-12,10,October
+8471240,Jeff,Schultz,CAN,Calgary,1986-02-25,2,February
+8464979,Marco,Sturm,DEU,Dingolfing,1978-09-08,9,September
+8468611,Matt,Hendricks,USA,Blaine,1981-06-17,6,June
+8466158,Scott,Hannan,CAN,Richmond,1979-01-23,1,January
+8467365,John,Erskine,CAN,Kingston,1980-06-26,6,June
+8470159,Boyd,Gordon,CAN,Unity,1983-10-19,10,October
+8473991,Karl,Alzner,CAN,Burnaby,1988-09-24,9,September
+8470120,Alexander,Semin,RUS,Krasnojarsk,1984-03-03,3,March
+8469770,Dennis,Wideman,CAN,Kitchener,1983-03-20,3,March
+8468846,Tyler,Sloan,CAN,Calgary,1981-03-15,3,March
+8465059,Matt,Bradley,CAN,Stittsville,1978-06-13,6,June
+8473913,Sean,Collins,USA,Troy,1983-10-30,10,October
+8473911,Steven,Pinizzotto,CAN,Mississauga,1984-04-26,4,April
+8471214,Alex,Ovechkin,RUS,Moscow,1985-09-17,9,September
+8474651,Braden,Holtby,CAN,Lloydminster,1989-09-16,9,September
+8473563,Nicklas,Backstrom,SWE,Gävle,1987-11-23,11,November
+8471780,Patrick,McNeill,CAN,Strathroy,1987-03-17,3,March
+8470294,DJ,King,CAN,Meadow Lake,1984-06-27,6,June
+8474291,Jay,Beagle,CAN,Calgary,1985-10-16,10,October
+8473607,Michal,Neuvirth,CZE,Ústí nad Labem,1988-03-23,3,March
+8458590,Mike,Knuble,USA,Toronto,1972-07-04,7,July
+8466251,Jason,Chimera,CAN,Edmonton,1979-05-02,5,May
+8470611,Eric,Fehr,CAN,Winkler,1985-09-07,9,September
+8475149,Marcus,Johansson,SWE,Landskrona,1990-10-06,10,October
+8473936,Kirk,MacDonald,CAN,Victoria,1983-12-18,12,December
+8475683,Sergei,Bobrovsky,RUS,Novokuznetsk,1988-09-20,9,September
+8474551,Ville,Leino,FIN,Savonlinna,1983-10-06,10,October
+8475283,Lane,MacDermid,USA,Hartford,1989-08-25,8,August
+8467408,Matt,Walker,CAN,Beaverlodge,1980-04-07,4,April
+8475080,Johan,Backlund,SWE,Skellefteå,1981-07-24,7,July
+8474636,Michael,Hutchinson,CAN,Barrie,1990-03-02,3,March
+8467361,Blair,Betts,CAN,Edmonton,1980-02-16,2,February
+8459424,Chris,Pronger,CAN,Dryden,1974-10-10,10,October
+8470597,Nikolay,Zherdev,RUS,Kiev,1984-11-05,11,November
+8470996,Danny,Syvret,CAN,Millgrove,1985-06-13,6,June
+8474163,Kevin,Marshall,CAN,Boucherville,1989-03-10,3,March
+8473550,Andrew,Bodnarchuk,CAN,Drumheller,1988-07-11,7,July
+8474045,Zach,Hamill,CAN,Vancouver,1988-09-23,9,September
+8466145,Nick,Boynton,CAN,Nobleton,1979-01-14,1,January
+8473556,Yury,Alexandrov,RUS,Cherepovets,1988-06-24,6,June
+8475614,Mike,Testwuide,USA,Vail,1987-02-05,2,February
+8458637,Sean,O'Donnell,CAN,Ottawa,1971-10-13,10,October
+8467905,Michael,Ryan,USA,Boston,1980-05-16,5,May
+8462052,Brian,Boucher,USA,Woonsocket,1977-01-02,1,January
+8471346,Kris,Versteeg,CAN,Lethbridge,1986-05-13,5,May
+8473568,Andreas,Nodl,AUT,Vienna,1987-02-28,2,February
+8476406,Nick,Shore,USA,Denver,1992-09-26,9,September
+8467890,Barret,Jackman,CAN,Trail,1981-03-05,3,March
+8473534,Patrik,Berglund,SWE,Västerås,1988-06-02,6,June
+8471710,Taylor,Chorney,USA,Thunder Bay,1987-04-27,4,April
+8474031,Kevin,Shattenkirk,USA,New Rochelle,1989-01-29,1,January
+8474596,Jake,Allen,CAN,Fredericton,1990-08-07,8,August
+8469480,Jeff,Woywitka,CAN,Vermilion,1983-09-01,9,September
+8470151,Jay,Bouwmeester,CAN,Edmonton,1983-09-27,9,September
+8469685,Andrew,Murray,CAN,Selkirk,1981-11-06,11,November
+8471729,Kris,Russell,CAN,Caroline,1987-05-02,5,May
+8475768,Jaden,Schwartz,CAN,Wilcox,1992-06-25,6,June
+8470871,Chris,Porter,CAN,Toronto,1984-05-29,5,May
+8475765,Vladimir,Tarasenko,RUS,Yaroslavl,1991-12-13,12,December
+8474634,Evgeny,Grachev,RUS,Khabarovsk,1990-02-21,2,February
+8471490,Adam,Cracknell,CAN,Prince Albert,1985-07-15,7,July
+8467917,Jordan,Leopold,USA,Golden Valley,1980-08-03,8,August
+8471817,Ryan,Reaves,CAN,Winnipeg,1987-01-20,1,January
+8470880,Brian,Elliott,CAN,Newmarket,1985-04-09,4,April
+8474565,Alex,Pietrangelo,CAN,King City,1990-01-18,1,January
+8471698,T.J.,Oshie,USA,Everett,1986-12-23,12,December
+8473485,Chris,Stewart,CAN,Toronto,1987-10-30,10,October
+8474013,Ian,Cole,USA,Ann Arbor,1989-02-21,2,February
+8468434,Andy,McDonald,CAN,Strathroy,1977-08-25,8,August
+8467344,Robyn,Regehr,CAN,Recife,1980-04-19,4,April
+8475825,Jani,Hakanpaa,FIN,Kirkkonummi,1992-03-31,3,March
+8470655,David,Backes,USA,Minneapolis,1984-05-01,5,May
+8476436,Dmitrij,Jaskin,CZE,Omsk,1993-03-23,3,March
+8470257,Alexander,Steen,SWE,Winnipeg,1984-03-01,3,March
+8471743,Vladimir,Sobotka,CZE,Trebic,1987-07-02,7,July
+8471392,Roman,Polak,CZE,Ostrava,1986-04-28,4,April
+8474184,Keaton,Ellerby,CAN,Strathmore,1988-11-05,11,November
+8474102,David,Perron,CAN,Sherbrooke,1988-05-28,5,May
+8475234,J-F,Berube,CAN,Repentigny,1991-07-13,7,July
+8474626,Robert,Czarnik,USA,Detroit,1990-01-25,1,January
+8476772,Brian,O'Neill,USA,Yardley,1988-06-01,6,June
+8475295,Brandon,Kozun,USA,Los Angeles,1990-03-08,3,March
+8475738,Jordan,Weal,CAN,North Vancouver,1992-04-15,4,April
+8476871,Tanner,Pearson,CAN,Kitchener,1992-08-10,8,August
+8475235,Nicolas,Deslauriers,CAN,LaSalle,1991-02-22,2,February
+8471476,Daniel,Winnik,CAN,Toronto,1985-03-06,3,March
+8470860,Jaroslav,Halak,SVK,Bratislava,1985-05-13,5,May
+8468213,Jim,Vandermeer,CAN,Caroline,1980-02-21,2,February
+8474001,TJ,Galiardi,CAN,Calgary,1988-04-22,4,April
+8470647,B.J.,Crombeen,USA,Denver,1985-07-10,7,July
+8459457,Jamie,Langenbrunner,USA,Cloquet,1975-07-24,7,July
+8471851,Matt,D'Agostini,CAN,Sault Ste. Marie,1986-10-23,10,October
+8468515,Brad,Winchester,USA,Madison,1981-03-01,3,March
+8465005,Colin,White,CAN,New Glasgow,1977-12-12,12,December
+8470613,Brent,Burns,CAN,Barrie,1985-03-09,3,March
+8467899,Martin,Havlat,CZE,Mlada Boleslav,1981-04-19,4,April
+8471842,Tim,Kennedy,USA,Buffalo,1986-04-30,4,April
+8471774,Alex,Stalock,USA,St. Paul,1987-07-28,7,July
+8474531,Mike,Moore,CAN,Lloydminster,1984-12-12,12,December
+8471677,Jack,Johnson,USA,Indianapolis,1987-01-13,1,January
+8460496,Ryan,Smyth,CAN,Banff,1976-02-21,2,February
+8474114,Oscar,Moller,SWE,Stockholm,1989-01-22,1,January
+8467511,Antero,Niittymaki,FIN,Turku,1980-06-18,6,June
+8471386,Scott,Parse,USA,Portage,1984-09-05,9,September
+8468700,Paul,Gaustad,USA,Fargo,1982-02-03,2,February
+8472368,Chris,Conner,USA,Westland,1983-12-23,12,December
+8459628,Hal,Gill,USA,Concord,1975-04-06,4,April
+8474519,Jack,Hillen,USA,Minnetonka,1986-01-24,1,January
+8475772,Riley,Sheahan,CAN,St. Catharines,1991-12-07,12,December
+8471450,Brandon,Yip,CAN,Vancouver,1985-04-25,4,April
+8475176,Ryan,Ellis,CAN,Hamilton,1991-01-03,1,January
+8469732,Joey,MacDonald,CAN,Pictou,1980-02-07,2,February
+8470603,Andrei,Kostitsyn,BLR,Novopolotsk,1985-02-03,2,February
+8474600,Roman,Josi,CHE,Bern,1990-06-01,6,June
+8475268,Gabriel,Bourque,CAN,Rimouski,1990-09-23,9,September
+8475225,Craig,Smith,USA,Madison,1989-09-05,9,September
+8471228,Alexander,Radulov,RUS,Nizhny Tagil,1986-07-05,7,July
+8467977,Brian,McGrattan,CAN,Hamilton,1981-09-02,9,September
+8474552,Fabian,Brunnstrom,SWE,Jonstorp,1985-02-06,2,February
+8474591,Tom,McCollum,USA,Amherst,1989-12-07,12,December
+8475802,Louis-Marc,Aubry,CAN,Arthabaska,1991-11-11,11,November
+8474873,Brian,Lashoff,USA,Albany,1990-07-16,7,July
+8474874,Travis,Ehrhardt,CAN,Calgary,1989-04-12,4,April
+8468090,Garnet,Exelby,CAN,Craik,1981-08-16,8,August
+8474815,Francis,Pare,CAN,Lemoyne,1987-06-30,6,June
+8467332,Bryan,Allen,CAN,Kingston,1980-08-21,8,August
+8462041,Radek,Dvorak,CZE,Tabor,1977-03-09,3,March
+8475758,Devante,Smith-Pelly,CAN,Scarborough,1992-06-14,6,June
+8473972,Jonas,Hiller,CHE,Felben Wellhausen,1982-02-12,2,February
+8473933,Ben,Lovejoy,USA,Concord,1984-02-20,2,February
+8471676,Bobby,Ryan,USA,Cherry Hill,1987-03-17,3,March
+8470621,Corey,Perry,CAN,Peterborough,1985-05-16,5,May
+8472370,Jordan,Hendry,CAN,Lanigan,1984-02-23,2,February
+8475883,Frederik,Andersen,DNK,Herning,1989-10-02,10,October
+8475162,Mat,Clark,USA,Wheat Ridge,1990-10-17,10,October
+8469483,David,Steckel,USA,Milwaukee,1982-03-15,3,March
+8474034,Patrick,Maroon,USA,St. Louis,1988-04-23,4,April
+8467400,Francois,Beauchemin,CAN,Sorel,1980-06-04,6,June
+8470317,Nate,Guenin,USA,Aliquippa,1982-12-10,12,December
+8468695,Matthew,Lombardi,CAN,Montreal,1982-03-18,3,March
+8471521,Brad,Staubitz,CAN,Edmonton,1984-07-28,7,July
+8475764,Cam,Fowler,USA,Windsor,1991-12-05,12,December
+8476854,Hampus,Lindholm,SWE,Helsingborg,1994-01-20,1,January
+8476384,Max,Friberg,SWE,Skovde,1992-11-20,11,November
+8475770,Emerson,Etem,USA,Long Beach,1992-06-16,6,June
+8460561,Sheldon,Souray,CAN,Elk Point,1976-07-13,7,July
+8474009,Nick,Bonino,USA,Hartford,1988-04-20,4,April
+8471699,Andrew,Cogliano,CAN,Toronto,1987-06-14,6,June
+8475222,Sami,Vatanen,FIN,Jyväskylä,1991-06-03,6,June
+8476434,John,Gibson,USA,Pittsburgh,1993-07-14,7,July
+8475180,Peter,Holland,CAN,Toronto,1991-01-14,1,January
+8459442,Saku,Koivu,FIN,Turku,1974-11-23,11,November
+8465042,Toni,Lydman,FIN,Lahti,1977-09-25,9,September
+8457981,Teemu,Selanne,FIN,Helsinki,1970-07-03,7,July
+8470612,Ryan,Getzlaf,CAN,Regina,1985-05-10,5,May
+8474579,Luca,Sbisa,CHE,Ozieri,1990-01-30,1,January
+8473492,Matt,Beleskey,CAN,Windsor,1988-06-07,6,June
+8477215,Danny,DeKeyser,USA,Detroit,1990-03-07,3,March
+8475151,Kyle,Palmieri,USA,Smithtown,1991-02-01,2,February
+8476483,Rickard,Rakell,SWE,Sundbyberg,1993-05-05,5,May
+8475251,Igor,Bobkov,RUS,Surgut,1991-01-02,1,January
+8471428,Pierre-Luc,Letourneau-Leblond,CAN,Levis,1985-06-04,6,June
+8466285,Brian,Campbell,CAN,Strathroy,1979-05-23,5,May
+8458543,Jassen,Cullimore,CAN,Simcoe,1972-12-04,12,December
+8460527,Ryan,Johnson,CAN,Thunder Bay,1976-06-14,6,June
+8470084,Hannu,Toivonen,FIN,Kalvola,1984-05-18,5,May
+8470329,Chris,Campoli,CAN,Mississauga,1984-07-09,7,July
+8465170,Fernando,Pisani,CAN,Edmonton,1976-12-27,12,December
+8468518,Tomas,Kopecky,SVK,Ilava,1982-02-05,2,February
+8468510,Jeff,Taffe,USA,Hastings,1981-02-19,2,February
+8471426,Troy,Brouwer,CAN,Vancouver,1985-08-17,8,August
+8473722,John,Scott,CAN,Edmonton,1982-09-26,9,September
+8475095,Alec,Richards,USA,Robbinsdale,1987-06-29,6,June
+8475074,Brian,Connelly,USA,Bloomington,1986-06-10,6,June
+8473970,Rob,Klinkhammer,CAN,Lethbridge,1986-08-12,8,August
+8471239,Cory,Schneider,USA,Marblehead,1986-03-18,3,March
+8474628,Michael,Stone,CAN,Winnipeg,1990-06-07,6,June
+8475839,Louis,Domingue,CAN,St-Hyacinthe,1992-03-06,3,March
+8471232,Lauri,Korpikoski,FIN,Turku,1986-07-28,7,July
+8476206,Andy,Miele,USA,Grosse Pointe Woods,1988-04-15,4,April
+8474107,Maxim,Goncharov,RUS,Moscow,1989-06-15,6,June
+8471680,Gilbert,Brule,CAN,Edmonton,1987-01-01,1,January
+8462036,Daymond,Langkow,CAN,Edmonton,1976-09-27,9,September
+8462038,Shane,Doan,CAN,Halkirk,1976-10-10,10,October
+8468535,Antoine,Vermette,CAN,St. Agapit,1982-07-20,7,July
+8470713,Paul,Bissonnette,CAN,Welland,1985-03-11,3,March
+8470719,Alexandre,Bolduc,CAN,Montreal,1985-06-26,6,June
+8473589,Chris,Summers,USA,Ann Arbor,1988-02-05,2,February
+8458537,Ray,Whitney,CAN,Fort Saskatchewan,1972-05-08,5,May
+8473673,David,Schlemko,CAN,Edmonton,1987-05-07,5,May
+8471691,Martin,Hanzal,CZE,Pisek,1987-02-20,2,February
+8464966,Derek,Morris,CAN,Edmonton,1978-08-24,8,August
+8475171,Oliver,Ekman-Larsson,SWE,Karlskrona,1991-07-17,7,July
+8459053,Adrian,Aucoin,CAN,Ottawa,1973-07-03,7,July
+8471735,Keith,Yandle,USA,Boston,1986-09-09,9,September
+8468484,Rostislav,Klesla,CZE,Novy Jicin,1982-03-21,3,March
+8468085,Radim,Vrbata,CZE,Mlada Boleslav,1981-06-13,6,June
+8474720,Brett,Hextall,USA,Philadelphia,1988-04-02,4,April
+8475216,Ethan,Werek,CAN,Markham,1991-06-07,6,June
+8475224,Jordan,Szwarz,CAN,Burlington,1991-05-14,5,May
+8476473,Connor,Murphy,USA,Dublin,1993-03-26,3,March
+8474571,Mikkel,Boedker,DNK,Brondby,1989-12-16,12,December
+8475182,David,Rundblad,SWE,Lycksele,1990-10-08,10,October
+8474050,Brett,MacLean,CAN,London,1988-12-24,12,December
+8471821,Matt,Watkins,CAN,Aylesbury,1986-11-22,11,November
+8471302,Justin,Pogge,CAN,Fort McMurray,1986-04-22,4,April
+8471231,Kyle,Chipchura,CAN,Westlock,1986-02-19,2,February
+8473658,Victor,Bartley,CAN,Ottawa,1988-02-17,2,February
+8471483,Kyle,Wilson,CAN,Oakville,1984-12-15,12,December
+8474092,Jeremy,Smith,USA,Dearborn,1989-04-13,4,April
+8468540,Dan,Ellis,CAN,Saskatoon,1980-06-19,6,June
+8467844,Jason,Blake,USA,Moorhead,1973-09-02,9,September
+8459587,Todd,Marchant,USA,Buffalo,1973-08-12,8,August
+8468095,George,Parros,USA,Washington,1979-12-29,12,December
+8474598,Nicolas,Deschamps,CAN,LaSalle,1990-01-06,1,January
+8474646,Brandon,McMillan,CAN,Richmond,1990-03-22,3,March
+8467393,Jarkko,Ruutu,FIN,Helsinki,1975-08-23,8,August
+8467304,Andy,Sutton,CAN,Kingston,1975-03-10,3,March
+8468598,Lubomir,Visnovsky,SVK,Topolcany,1976-08-11,8,August
+8475105,Dan,Sexton,USA,Apple Valley,1987-04-29,4,April
+8464984,Josh,Green,CAN,Camrose,1977-11-16,11,November
+8474765,Anders,Lindback,SWE,Gävle,1988-05-03,5,May
+8459596,Andrew,Brunette,CAN,Sudbury,1973-08-24,8,August
+8471279,Sami,Lepisto,FIN,Espoo,1984-10-17,10,October
+8459461,Brendan,Morrison,CAN,Pitt Meadows,1975-08-15,8,August
+8474103,Joe,Lavin,USA,Worcester,1989-07-17,7,July
+8474709,Matt,Martin,CAN,Windsor,1989-05-08,5,May
+8467931,Matt,Carkner,CAN,Winchester,1980-11-03,11,November
+8468101,Radek,Martinek,CZE,Havlickuv Brod,1976-08-31,8,August
+8470144,Frans,Nielsen,DNK,Herning,1984-04-24,4,April
+8475314,Anders,Lee,USA,Edina,1990-07-03,7,July
+8475754,Brock,Nelson,USA,Warroad,1991-10-15,10,October
+8474666,David,Ullstrom,SWE,Jönköping,1989-04-22,4,April
+8475166,John,Tavares,CAN,Mississauga,1990-09-20,9,September
+8473584,Andrew,MacDonald,CAN,Judique,1986-09-07,9,September
+8476458,Ryan,Strome,CAN,Mississauga,1993-07-11,7,July
+8473546,Michael,Grabner,AUT,Villach,1987-10-05,10,October
+8475177,Calvin,de Haan,CAN,Carp,1991-05-09,5,May
+8464967,Marty,Reasoner,USA,Honeoye Falls,1977-02-26,2,February
+8469779,Keith,Aucoin,USA,Waltham,1978-11-06,11,November
+8474604,Aaron,Ness,USA,Roseau,1990-05-18,5,May
+8470644,Colin,McDonald,USA,Wethersfield,1984-09-30,9,September
+8473514,Jesse,Joensuu,FIN,Pori,1987-10-05,10,October
+8474573,Josh,Bailey,CAN,Bowmanville,1989-10-02,10,October
+8474690,Kevin,Poulin,CAN,Montreal,1990-04-12,4,April
+8473565,Brian,Strait,USA,Waltham,1988-01-04,1,January
+8474659,Matt,Donovan,USA,Edmond,1990-05-09,5,May
+8473449,Kyle,Okposo,USA,St. Paul,1988-04-16,4,April
+8471701,Joe,Finley,USA,Edina,1987-06-29,6,June
+8474612,Travis,Hamonic,CAN,St. Malo,1990-08-16,8,August
+8470852,Matt,Moulson,CAN,North York,1983-11-01,11,November
+8476367,John,Persson,SWE,Ostersund,1992-05-18,5,May
+8476445,Johan,Sundstrom,SWE,Gothenburg,1992-09-21,9,September
+8475195,Anders,Nilsson,SWE,Lulea,1990-03-19,3,March
+8475231,Casey,Cizikas,CAN,Toronto,1991-02-27,2,February
+8460705,Evgeni,Nabokov,RUS,Kamenogorsk,1975-07-25,7,July
+8468309,Mark,Streit,CHE,Bern,1977-12-11,12,December
+8468504,Brad,Boyes,CAN,Mississauga,1982-04-17,4,April
+8471234,Wojtek,Wolski,CAN,Zabrze,1986-02-24,2,February
+8467371,Mike,Ribeiro,CAN,Montreal,1980-02-10,2,February
+8475619,Aaron,Volpatti,CAN,Revelstoke,1985-05-30,5,May
+8476162,Steve,Oleksy,USA,Chesterfield,1986-02-04,2,February
+8475831,Philipp,Grubauer,DEU,Rosenheim,1991-11-25,11,November
+8475200,Dmitry,Orlov,RUS,Novokuznetsk,1991-07-23,7,July
+8477220,Nate,Schmidt,USA,St. Cloud,1991-07-16,7,July
+8470156,Joey,Crabb,USA,Anchorage,1983-04-03,4,April
+8474649,Tomas,Kundratek,CZE,Prerov,1989-12-26,12,December
+8476799,Cameron,Schilling,USA,Carmel,1988-10-07,10,October
+8476880,Tom,Wilson,CAN,Toronto,1994-03-29,3,March
+8475690,Christopher,Tanev,CAN,Toronto,1989-12-20,12,December
+8475663,Eddie,Lack,SWE,Norrtälje,1988-01-05,1,January
+8473488,Sergei,Shirokov,RUS,Moscow,1986-03-10,3,March
+8473931,Lee,Sweatt,USA,Elburn,1985-08-13,8,August
+8467334,Manny,Malhotra,CAN,Mississauga,1980-05-18,5,May
+8474668,Dale,Weise,CAN,Winnipeg,1988-08-05,8,August
+8471752,Marc-Andre,Gragnani,CAN,Montreal,1987-03-11,3,March
+8465192,Samuel,Pahlsson,SWE,Ange,1977-12-17,12,December
+8470700,Byron,Bitz,CAN,Saskatoon,1984-07-21,7,July
+8473682,Andrew,Ebbett,CAN,Vernon,1983-01-02,1,January
+8471266,David,Booth,USA,Detroit,1984-11-24,11,November
+8475178,Zack,Kassian,CAN,Windsor,1991-01-24,1,January
+8477073,Kurtis,MacDermid,CAN,Sauble Beach,1994-03-25,3,March
+8470618,Anthony,Stewart,CAN,LaSalle,1985-01-05,1,January
+8473541,Jonathan,Bernier,CAN,Laval,1988-08-07,8,August
+8460500,Nolan,Baumgartner,CAN,Calgary,1976-03-23,3,March
+8473914,Mark,Letestu,CAN,Elk Point,1985-02-04,2,February
+8473533,Jordan,Staal,CAN,Thunder Bay,1988-09-10,9,September
+8469760,Zbynek,Michalek,CZE,Jindrichuv Hradec,1982-12-23,12,December
+8467964,Mike,Comrie,CAN,Edmonton,1980-09-11,9,September
+8468252,Eric,Godard,CAN,Vernon,1980-03-07,3,March
+8458529,Alex,Kovalev,RUS,Togliatti,1973-02-24,2,February
+8474025,Eric,Tangradi,USA,Philadelphia,1989-02-10,2,February
+8462161,Brent,Johnson,USA,Farmington,1977-03-12,3,March
+8470966,Mark,Giordano,CAN,Toronto,1983-10-03,10,October
+8475878,Freddie,Hamilton,CAN,Toronto,1992-01-01,1,January
+8477935,Sam,Bennett,CAN,Holland Landing,1996-06-20,6,June
+8473434,Chad,Johnson,CAN,Saskatoon,1986-06-10,6,June
+8474642,Lance,Bouma,CAN,Provost,1990-03-25,3,March
+8474673,TJ,Brodie,CAN,Chatham,1990-06-07,6,June
+8476312,Josh,Manson,CAN,Hinsdale,1991-10-07,10,October
+8477941,Nick,Ritchie,CAN,Orangeville,1995-12-05,12,December
+8474150,Mikael,Backlund,SWE,Vasteras,1989-03-17,3,March
+8475163,Alex,Chiasson,CAN,Montreal,1990-10-01,10,October
+8475780,Chris,Wagner,USA,Walpole,1991-05-27,5,May
+8473560,Korbinian,Holzer,DEU,Munich,1988-02-16,2,February
+8478131,Ondrej,Kase,CZE,Kadan,1995-11-08,11,November
+8475907,Micheal,Ferland,CAN,Swan River,1992-04-20,4,April
+8477508,Curtis,Lazar,CAN,Salmon Arm,1995-02-02,2,February
+8471766,Jared,Boll,USA,Charlotte,1986-05-13,5,May
+8477447,Shea,Theodore,CAN,Langley,1995-08-03,8,August
+8477986,Brandon,Montour,CAN,Brantford,1994-04-11,4,April
+8476400,Logan,Shaw,CAN,Glace Bay,1992-10-05,10,October
+8476346,Johnny,Gaudreau,USA,Salem,1993-08-13,8,August
+8479314,Matthew,Tkachuk,USA,Scottsdale,1997-12-11,12,December
+8477497,Sean,Monahan,CAN,Brampton,1994-10-12,10,October
+8470162,Matt,Stajan,CAN,Mississauga,1983-12-19,12,December
+8476903,Jon,Gillies,USA,Concord,1994-01-22,1,January
+8471879,Kyle,Cumiskey,CAN,Abbotsford,1986-12-02,12,December
+8476806,J.T.,Brown,USA,Burnsville,1990-07-02,7,July
+8471750,Ben,Bishop,USA,Denver,1986-11-21,11,November
+8476886,Slater,Koekkoek,CAN,Winchester,1994-02-18,2,February
+8476453,Nikita,Kucherov,RUS,Maykop,1993-06-17,6,June
+8477300,Viktor,Svedberg,SWE,Gothenburg,1991-05-24,5,May
+8474870,Tyler,Johnson,USA,Spokane,1990-07-29,7,July
+8477386,Henri,Ikonen,FIN,Savonlinna,1994-04-17,4,April
+8476292,Ondrej,Palat,CZE,Frydek-Mistek,1991-03-28,3,March
+8474717,Mark,Barberio,CAN,Montreal,1990-03-23,3,March
+8475807,Joakim,Nordstrom,SWE,Stockholm,1992-02-25,2,February
+8476539,Jonathan,Marchessault,CAN,Cap-Rouge,1990-12-27,12,December
+8476975,Cedric,Paquette,CAN,Gaspe,1993-08-13,8,August
+8473986,Alex,Killorn,CAN,Halifax,1989-09-14,9,September
+8476860,Dylan,Blujus,USA,Buffalo,1994-01-22,1,January
+8477950,Tony,DeAngelo,USA,Sewell,1995-10-24,10,October
+8477356,Kristers,Gudlevskis,LVA,Aizkraukle,1992-07-31,7,July
+8476300,Nikita,Nesterov,RUS,Chelyabinsk,1993-03-28,3,March
+8474520,Jason,Garrison,CAN,White Rock,1984-11-13,11,November
+8476826,Yanni,Gourde,CAN,Saint-Narcisse,1991-12-15,12,December
+8476864,Ville,Pokka,FIN,Tornio,1994-06-03,6,June
+8474722,Luke,Witkowski,USA,Holland,1990-04-14,4,April
+8476394,Michael,Paliotta,USA,Westport,1993-04-06,4,April
+8476479,Phillip,Danault,CAN,Victoriaville,1993-02-24,2,February
+8477205,Andrej,Sustr,CZE,Plzen,1990-11-29,11,November
+8477326,Joel,Vermin,CHE,Bern,1992-02-05,2,February
+8477845,Trevor,van Riemsdyk,USA,Middletown,1991-07-24,7,July
+8477009,Jake,Dotchin,CAN,Cambridge,1994-03-24,3,March
+8476911,Tanner,Richard,CAN,Markham,1993-04-06,4,April
+8476882,Teuvo,Teravainen,FIN,Helsinki,1994-09-11,9,September
+8477451,Ryan,Hartman,USA,Hilton Head Isl.,1994-09-20,9,September
+8477494,Jonathan,Drouin,CAN,Ste-Agathe,1995-03-28,3,March
+8477293,Antti,Raanta,FIN,Rauma,1989-05-12,5,May
+8476480,Vladislav,Namestnikov,RUS,Zhukovskiy,1992-11-22,11,November
+8476883,Andrei,Vasilevskiy,RUS,Tyumen,1994-07-25,7,July
+8475715,Oscar,Lindberg,SWE,Skellefteå,1991-10-29,10,October
+8475832,Tom,Kuhnhackl,DEU,Landshut,1992-01-21,1,January
+8475763,Kevin,Hayes,USA,Dorchester,1992-05-08,5,May
+8475208,Brian,Dumoulin,USA,Biddeford,1991-09-06,9,September
+8470110,Trevor,Daley,CAN,Toronto,1983-10-09,10,October
+8470595,Eric,Staal,CAN,Thunder Bay,1984-10-29,10,October
+8476897,Oskar,Sundqvist,SWE,Boden,1994-03-23,3,March
+8473548,Phil,Kessel,USA,Madison,1987-10-02,10,October
+8476899,Matt,Murray,CAN,Thunder Bay,1994-05-25,5,May
+8474602,Justin,Schultz,CAN,Kelowna,1990-07-06,7,July
+8476869,Brady,Skjei,USA,Lakeville,1994-03-26,3,March
+8477839,Conor,Sheary,USA,Winchester,1992-06-08,6,June
+8475810,Bryan,Rust,USA,Pontiac,1992-05-11,5,May
+8475855,Jesper,Fast,SWE,Nassjo,1991-12-02,12,December
+8476874,Olli,Maatta,FIN,Jyväskylä,1994-08-22,8,August
+8475949,Marek,Hrivik,SVK,Cadca,1991-08-28,8,August
+8476884,Derrick,Pouliot,CAN,Estevan,1994-01-16,1,January
+8476433,Magnus,Hellberg,SWE,Uppsala,1991-04-04,4,April
+8477465,Tristan,Jarry,CAN,Surrey,1995-04-29,4,April
+8475161,Chris,Brown,USA,Flower Mound,1991-02-03,2,February
+8477435,Ryan,Graves,CAN,Yarmouth,1995-05-21,5,May
+8477126,Jayson,Megna,USA,Fort Lauderdale,1990-02-01,2,February
+8477889,Mathew,Bodie,CAN,East St. Paul,1990-03-07,3,March
+8476482,Nicklas,Jensen,DNK,Herning,1993-03-06,3,March
+8476807,Matt,Tennyson,USA,Minneapolis,1990-04-23,4,April
+8474568,Luke,Schenn,CAN,Saskatoon,1989-11-02,11,November
+8475188,Brayden,McNabb,CAN,Davidson,1991-01-21,1,January
+8476331,Dylan,DeMelo,CAN,London,1993-05-01,5,May
+8476919,Chris,Tierney,CAN,Keswick,1994-07-01,7,July
+8475820,Joonas,Donskoi,FIN,Raahe,1992-04-13,4,April
+8477922,Melker,Karlsson,SWE,Lycksele,1990-07-18,7,July
+8476442,Matt,Nieto,USA,Long Beach,1992-11-05,11,November
+8475455,Brenden,Dillon,CAN,New Westminster,1990-11-13,11,November
+8476881,Tomas,Hertl,CZE,Praha,1993-11-12,11,November
+8473571,Jamie,McBain,USA,Edina,1988-02-25,2,February
+8468483,Marian,Gaborik,SVK,Trencin,1982-02-14,2,February
+8475857,Kevin,Gravel,USA,Kingsford,1992-03-06,3,March
+8475879,Mac,Carruth,USA,Salt Lake City,1992-03-25,3,March
+8476373,Niklas,Lundstrom,SWE,Varmdo,1993-01-10,1,January
+8469485,Derek,Roy,CAN,Ottawa,1983-05-04,5,May
+8468011,Ryan,Miller,USA,East Lansing,1980-07-17,7,July
+8475175,Magnus,Paajarvi,SWE,Norrkoping,1991-04-12,4,April
+8468505,Steve,Ott,CAN,Summerside,1982-08-19,8,August
+8476774,Terry,Broadhurst,USA,Orland Park,1988-11-30,11,November
+8475966,Garret,Ross,USA,Dearborn Hts.,1992-05-26,5,May
+8475720,Kent,Simpson,CAN,Edmonton,1992-03-26,3,March
+8477195,Mathieu,Brisebois,CAN,Mont Saint-Hilaire,1992-04-17,4,April
+8467391,Jason,LaBarbera,CAN,Burnaby,1980-01-18,1,January
+8476471,Mark,McNeill,CAN,Langley,1993-02-22,2,February
+8477243,Drew,LeBlanc,USA,Duluth,1989-06-29,6,June
+8476283,Alex,Broadhurst,USA,New Lenox,1993-03-07,3,March
+8475816,Stanislav,Galiev,RUS,Moscow,1992-01-17,1,January
+8476906,Shayne,Gostisbehere,USA,Pembroke Pines,1993-04-20,4,April
+8477444,Andre,Burakovsky,SWE,Klagenfurt,1995-02-09,2,February
+8476872,Scott,Laughton,CAN,Oakville,1994-05-30,5,May
+8475462,Radko,Gudas,CZE,Prague,1990-06-05,6,June
+8473461,Steve,Mason,CAN,Oakville,1988-05-29,5,May
+8476393,Nick,Cousins,CAN,Belleville,1993-07-20,7,July
+8469469,R.J.,Umberger,USA,Pittsburgh,1982-05-03,5,May
+8468513,Nick,Schultz,CAN,Strasbourg,1982-08-25,8,August
+8471762,Chris,VandeVelde,USA,Moorhead,1987-03-15,3,March
+8475247,Michael,Latta,CAN,Kitchener,1991-05-25,5,May
+8475744,Evgeny,Kuznetsov,RUS,Chelyabinsk,1992-05-19,5,May
+8473426,Mike,Weber,USA,Pittsburgh,1987-12-16,12,December
+8477930,Pierre-Edouard,Bellemare,FRA,Le Blanc-Mesnil,1985-03-06,3,March
+8474040,Sam,Gagner,CAN,London,1989-08-10,8,August
+8478563,Evgeny,Medvedev,RUS,Chelyabinsk,1982-08-27,8,August
+8477290,Michael,Raffl,AUT,Villach,1988-12-01,12,December
+8477462,Robert,Hagg,SWE,Uppsala,1995-02-08,2,February
+8475729,Mark,Alt,USA,Kansas City,1991-10-18,10,October
+8477502,Samuel,Morin,CAN,Lac-Beauport,1995-07-12,7,July
+8476932,Anthony,Stolarz,USA,Edison,1994-01-20,1,January
+8478367,Cole,Bardreau,USA,Fairport,1993-07-22,7,July
+8476955,Taylor,Leier,CAN,Saskatoon,1994-02-15,2,February
+8471436,Matt,Hunwick,USA,Warren,1985-05-21,5,May
+8473536,James,Sheppard,CAN,Halifax,1988-04-25,4,April
+8476449,Scott,Harrington,CAN,Kingston,1993-03-10,3,March
+8471260,Blake,Comeau,CAN,Meadow Lake,1986-02-18,2,February
+8476293,Scott,Wilson,CAN,Oakville,1992-04-24,4,April
+8464981,Cory,Sarich,CAN,Saskatoon,1978-08-16,8,August
+8473499,Reto,Berra,CHE,Bulach,1987-01-03,1,January
+8473575,Semyon,Varlamov,RUS,Samara,1988-04-27,4,April
+8475799,Nino,Niederreiter,CHE,Chur,1992-09-08,9,September
+8475287,Erik,Haula,FIN,Pori,1991-03-23,3,March
+8476455,Gabriel,Landeskog,SWE,Stockholm,1992-11-23,11,November
+8475168,Matt,Duchene,CAN,Haliburton,1991-01-16,1,January
+8470750,John,Mitchell,CAN,Oakville,1985-01-22,1,January
+8471326,Patrick,Bordeleau,CAN,Montreal,1986-03-23,3,March
+8475206,Stefan,Elliott,CAN,Vancouver,1991-01-30,1,January
+8473700,Ryan,Wilson,CAN,Windsor,1987-02-03,2,February
+8474089,Brad,Malone,CAN,Miramichi,1989-05-20,5,May
+8471657,Cody,McLeod,CAN,Binscarth,1984-06-26,6,June
+8474207,Nick,Holden,CAN,St. Albert,1987-05-15,5,May
+8474008,Paul,Carey,USA,Boston,1988-09-24,9,September
+8471669,Paul,Stastny,USA,Quebec City,1985-12-27,12,December
+8469707,PA,Parenteau,CAN,Hull,1983-03-24,3,March
+8473446,Erik,Johnson,USA,Bloomington,1988-03-21,3,March
+8470699,Jan,Hejda,CZE,Prague,1978-06-18,6,June
+8469591,Cody,McCormick,CAN,London,1983-04-18,4,April
+8475158,Ryan,O'Reilly,CAN,Clinton,1991-02-07,2,February
+8475197,Tyson,Barrie,CAN,Victoria,1991-07-26,7,July
+8477492,Nathan,MacKinnon,CAN,Halifax,1995-09-01,9,September
+8474202,John,Curry,USA,Shorewood,1984-02-27,2,February
+8475717,Calvin,Pickard,CAN,Moncton,1992-04-15,4,April
+8476536,Colin,Smith,CAN,Edmonton,1993-06-20,6,June
+8475767,Joey,Hishon,CAN,Stratford,1991-10-20,10,October
+8476464,Duncan,Siemens,CAN,Edmonton,1993-09-07,9,September
+8475461,Andrew,Agozzino,CAN,Kleinburg,1991-01-03,1,January
+8475824,Sami,Aittokallio,FIN,Tampere,1992-08-06,8,August
+8476798,Karl,Stollery,CAN,Camrose,1987-11-21,11,November
+8472373,Jon,Landry,CAN,Montreal,1983-05-01,5,May
+8476933,Raphael,Bussieres,CAN,Longueuil,1993-11-05,11,November
+8476344,Tyler,Graovac,CAN,Brampton,1993-04-27,4,April
+8475860,Johan,Gustafsson,SWE,Köping,1992-02-28,2,February
+8469759,Vernon,Fiddler,CAN,Edmonton,1980-05-09,5,May
+8475236,Cody,Eakin,CAN,Winnipeg,1991-05-24,5,May
+8476889,Radek,Faksa,CZE,Vitkov,1994-01-09,1,January
+8477501,Valeri,Nichushkin,RUS,Chelyabinsk,1995-03-04,3,March
+8470877,David,Jones,CAN,Guelph,1984-08-10,8,August
+8470598,Thomas,Vanek,AUT,Vienna,1984-01-19,1,January
+8475730,Stephen,Johns,USA,Ellwood City,1992-04-18,4,April
+8476467,Jamie,Oleksiak,CAN,Toronto,1992-12-21,12,December
+8469455,Jason,Spezza,CAN,Toronto,1983-06-13,6,June
+8474849,Antoine,Roussel,FRA,Roubaix,1989-11-21,11,November
+8473994,Jamie,Benn,CAN,Victoria,1989-07-18,7,July
+8474098,Colton,Sceviour,CAN,Red Deer,1989-04-20,4,April
+8475147,Jordan,Schroeder,USA,Lakeville,1990-09-29,9,September
+8469466,Ales,Hemsky,CZE,Pardubice,1983-08-13,8,August
+8475906,John,Klingberg,SWE,Gothenburg,1992-08-14,8,August
+8474818,Jordie,Benn,CAN,Victoria,1987-07-26,7,July
+8476439,Brett,Ritchie,CAN,Orangeville,1993-07-01,7,July
+8475747,Patrik,Nemeth,SWE,Stockholm,1992-02-08,2,February
+8471227,Devan,Dubnyk,CAN,Regina,1986-05-04,5,May
+8474610,Zac,Dalpe,CAN,Paris,1989-11-01,11,November
+8477406,Mattias,Janmark,SWE,Stockholm,1992-12-08,12,December
+8477850,Christian,Folin,SWE,Gothenburg,1991-02-09,2,February
+8471274,Alex,Goligoski,USA,Grand Rapids,1985-07-30,7,July
+8470140,Kari,Lehtonen,FIN,Helsinki,1983-11-16,11,November
+8478390,Grayson,Downing,CAN,Abbotsford,1992-04-18,4,April
+8476619,Zack,Mitchell,CAN,Orangeville,1993-01-07,1,January
+8478524,Zach,Palmquist,USA,South St. Pau,1990-12-09,12,December
+8476422,Mike,Reilly,USA,Chicago,1993-07-13,7,July
+8470729,Tyson,Strachan,CAN,Melfort,1984-10-30,10,October
+8476545,Kurtis,Gabriel,CAN,Newmarket,1993-04-20,4,April
+8478208,Hunter,Warner,USA,Cambridge,1995-09-21,9,September
+8476313,Steve,Michalek,USA,Hartford,1993-08-06,8,August
+8474627,Jori,Lehtera,FIN,Helsinki,1987-12-23,12,December
+8471761,Chris,Butler,USA,St. Louis,1986-10-27,10,October
+8466140,Olli,Jokinen,FIN,Kuopio,1978-12-05,12,December
+8474125,Carl,Gunnarsson,SWE,Orebro,1986-11-09,11,November
+8476427,Ty,Rattie,CAN,Calgary,1993-02-05,2,February
+8469473,Marcel,Goc,DEU,Calw,1983-08-24,8,August
+8477467,Gustav,Olofsson,SWE,Boras,1994-12-01,12,December
+8471840,Brett,Sutter,CAN,Viking,1987-06-02,6,June
+8478138,Guillaume,Gelinas,CAN,Quebec City,1993-06-14,6,June
+8477923,Michael,Keranen,FIN,Stockholm,1990-01-04,1,January
+8476808,Brian,Flynn,USA,Lynnfield,1988-07-26,7,July
+8470667,Clarke,MacArthur,CAN,Lloydminster,1985-04-06,4,April
+8473507,Jeff,Petry,USA,Ann Arbor,1987-12-09,12,December
+8477202,Andrew,Hammond,CAN,Surrey,1988-02-11,2,February
+8468478,Mike,Weaver,CAN,Brampton,1978-05-02,5,May
+8477455,Jacob,de la Rose,SWE,Arvika,1995-05-20,5,May
+8476379,Darren,Dietz,CAN,Medicine Hat,1993-07-17,7,July
+8477901,Daniel,Carr,CAN,Sherwood Park,1991-11-01,11,November
+8478004,Brett,Lernout,CAN,Winnipeg,1995-09-24,9,September
+8477237,Mike,Condon,USA,Holliston,1990-04-27,4,April
+8476948,Charles,Hudon,CAN,Alma,1994-06-23,6,June
+8476904,Chris,Driedger,CAN,Winnipeg,1994-05-18,5,May
+8475227,Chris,Wideman,USA,St. Louis,1990-01-07,1,January
+8476368,Fredrik,Claesson,SWE,Stockholm,1992-11-24,11,November
+8477210,Buddy,Robinson,USA,Bellmawr,1991-09-30,9,September
+8471241,Mark,Fistric,CAN,Edmonton,1986-06-01,6,June
+8462196,Stephane,Robidas,CAN,Sherbrooke,1977-03-03,3,March
+8469490,Tim,Jackman,USA,Minot,1981-11-14,11,November
+8476525,Colin,Miller,CAN,Sault Ste. Marie,1992-10-29,10,October
+8475762,Derek,Forbort,USA,Duluth,1992-03-04,3,March
+8477149,Scott,Sabourin,CAN,Orleans,1992-07-30,7,July
+8477378,Patrik,Bartosak,CZE,Novy Jicin,1993-03-29,3,March
+8476409,Alan,Quine,CAN,Belleville,1993-02-25,2,February
+8477932,Aaron,Ekblad,CAN,Windsor,1996-02-07,2,February
+8475755,Alexander,Petrovic,CAN,Edmonton,1992-03-03,3,March
+8473579,Nikolay,Kulemin,RUS,Magnitogorsk,1986-07-14,7,July
+8475760,Nick,Bjugstad,USA,Minneapolis,1992-07-17,7,July
+8476456,Jonathan,Huberdeau,CAN,Saint-Jerome,1993-06-04,6,June
+8471362,Mikhail,Grabovski,BLR,Potsdam,1984-01-31,1,January
+8477506,Ryan,Pulock,CAN,Dauphin,1994-10-06,10,October
+8475769,Quinton,Howden,CAN,Winnipeg,1992-01-21,1,January
+8475179,Dmitry,Kulikov,RUS,Lipetsk,1990-10-29,10,October
+8476389,Vincent,Trocheck,USA,Pittsburgh,1993-07-11,7,July
+8475253,Garrett,Wilson,CAN,Barrie,1991-03-16,3,March
+8468001,Derek,MacKenzie,CAN,Sudbury,1981-06-11,6,June
+8476428,Rocco,Grimaldi,USA,Anaheim,1993-02-08,2,February
+8475735,Greg,McKegg,CAN,St. Thomas,1992-06-17,6,June
+8476917,Adam,Pelech,CAN,Toronto,1994-08-16,8,August
+8476875,Mike,Matheson,CAN,Pointe-Claire,1994-02-27,2,February
+8476444,Christopher,Gibson,FIN,Karkkila,1992-12-27,12,December
+8475790,Erik,Gudbranson,CAN,Ottawa,1992-01-07,1,January
+8475191,Reilly,Smith,CAN,Mimico,1991-04-01,4,April
+8477493,Aleksander,Barkov,FIN,Tampere,1995-09-02,9,September
+8475246,Kevin,Connauton,CAN,Edmonton,1990-02-23,2,February
+8467396,Erik,Cole,USA,Oswego,1978-11-06,11,November
+8467423,Shawn,Horcoff,CAN,Trail,1978-09-17,9,September
+8476116,Ryan,Garbutt,CAN,Edmonton,1985-08-12,8,August
+8475714,Calle,Jarnkrok,SWE,Gävle,1991-09-25,9,September
+8476925,Colton,Sissons,CAN,North Vancouver,1993-11-05,11,November
+8470105,Scottie,Upshall,CAN,Fort McMurray,1983-10-07,10,October
+8476887,Filip,Forsberg,SWE,Ostervala,1994-08-13,8,August
+8476447,Miikka,Salomaki,FIN,Raahe,1993-03-09,3,March
+8476892,Colton,Parayko,CAN,St. Albert,1993-05-12,5,May
+8476857,Pontus,Aberg,SWE,Stockholm,1993-09-23,9,September
+8477942,Kevin,Fiala,CHE,St. Gallen,1996-07-22,7,July
+8475766,Austin,Watson,USA,Ann Arbor,1992-01-13,1,January
+8476855,Nail,Yakupov,RUS,Nizhnekamsk,1993-10-06,10,October
+8476779,Brad,Hunt,CAN,Maple Ridge,1988-08-24,8,August
+8478042,Viktor,Arvidsson,SWE,Skellefteå,1993-04-08,4,April
+8475218,Mattias,Ekholm,SWE,Borlange,1990-05-24,5,May
+8476989,Petteri,Lindbohm,FIN,Helsinki,1993-09-23,9,September
+8477482,Zach,Sanford,USA,Salem,1994-11-09,11,November
+8475868,Anthony,Bitetto,USA,Island Park,1990-07-15,7,July
+8477964,Ivan,Barbashev,RUS,Moscow,1995-12-14,12,December
+8475793,Ryan,Johansen,CAN,Vancouver,1992-07-31,7,July
+8476441,Joel,Edmundson,CAN,Brandon,1993-06-28,6,June
+8478461,Luke,Opilka,USA,Effingham,1997-02-27,2,February
+8476992,Marek,Mazanec,CZE,Pisek,1991-07-18,7,July
+8476877,Jordan,Schmaltz,USA,Madison,1993-10-08,10,October
+8477919,Frederick,Gaudreau,CAN,Bromont,1993-05-01,5,May
+8477982,Jack,Dougherty,USA,St. Paul,1996-05-25,5,May
+8475774,Petter,Granberg,SWE,Gallivare,1992-08-27,8,August
+8477634,Trevor,Murphy,CAN,Windsor,1995-07-17,7,July
+8478851,Alexandre,Carrier,CAN,Quebec City,1996-10-08,10,October
+8477973,Vladislav,Kamenev,RUS,Orsk,1996-08-12,8,August
+8471760,Cody,Bass,CAN,Owen sound,1987-01-07,1,January
+8478550,Artemi,Panarin,RUS,Korkino,1991-10-30,10,October
+8476979,Erik,Gustafsson,SWE,Nynashamn,1992-03-14,3,March
+8475209,Richard,Panik,SVK,Martin,1991-02-07,2,February
+8470039,Tomas,Fleischmann,CZE,Koprivnice,1984-05-16,5,May
+8477952,Robby,Fabbri,CAN,Mississauga,1996-01-22,1,January
+8471217,Andrew,Ladd,CAN,Maple Ridge,1985-12-12,12,December
+8473573,Artem,Anisimov,RUS,Yaroslavl,1988-05-24,5,May
+8471185,Curtis,Glencross,CAN,Kindersley,1982-12-28,12,December
+8469476,Tim,Gleason,USA,Clawson,1983-01-29,1,January
+8477939,William,Nylander,SWE,Calgary,1996-05-01,5,May
+8475716,Martin,Marincin,SVK,Kosice,1992-02-18,2,February
+8476941,Connor,Carrick,USA,Orland Park,1994-04-13,4,April
+8477953,Kasperi,Kapanen,FIN,Kuopio,1996-07-23,7,July
+8479318,Auston,Matthews,USA,San Ramon,1997-09-17,9,September
+8476410,Josh,Leivo,CAN,Innisfil,1993-05-26,5,May
+8473463,Leo,Komarov,FIN,Narva,1987-01-23,1,January
+8478373,Nikita,Soshnikov,RUS,Nizhny Tagil,1993-10-14,10,October
+8475786,Zach,Hyman,CAN,Toronto,1992-06-09,6,June
+8476853,Morgan,Rielly,CAN,Vancouver,1994-03-09,3,March
+8477015,Connor,Brown,CAN,Toronto,1994-01-14,1,January
+8479458,Nikita,Zaitsev,RUS,Moscow,1991-10-29,10,October
+8476289,Alexey,Marchenko,RUS,Moscow,1992-01-02,1,January
+8475098,Tyler,Bozak,CAN,Regina,1986-03-19,3,March
+8474581,Jake,Gardiner,USA,Minnetonka,1990-07-04,7,July
+8475792,Brett,Connolly,CAN,Campbell River,1992-05-02,5,May
+8478483,Mitchell,Marner,CAN,Markham,1997-05-05,5,May
+8475172,Nazem,Kadri,CAN,London,1990-10-06,10,October
+8476905,Chandler,Stephenson,CAN,Saskatoon,1994-04-22,4,April
+8478906,Markus,Nutivaara,FIN,Oulu,1994-06-06,6,June
+8476326,Josh,Archibald,CAN,Regina,1992-10-06,10,October
+8476448,William,Karlsson,SWE,Marsta,1993-01-08,1,January
+8478506,Gabriel,Carlsson,SWE,Orebro,1997-01-02,1,January
+8477416,Oliver,Bjorkstrand,DNK,Herning,1995-04-10,4,April
+8476850,Ryan,Murray,CAN,Regina,1993-09-27,9,September
+8473422,Nick,Foligno,USA,Buffalo,1987-10-31,10,October
+8468493,Ron,Hainsey,USA,Bolton,1981-03-24,3,March
+8474715,Cam,Atkinson,USA,Riverside,1989-06-05,6,June
+8477505,Alexander,Wennberg,SWE,Stockholm,1994-09-22,9,September
+8476981,Josh,Anderson,CAN,Burlington,1994-05-07,5,May
+8476861,Oscar,Dansk,SWE,Stockholm,1994-02-28,2,February
+8474685,Matt,Calvert,CAN,Brandon,1989-12-24,12,December
+8476310,Lukas,Sedlak,CZE,Ceské Budejovice,1993-02-25,2,February
+8476432,Boone,Jenner,CAN,Dorchester,1993-06-15,6,June
+8477244,Chad,Ruhwedel,USA,San Diego,1990-05-07,5,May
+8477240,Carter,Rowney,CAN,Grand Prairie,1989-05-10,5,May
+8477404,Jake,Guentzel,USA,Omaha,1994-10-06,10,October
+8474611,Cameron,Gaunce,CAN,Sudbury,1990-03-19,3,March
+8475233,David,Savard,CAN,St. Hyacinthe,1990-10-22,10,October
+8477495,Seth,Jones,USA,Arlington,1994-10-03,10,October
+8471273,Brandon,Dubinsky,USA,Anchorage,1986-04-29,4,April
+8478460,Zach,Werenski,USA,Grosse Pointe,1997-07-19,7,July
+8477947,Sonny,Milano,USA,Massapequa,1996-05-12,5,May
+8476341,Anton,Forsberg,SWE,Härnösand,1992-11-27,11,November
+8478541,Markus,Hannikainen,FIN,Helsinki,1993-03-26,3,March
+8478426,Paul,Bittner,USA,Crookston,1996-11-04,11,November
+8478567,Dean,Kukan,CHE,Volketswil,1993-07-08,7,July
+8479411,Vitaly,Abramov,RUS,Chelyabinsk,1998-05-08,5,May
+8477430,Nick,Moutrey,CAN,Toronto,1995-06-24,6,June
+8477638,Jordan,Maletta,CAN,St. Catharines,1995-04-30,4,April
+8476391,TJ,Tynan,USA,Orland Park,1992-02-25,2,February
+8475829,John,Ramage,CAN,Mississauga,1991-02-07,2,February
+8479032,Justin,Scott,CAN,Burlington,1995-08-13,8,August
+8476852,Griffin,Reinhart,CAN,North Vancouver,1994-01-24,1,January
+8471251,Justin,Peters,CAN,Blyth,1986-08-30,8,August
+8476147,Kael,Mouillierat,CAN,Edmonton,1987-12-09,12,December
+8476429,Scott,Mayfield,USA,St. Louis,1992-10-14,10,October
+8478493,Joel,Eriksson Ek,SWE,Karlstad,1997-01-29,1,January
+8479443,Sam,Anas,USA,Potomac,1993-06-01,6,June
+8476372,Nick,Seeler,USA,Eden Prairie,1993-06-03,6,June
+8476219,Patrick,Cannone,USA,Bayport,1986-08-09,8,August
+8477949,Alex,Tuch,USA,Syracuse,1996-05-10,5,May
+8477006,Christoph,Bertschy,CHE,Fribourg,1994-04-05,4,April
+8478501,Gustav,Bouramman,SWE,Stockholm,1997-01-24,1,January
+8476330,Adam,Wilcox,USA,South St. Paul,1992-11-26,11,November
+8478010,Brayden,Point,CAN,Calgary,1996-03-13,3,March
+8477454,Adam,Erne,USA,New Haven,1995-04-20,4,April
+8476285,Matthew,Peca,CAN,Petawawa,1993-04-27,4,April
+8478866,Dominik,Simon,CZE,Prague,1994-08-08,8,August
+8477520,Jean-Sebastien,Dea,CAN,Laval,1994-02-08,2,February
+8475148,Tim,Erixon,SWE,Port Chester,1991-02-24,2,February
+8478466,Daniel,Sprong,NLD,Amsterdam,1997-03-17,3,March
+8476963,Sean,Maguire,CAN,Edmonton,1993-02-02,2,February
+8476302,Frank,Corrado,CAN,Toronto,1993-03-26,3,March
+8471331,Kevin,Porter,USA,Detroit,1986-03-12,3,March
+8474660,David,Warsofsky,USA,Marshfield,1990-05-30,5,May
+8471715,Ondrej,Pavelec,CZE,Kladno,1987-08-31,8,August
+8470828,Toby,Enstrom,SWE,Nordingra,1984-11-05,11,November
+8470222,James,Wisniewski,USA,Canton,1984-02-21,2,February
+8473412,Bryan,Little,CAN,Edmonton,1987-11-12,11,November
+8470740,Lee,Stempniak,USA,West Seneca,1983-02-04,2,February
+8474074,Paul,Postma,CAN,Red Deer,1989-02-22,2,February
+8470834,Dustin,Byfuglien,USA,Roseau,1985-03-27,3,March
+8477429,Andrew,Copp,USA,Ann Arbor,1994-07-08,7,July
+8476460,Mark,Scheifele,CAN,Kitchener,1993-03-15,3,March
+8469531,Jay,Harrison,CAN,Oshawa,1982-11-03,11,November
+8471218,Blake,Wheeler,USA,Plymouth,1986-08-31,8,August
+8476945,Connor,Hellebuyck,USA,Commerce,1993-05-19,5,May
+8470289,Jim,Slater,USA,Lapeer,1982-12-09,12,December
+8474603,Eric,O'Dell,CAN,Ottawa,1990-06-21,6,June
+8473482,Jiri,Tlusty,CZE,Slany,1988-03-16,3,March
+8478137,Jiri,Sekac,CZE,Kladno,1992-06-10,6,June
+8474574,Tyler,Myers,CAN,Houston,1990-02-01,2,February
+8471385,Adam,Pardy,CAN,Bonavista,1984-03-29,3,March
+8476392,Adam,Lowry,USA,St. Louis,1993-03-29,3,March
+8469501,Chris,Thorburn,CAN,Sault Ste. Marie,1983-06-03,6,June
+8470614,Mark,Stuart,USA,Rochester,1984-04-27,4,April
+8471226,Drew,Stafford,USA,Milwaukee,1985-10-30,10,October
+8476885,Jacob,Trouba,USA,Rochester,1994-02-26,2,February
+8475279,Ben,Chiarot,CAN,Hamilton,1991-05-09,5,May
+8474061,Anthony,Peluso,CAN,North York,1989-04-18,4,April
+8475958,Michael,Sgarbossa,CAN,Campbellville,1992-07-25,7,July
+8477940,Nikolaj,Ehlers,DNK,Aalborg,1996-02-14,2,February
+8477034,Jaycob,Megna,USA,Plantation,1992-12-10,12,December
+8475834,Marcus,Sorensen,SWE,Sodertalje,1992-04-07,4,April
+8477931,Tomas,Nosek,CZE,Pardubice,1992-09-01,9,September
+8477983,Maxim,Letunov,RUS,Moscow,1996-02-20,2,February
+8475169,Evander,Kane,CAN,Vancouver,1991-08-02,8,August
+8480263,Dylan,Ferguson,CAN,Lantzville,1998-09-20,9,September
+8477180,Aaron,Dell,CAN,Airdrie,1989-05-04,5,May
+8477478,William,Carrier,CAN,LaSalle,1994-12-20,12,December
+8476624,Barclay,Goodrow,CAN,Toronto,1993-02-26,2,February
+8478414,Timo,Meier,CHE,Herisau,1996-10-08,10,October
+8478099,Kevin,Labanc,USA,Brooklyn,1995-12-12,12,December
+8477046,Joakim,Ryan,USA,Rumson,1993-06-17,6,June
+8479580,Dylan,Gambrell,USA,Bonney Lake,1996-08-26,8,August
+8477846,Ryan,Carpenter,USA,Oviedo,1991-01-18,1,January
+8475750,Jon,Merrill,USA,Oklahoma City,1992-02-03,2,February
+8480373,Josef,Korenar,,Pelhrimov,1998-01-31,1,January
+8475841,Tim,Heed,SWE,Gothenburg,1991-01-27,1,January
+8477312,Antoine,Bibeau,CAN,Victoriaville,1994-05-01,5,May
+8476509,Maxime,Lagace,CAN,Saint-Augustin,1993-01-12,1,January
+8478434,Keegan,Kolesar,CAN,Brandon,1997-04-08,4,April
+8476987,Jake,Bischoff,USA,Cambridge,1994-07-25,7,July
+8479980,Nicolas,Hague,CAN,Kitchener,1998-12-05,12,December
+8476870,Stefan,Matteau,USA,Chicago,1994-02-23,2,February
+8480018,Nick,Suzuki,CAN,London,1999-08-10,8,August
+8479996,Cody,Glass,CAN,Winnipeg,1999-04-01,4,April
+8476407,Andy,Welinski,USA,Duluth,1993-04-27,4,April
+8478873,Troy,Terry,USA,Denver,1997-09-10,9,September
+8477969,Marcus,Pettersson,SWE,Skellefteå,1996-05-08,5,May
+8478491,Jacob,Larsson,SWE,Ljungby,1997-04-29,4,April
+8476329,Travis,Boyd,USA,Hopkins,1993-09-14,9,September
+8478477,Mitchell,Stephens,CAN,Peterborough,1997-02-05,2,February
+8480186,Alexander,Volkov,RUS,Moscow,1997-08-02,8,August
+8480143,Jakub,Jerabek,CZE,Pilsen,1991-05-12,5,May
+8478472,Mathieu,Joseph,CAN,Laval,1997-02-09,2,February
+8479482,Michal,Kempny,CZE,Hodonin,1990-09-08,9,September
+8478519,Anthony,Cirelli,CAN,Etobicoke,1997-07-15,7,July
+8477944,Jakub,Vrana,CZE,Prague,1996-02-28,2,February
+8478049,Ben,Thomas,CAN,Calgary,1996-05-28,5,May
+8477831,Pheonix,Copley,USA,North Pole,1992-01-18,1,January
+8477314,Brian,Pinho,USA,Beverly,1995-05-11,5,May
+8479410,Mikhail,Sergachev,RUS,Nizhnekamsk,1998-06-25,6,June
+8477474,Madison,Bowey,CAN,Winnipeg,1995-04-22,4,April
+8477043,Christian,Djoos,SWE,Gothenburg,1994-08-06,8,August
+8478971,Connor,Ingram,CAN,Saskatoon,1997-03-31,3,March
+8477409,Carter,Verhaeghe,CAN,Toronto,1995-08-14,8,August
+8478416,Erik,Cernak,SVK,Kosice,1997-05-28,5,May
+8477966,Dominik,Masin,CZE,Mastec Kralove,1996-02-01,2,February
+8477573,Nathan,Walker,AUS,Cardiff,1994-02-07,2,February
+8478063,Shane,Gersich,USA,Chaska,1996-07-10,7,July
+8479400,Pierre-Luc,Dubois,CAN,Ste-Agathe-Des-Monts,1998-06-24,6,June
+8477978,Ryan,Collins,USA,Bloomington,1996-05-06,5,May
+8480162,Matiss,Kivlenieks,USA,Riga,1996-08-26,8,August
+8477424,Juuse,Saros,FIN,Forssa,1995-04-19,4,April
+8477387,Emil,Pettersson,SWE,Sundsvall,1994-01-14,1,January
+8478398,Kyle,Connor,USA,Shelby Twp.,1996-12-09,12,December
+8477504,Josh,Morrissey,CAN,Calgary,1995-03-28,3,March
+8479329,Frederic,Allard,CAN,St. Sauveur,1997-12-27,12,December
+8477234,Troy,Grosenick,USA,Brookfield,1989-08-27,8,August
+8479293,Brandon,Tanev,CAN,Toronto,1991-12-31,12,December
+8477715,Tyler,Gaudet,CAN,Hamilton,1993-04-04,4,April
+8476469,Joel,Armia,FIN,Pori,1993-05-31,5,May
+8477359,Tucker,Poolman,USA,Dubuque,1993-06-08,6,June
+8479339,Patrik,Laine,FIN,Tampere,1998-04-19,4,April
+8476476,Joe,Morrow,CAN,Edmonton,1992-12-09,12,December
+8478458,Jack,Roslovic,USA,Columbus,1997-01-29,1,January
+8480009,Eeli,Tolvanen,FIN,Vihti,1999-04-22,4,April
+8477448,Marko,Dano,SVK,Eisenstadt,1994-11-30,11,November
+8473574,Shawn,Matthias,CAN,Mississauga,1988-02-19,2,February
+8477380,Jonny,Brodzinski,USA,Ham Lake,1993-06-19,6,June
+8480147,Oscar,Fantenberg,SWE,Ljunby,1991-10-07,10,October
+8476983,Paul,LaDue,USA,Grand Forks,1992-09-06,9,September
+8480113,Alex,Iafallo,USA,Eden,1993-12-21,12,December
+8470602,Dion,Phaneuf,CAN,Edmonton,1985-04-10,4,April
+8477960,Adrian,Kempe,SWE,Kramfors,1996-09-13,9,September
+8476356,Tobias,Rieder,DEU,Landshut,1993-01-10,1,January
+8478020,Michael,Amadio,CAN,Sault Ste. Marie,1996-05-13,5,May
+8479325,Charlie,McAvoy,USA,Long Beach,1997-12-21,12,December
+8478435,Dan,Vladar,CZE,Prague,1997-08-20,8,August
+8476891,Matt,Grzelcyk,USA,Charlestown,1994-01-05,1,January
+8476374,Sean,Kuraly,USA,Dublin,1993-01-20,1,January
+8477987,Ryan,Donato,USA,Boston,1996-04-09,4,April
+8478443,Brandon,Carlo,USA,Colorado Springs,1996-11-26,11,November
+8478046,Danton,Heinen,CAN,Langley,1995-07-05,7,July
+8478569,Noel,Acciari,USA,Johnston,1991-12-01,12,December
+8477956,David,Pastrnak,CZE,Havirov,1996-05-25,5,May
+8478498,Jake,DeBrusk,CAN,Edmonton,1996-10-17,10,October
+8476191,Kevan,Miller,USA,Los Angeles,1987-11-15,11,November
+8477213,Tim,Schaller,USA,Merrimack,1990-11-16,11,November
+8474062,Riley,Nash,CAN,Consort,1989-05-09,5,May
+8475876,Zane,McIntyre,USA,Grand Forks,1992-08-20,8,August
+8478512,Austin,Czarnik,USA,Detroit,1992-12-12,12,December
+8475648,Chris,Breen,CAN,Uxbridge,1989-06-29,6,June
+8478485,Zach,Senyshyn,CAN,Ottawa,1997-03-30,3,March
+8477320,Anton,Blidh,SWE,Molnlycke,1995-03-14,3,March
+8477529,Colby,Cave,CAN,Battleford,1994-12-26,12,December
+8478415,Jakub,Zboril,CZE,Brno,1997-02-21,2,February
+8478417,Jakob,Forsbacka Karlsson,SWE,Stockholm,1996-10-31,10,October
+8474019,Tommy,Cross,USA,Hartford,1989-09-12,9,September
+8477948,Travis,Sanheim,CAN,Elkhorn,1996-03-29,3,March
+8478439,Travis,Konecny,CAN,London,1997-03-11,3,March
+8479974,Nolan,Patrick,CAN,Winnipeg,1998-09-19,9,September
+8477591,Josh,Jooris,CAN,Burlington,1990-07-14,7,July
+8475852,Petr,Mrazek,CZE,Ostrava,1992-02-14,2,February
+8479944,Zach,Aston-Reese,USA,Staten Island,1994-08-10,8,August
+8478500,Ivan,Provorov,RUS,Yaroslavl,1997-01-13,1,January
+8478067,Oskar,Lindblom,SWE,Gävle,1996-08-15,8,August
+8476923,Damon,Severson,CAN,Melville,1994-08-07,8,August
+8476207,Brian,Gibbons,USA,Braintree,1988-02-26,2,February
+8477463,Steven,Santini,USA,Bronxville,1995-03-07,3,March
+8477509,Mirco,Mueller,CHE,Winterthur,1995-03-21,3,March
+8479407,Jesper,Bratt,SWE,Stockholm,1998-07-30,7,July
+8477425,Miles,Wood,USA,Buffalo,1995-09-13,9,September
+8478401,Pavel,Zacha,CZE,Brno,1997-04-06,4,April
+8477355,Will,Butcher,USA,Sun Prairie,1995-01-06,1,January
+8476399,Blake,Coleman,USA,Plano,1991-11-28,11,November
+8480002,Nico,Hischier,CHE,Brig,1999-01-04,1,January
+8475791,Taylor,Hall,CAN,Calgary,1991-11-14,11,November
+8476370,Blake,Pietila,USA,Milford,1993-02-20,2,February
+8480081,Michael,Kapla,USA,Eau Claire,1994-09-19,9,September
+8479415,Michael,McLeod,CAN,Mississauga,1998-02-03,2,February
+8479250,Nick,Lappin,USA,Geneva,1992-11-01,11,November
+8479291,Kevin,Rooney,USA,Canton,1993-05-21,5,May
+8479315,Joey,Anderson,USA,Roseville,1998-06-19,6,June
+8480073,Erik,Brannstrom,SWE,Eksjo,1999-09-02,9,September
+8477464,Nic,Petan,CAN,Delta,1995-03-22,3,March
+8478031,Nelson,Nogier,CAN,Saskatoon,1996-05-27,5,May
+8478915,Sami,Niku,FIN,Haapavesi,1996-10-10,10,October
+8477076,JC,Lipon,CAN,Regina,1993-07-10,7,July
+8479378,Logan,Stanley,CAN,Waterloo,1998-05-26,5,May
+8478487,Michael,Spacek,CZE,Marianske Lazne,1997-04-09,4,April
+8475815,Julian,Melchiori,CAN,Richmond Hill,1991-12-06,12,December
+8477962,Brendan,Lemieux,USA,Denver,1996-03-15,3,March
+8477440,Jan,Kostalek,CZE,Prague,1995-02-17,2,February
+8478891,Mason,Appleton,USA,Green Bay,1996-01-15,1,January
+8477480,Eric,Comrie,CAN,Edmonton,1995-07-06,7,July
+8478029,Chase,De Leo,USA,La Mirada,1995-10-25,10,October
+8478424,Jansen,Harkins,USA,Cleveland,1997-05-23,5,May
+8476876,Malcolm,Subban,CAN,Toronto,1993-12-21,12,December
+8476617,Tomas,Hyka,CZE,Mlada Boleslav,1993-03-23,3,March
+8477341,Andreas,Johnsson,SWE,Gävle,1994-11-21,11,November
+8478408,Travis,Dermott,CAN,Newmarket,1996-12-22,12,December
+8470147,Curtis,McElhinney,CAN,London,1983-05-23,5,May
+8480356,Kyle,Keyser,,Coral Springs,1999-03-08,3,March
+8477021,Alexander,Kerfoot,CAN,Vancouver,1994-08-11,8,August
+8478073,Anton,Lindholm,SWE,Skellefteå,1994-11-29,11,November
+8477507,Nikita,Zadorov,RUS,Moscow,1995-04-16,4,April
+8479370,Tyson,Jost,CAN,St. Albert,1998-03-14,3,March
+8476952,Dominic,Toninato,USA,Duluth,1994-03-09,3,March
+8477413,Sven,Andrighetto,CHE,Zurich,1993-03-21,3,March
+8477456,J.T.,Compher,USA,Northbrook,1995-04-08,4,April
+8479398,Samuel,Girard,CAN,Roberval,1998-05-12,5,May
+8478420,Mikko,Rantanen,FIN,Nousiainen,1996-10-29,10,October
+8477484,Spencer,Martin,CAN,Oakville,1995-06-08,6,June
+8479454,Lukas,Bengtsson,SWE,Huddinge,1994-04-14,4,April
+8476927,Teddy,Blueger,LVA,Riga,1994-08-15,8,August
+8480341,Adam,Johnson,USA,Grand Rapids,1994-06-22,6,June
+8476974,Thomas,Di Pauli,USA,Woodbridge,1994-04-29,4,April
+8476388,Andrey,Pedan,LTU,Kaunas,1993-07-03,7,July
+8474589,Tyler,Ennis,CAN,Edmonton,1989-10-06,10,October
+8476465,Ryan,Murphy,CAN,Aurora,1993-03-31,3,March
+8477369,Carson,Soucy,CAN,Viking,1994-07-27,7,July
+8478413,Jordan,Greenway,USA,Canton,1997-02-16,2,February
+8478011,Louie,Belpedio,USA,Skokie,1996-05-14,5,May
+8475220,Marcus,Foligno,CAN,Buffalo,1991-08-10,8,August
+8477050,Jamie,Phillips,CAN,Chateauguay,1993-03-24,3,March
+8480082,Justin,Kloos,USA,Lakeville,1993-11-30,11,November
+8476415,Kyle,Rau,USA,Eden Prairie,1992-10-24,10,October
+8479734,Brennan,Menell,USA,Woodbury,1997-05-24,5,May
+8474005,Alex,Grant,CAN,Antigonish,1989-01-20,1,January
+8480020,Ivan,Lodnia,USA,Los Angeles,1999-08-31,8,August
+8475423,Darren,Archibald,CAN,Newmarket,1990-02-09,2,February
+8471390,Mike,Santorelli,CAN,Vancouver,1985-12-14,12,December
+8470816,Jay,Rosehill,CAN,Olds,1985-07-16,7,July
+8459492,Vinny,Prospal,CZE,Ceské Budejovice,1975-02-17,2,February
+8471832,Nick,Drazenovic,CAN,Prince George,1987-01-14,1,January
+8474744,Sean,Collins,CAN,Saskatoon,1988-12-29,12,December
+8471348,Nikita,Nikitin,RUS,Omsk,1986-06-16,6,June
+8469492,Fedor,Tyutin,RUS,Izhevsk,1983-07-19,7,July
+8474121,Colton,Gillies,CAN,White Rock,1989-02-12,2,February
+8473610,Bobby,Sanguinetti,USA,Trenton,1988-02-29,2,February
+8470302,Patrick,Dwyer,USA,Spokane,1983-06-22,6,June
+8475784,Jeff,Skinner,CAN,Toronto,1992-05-16,5,May
+8474135,Brett,Bellemore,CAN,Windsor,1988-06-25,6,June
+8469462,Tuomo,Ruutu,FIN,Vantaa,1983-02-16,2,February
+8466215,Joe,Corvo,USA,Oak Park,1977-06-20,6,June
+8474137,Drayson,Bowman,USA,Grand Rapids,1989-03-08,3,March
+8470137,Joni,Pitkanen,FIN,Oulu,1983-09-19,9,September
+8470283,Tim,Brent,CAN,Cambridge,1984-03-10,3,March
+8469812,Chad,LaRose,USA,Fraser,1982-03-27,3,March
+8474192,Matt,Frattin,CAN,Edmonton,1988-01-03,1,January
+8475296,Mitch,Callahan,USA,Whittier,1991-08-17,8,August
+8476822,Luke,Glendening,USA,Grand Rapids,1989-04-28,4,April
+8470093,Mike,McKenna,USA,St. Louis,1983-04-11,4,April
+8474130,Corey,Tropp,USA,Grosse Pointe Woods,1989-07-25,7,July
+8476430,Tomas,Jurco,SVK,Kosice,1992-12-28,12,December
+8474774,Dalton,Prout,CAN,Kingsville,1990-03-13,3,March
+8475637,Bobby,Butler,USA,Marlborough,1987-04-26,4,April
+8467428,Krys,Barch,CAN,Hamilton,1980-03-26,3,March
+8460704,Johan,Hedberg,SWE,Leksand,1973-05-05,5,May
+8471280,Nick,Johnson,CAN,Calgary,1985-12-24,12,December
+8469664,David,Moss,USA,Livonia,1981-12-28,12,December
+8475602,Casey,Wellman,USA,Brentwood,1987-10-18,10,October
+8475275,Patrick,Wey,USA,Pittsburgh,1991-03-21,3,March
+8473953,Derek,Smith,CAN,Belleville,1984-10-13,10,October
+8469500,Michael,Cammalleri,CAN,Toronto,1982-06-08,6,June
+8474038,Paul,Byron,CAN,Ottawa,1989-04-27,4,April
+8471222,Ladislav,Smid,CZE,Frydlant,1986-02-01,2,February
+8471403,Karri,Ramo,FIN,Asikkala,1986-07-01,7,July
+8474577,Joe,Colborne,CAN,Calgary,1990-01-30,1,January
+8470180,Eric,Nystrom,USA,Syosset,1983-02-14,2,February
+8476043,Ben,Street,CAN,Coquitlam,1987-02-13,2,February
+8470626,Loui,Eriksson,SWE,Gothenburg,1985-07-17,7,July
+8469457,Stephen,Weiss,CAN,Toronto,1983-04-03,4,April
+8471284,Andrej,Sekera,SVK,Bojnice,1986-06-08,6,June
+8471804,Nathan,Gerbe,USA,Oxford,1987-07-24,7,July
+8462077,Jochen,Hecht,DEU,Mannheim,1977-06-21,6,June
+8471388,Patrick,Kaleta,USA,Buffalo,1986-06-08,6,June
+8473523,Jhonas,Enroth,SWE,Stockholm,1988-06-25,6,June
+8475796,Mark,Pysyk,CAN,Sherwood Park,1992-01-11,1,January
+8464994,Steve,Begin,CAN,Trois-Rivieres,1978-06-14,6,June
+8476834,Roman,Cervenka,CZE,Praha,1985-12-10,12,December
+8476466,Sven,Baertschi,CHE,Bern,1992-10-05,10,October
+8462147,Miikka,Kiprusoff,FIN,Turku,1976-10-26,10,October
+8467338,Alex,Tanguay,CAN,Ste-Justine,1979-11-21,11,November
+8477201,Kellan,Lain,CAN,Oakville,1989-08-11,8,August
+8476390,Joseph,Cramarossa,CAN,Toronto,1992-10-26,10,October
+8475119,Zach,Sill,CAN,Truro,1988-05-24,5,May
+8471219,Al,Montoya,USA,Chicago,1985-02-13,2,February
+8474674,James,Wright,CAN,Saskatoon,1990-03-24,3,March
+8474012,John,Albert,USA,Cleveland,1989-01-19,1,January
+8471482,Grant,Clitsome,CAN,Gloucester,1985-04-14,4,April
+8470309,Ryan,Whitney,USA,Boston,1983-02-19,2,February
+8467351,Scott,Gomez,USA,Anchorage,1979-12-23,12,December
+8474498,Jesse,Winchester,CAN,Long Sault,1983-10-04,10,October
+8466339,Scott,Clemmensen,USA,Des Moines,1977-07-23,7,July
+8474201,Pierre-Cedric,Labrie,CAN,Baie-Comeau,1986-12-06,12,December
+8471371,Mike,Brown,USA,Chicago,1985-06-24,6,June
+8470714,Corey,Potter,USA,Lansing,1984-01-05,1,January
+8470685,Alexander,Sulzer,DEU,Kaufbeuren,1984-05-30,5,May
+8470018,Matt,Ellis,CAN,Welland,1981-08-31,8,August
+8476878,Zemgus,Girgensons,LVA,Riga,1994-01-05,1,January
+8470063,Adam,Burish,USA,Madison,1983-01-06,1,January
+8474059,Linus,Omark,SWE,Övertorneå,1987-02-05,2,February
+8462044,Jean-Sebastien,Giguere,CAN,Montreal,1977-05-16,5,May
+8474705,Mark,Olver,CAN,Burnaby,1988-01-01,1,January
+8470189,David,Van Der Gulik,CAN,Abbotsford,1983-04-20,4,April
+8474030,Aaron,Palushaj,USA,Livonia,1989-09-07,9,September
+8469467,Chuck,Kobasew,CAN,Vancouver,1982-04-17,4,April
+8468636,Greg,Zanon,CAN,Burnaby,1980-06-05,6,June
+8470672,Ryan,O'Byrne,CAN,Victoria,1984-07-19,7,July
+8470207,Joffrey,Lupul,CAN,Fort Saskatchewan,1983-09-23,9,September
+8470867,Troy,Bodie,CAN,Portage La Prairie,1985-01-25,1,January
+8473712,Frazer,McLaren,CAN,Winnipeg,1987-10-29,10,October
+8468778,Colton,Orr,CAN,Winnipeg,1982-03-03,3,March
+8469508,Jay,McClement,CAN,Kingston,1983-03-02,3,March
+8470085,Paul,Ranger,CAN,Whitby,1984-09-12,9,September
+8469752,Pascal,Pelletier,CAN,Labrador City,1983-06-16,6,June
+8476454,Ryan,Nugent-Hopkins,CAN,Burnaby,1993-04-12,4,April
+8475165,Anton,Lander,SWE,Sundsvall,1991-04-24,4,April
+8459140,Nikolai,Khabibulin,RUS,Sverdlovsk,1973-01-13,1,January
+8471323,Ryan,Jones,CAN,Chatham,1984-06-14,6,June
+8471402,Lennart,Petrell,FIN,Helsinki,1984-04-13,4,April
+8465050,Eric,Belanger,CAN,Sherbrooke,1977-12-16,12,December
+8473525,Theo,Peckham,CAN,Richmond Hill,1987-11-10,11,November
+8474586,Jordan,Eberle,CAN,Regina,1990-05-15,5,May
+8468639,John-Michael,Liles,USA,Indianapolis,1980-11-25,11,November
+8473942,Trevor,Smith,CAN,Ottawa,1985-02-08,2,February
+8475154,Carter,Ashton,CAN,Winnipeg,1991-04-01,4,April
+8476827,Chad,Billins,USA,Port Huron,1989-05-26,5,May
+8475733,Max,Reinhart,CAN,West Vancouver,1992-02-04,2,February
+8476423,Reid,Boucher,USA,Lansing,1993-09-08,9,September
+8471681,Jack,Skille,USA,Madison,1987-05-19,5,May
+8471748,Mark,Fraser,CAN,Ottawa,1986-09-29,9,September
+8475808,Michael,Chaput,CAN,Ile Bizard,1992-04-09,4,April
+8473503,James,Reimer,CAN,Morweena,1988-03-15,3,March
+8476819,Jeremy,Welsh,CAN,Bayfield,1988-04-30,4,April
+8460492,Ed,Jovanovski,CAN,Windsor,1976-06-26,6,June
+8475213,Drew,Shore,USA,Denver,1991-01-29,1,January
+8474048,Keith,Aulie,CAN,Rouleau,1989-06-11,6,June
+8474497,Michael,Kostka,CAN,Etobicoke,1985-11-28,11,November
+8471768,Tom,Pyatt,CAN,Thunder Bay,1987-02-14,2,February
+8469460,Mike,Komisarek,USA,West Islip,1982-01-19,1,January
+8474113,TJ,Brennan,USA,Willingboro,1989-04-03,4,April
+8474593,Jacob,Markstrom,SWE,Gävle,1990-01-31,1,January
+8473867,Greg,Rallo,USA,Gurnee,1981-08-26,8,August
+8473526,Peter,Mueller,USA,Bloomington,1988-04-14,4,April
+8462225,Filip,Kuba,CZE,Ostrava,1976-12-29,12,December
+8471700,Matt,Pelech,CAN,Toronto,1987-09-04,9,September
+8476765,Mike,Halmo,CAN,Waterloo,1991-05-15,5,May
+8475681,Ben,Scrivens,CAN,Spruce Grove,1986-09-11,9,September
+8474567,Zach,Bogosian,USA,Massena,1990-07-15,7,July
+8475215,Robin,Lehner,SWE,Gothenburg,1991-07-24,7,July
+8476452,Tyler,Wotherspoon,CAN,Burnaby,1993-03-12,3,March
+8477847,Bryce,Van Brabant,CAN,Morinville,1991-11-12,11,November
+8475844,Kenny,Agostino,USA,Morristown,1992-04-30,4,April
+8475196,Ben,Hanowski,USA,Little Falls,1990-10-18,10,October
+8476440,Markus,Granlund,FIN,Oulu,1993-04-16,4,April
+8474606,Colby,Robak,CAN,Dauphin,1990-04-24,4,April
+8466398,Tom,Kostopoulos,CAN,Mississauga,1979-01-24,1,January
+8474554,Eric,Selleck,CAN,Brockville,1987-10-20,10,October
+8475361,Jonas,Gustavsson,SWE,Danderyd,1984-10-24,10,October
+8472424,Ryan,Hamilton,CAN,Oshawa,1985-04-15,4,April
+8474707,Philip,Larsen,DNK,Esbjerg,1989-12-07,12,December
+8476179,Will,Acton,USA,Edina,1987-07-16,7,July
+8477289,Anton,Belov,RUS,Ryazan,1986-07-29,7,July
+8476472,Oscar,Klefbom,SWE,Karlstad,1993-07-20,7,July
+8473989,Luke,Gazdic,CAN,Toronto,1989-07-25,7,July
+8474597,Cody,Goloubef,CAN,Mississauga,1989-11-30,11,November
+8473647,Frédéric,St-Denis,CAN,Greenfield Park,1986-01-23,1,January
+8476888,Mikhail,Grigorenko,RUS,Khabarovsk,1994-05-16,5,May
+8468520,Kurtis,Foster,CAN,Carp,1981-11-24,11,November
+8467353,Nik,Antropov,KAZ,Ust-Kamenogorsk,1980-02-18,2,February
+8468172,Ruslan,Fedotenko,UKR,Kiev,1979-01-18,1,January
+8475788,Alexander,Burmistrov,RUS,Kazan,1991-10-21,10,October
+8470774,Bruno,Gervais,CAN,Longueuil,1984-10-03,10,October
+8476451,Lucas,Lessio,CAN,Maple,1993-01-23,1,January
+8476166,Taylor,Fedun,CAN,Edmonton,1988-06-04,6,June
+8476062,Mark,Arcobello,USA,Milford,1988-08-12,8,August
+8466309,Mike,Mottau,USA,Quincy,1978-03-19,3,March
+8475266,Tomas,Vincour,CZE,Brno,1990-11-19,11,November
+8470265,Anton,Babchuk,UKR,Kiev,1984-05-06,5,May
+8473414,Leland,Irving,CAN,Barrhead,1988-04-11,4,April
+8474837,Mark,Cundari,CAN,Toronto,1990-04-23,4,April
+8471321,Brett,Carson,CAN,Regina,1985-11-29,11,November
+8474844,Carter,Bancks,CAN,Calgary,1989-08-09,8,August
+8474049,Akim,Aliu,NGA,Okene,1989-04-24,4,April
+8475264,Roman,Horak,CZE,Ceské Budejovice,1991-05-21,5,May
+8465012,Tom,Poti,USA,Worcester,1977-03-22,3,March
+8474609,Luke,Adam,CAN,St. John's,1990-06-18,6,June
+8473459,Arturs,Kulda,LVA,Riga,1988-07-25,7,July
+8471451,Aaron,Gagnon,CAN,Quesnel,1986-04-24,4,April
+8468704,Antti,Miettinen,FIN,Hämeenlinna,1980-07-03,7,July
+8471216,Cam,Barker,CAN,Winnipeg,1986-04-04,4,April
+8471810,Derek,Joslin,CAN,Richmond Hill,1987-03-17,3,March
+8471807,Tom,Wandell,SWE,Sodertalje,1987-01-29,1,January
+8475671,Matt,Fraser,CAN,Red Deer,1990-05-20,5,May
+8475198,Joonas,Nattinen,FIN,Jamsa,1991-01-03,1,January
+8471678,Benoit,Pouliot,CAN,Alfred,1986-09-29,9,September
+8468660,Darcy,Hordichuk,CAN,Kamsack,1980-08-10,8,August
+8474719,Teemu,Hartikainen,FIN,Kuopio,1990-05-03,5,May
+8476849,Harri,Pesonen,FIN,Muurame,1988-08-06,8,August
+8469569,Drew,MacIntyre,CAN,Charlottetown,1983-06-24,6,June
+8471683,Brian,Lee,USA,Moorhead,1987-03-26,3,March
+8467910,Nolan,Yonkman,CAN,Punnichy,1981-04-01,4,April
+8475728,Johan,Larsson,SWE,Lau,1992-07-25,7,July
+8475753,Justin,Faulk,USA,South St.Paul,1992-03-20,3,March
+8477496,Elias,Lindholm,SWE,Boden,1994-12-02,12,December
+8474576,Zach,Boychuk,CAN,Airdrie,1989-10-04,10,October
+8473614,Richard,Bachman,USA,Salt Lake City,1987-07-25,7,July
+8470320,Cam,Ward,CAN,Saskatoon,1984-02-29,2,February
+8468481,Rick,DiPietro,USA,Winthrop,1981-09-19,9,September
+8475194,Philip,Samuelsson,SWE,Leksand,1991-07-26,7,July
+8475192,Taylor,Beck,CAN,St. Catharines,1991-05-13,5,May
+8477814,Kevin,Czuczman,CAN,Port Elgin,1991-01-09,1,January
+8477832,Cody,Kunyk,CAN,Sherwood Park,1990-05-20,5,May
+8471474,Travis,Morin,USA,Minneapolis,1984-01-09,1,January
+8475889,Patrick,Holland,CAN,Lethbridge,1992-01-07,1,January
+8474616,Patrice,Cormier,CAN,Moncton,1990-06-14,6,June
+8474743,Zach,Redmond,USA,Traverse City,1988-07-26,7,July
+8475567,Julien,Brouillette,CAN,St-Esprit,1986-12-05,12,December
+8471220,Rostislav,Olesz,CZE,Bilovec,1985-10-10,10,October
+8476839,Viktor,Fasth,SWE,Kalix,1982-08-08,8,August
+8474052,Chris,Terry,CAN,Brampton,1989-04-07,4,April
+8476437,Victor,Rask,SWE,Leksand,1993-03-01,3,March
+8475250,Andrej,Nestrasil,CZE,Prague,1991-02-22,2,February
+8475759,Brandon,Gormley,CAN,Murray River,1992-02-18,2,February
+8476769,Bobby,Farnham,USA,North Andover,1989-01-21,1,January
+8474661,Michal,Jordan,CZE,Zlin,1990-07-17,7,July
+8477934,Leon,Draisaitl,DEU,Cologne,1995-10-27,10,October
+8475869,Brandon,Davidson,CAN,Taber,1991-08-21,8,August
+8475752,Tyler,Pitlick,USA,Minneapolis,1991-11-01,11,November
+8474793,Justin,Hodgman,CAN,Brampton,1988-06-27,6,June
+8475727,Ryan,Spooner,CAN,Ottawa,1992-01-30,1,January
+8476363,Brian,Ferlin,USA,Jacksonville,1992-06-03,6,June
+8477510,Kerby,Rychel,CAN,Torrance,1994-10-07,10,October
+8477902,Dennis,Everberg,SWE,Vasteras,1991-12-31,12,December
+8475310,Curtis,McKenzie,CAN,Golden,1991-02-22,2,February
+8474152,Scott,Darling,USA,Newport News,1988-12-22,12,December
+8474748,Andrew,MacWilliam,CAN,Calgary,1990-03-25,3,March
+8470152,Joakim,Lindstrom,SWE,Skellefteå,1983-12-05,12,December
+8476336,Iiro,Pakarinen,FIN,Loviisa,1991-08-25,8,August
+8475800,Teemu,Pulkkinen,FIN,Vantaa,1992-01-02,1,January
+8476443,Xavier,Ouellet,FRA,Bayonne,1993-07-29,7,July
+8477499,Rasmus,Ristolainen,FIN,Turku,1994-10-27,10,October
+8476227,Joe,Whitney,USA,Reading,1988-02-06,2,February
+8475299,Joni,Ortio,FIN,Turku,1991-04-16,4,April
+8476214,Brandon,DeFazio,CAN,Etobicoke,1988-09-13,9,September
+8477500,Bo,Horvat,CAN,London,1995-04-05,4,April
+8475321,Phil,Varone,CAN,Vaughan,1990-12-04,12,December
+8475309,Jerry,D'Amigo,USA,Binghamton,1991-02-19,2,February
+8475159,Carl,Klingberg,SWE,Gothenburg,1991-01-28,1,January
+8476279,Jyrki,Jokipakka,FIN,Tampere,1991-08-20,8,August
+8475732,Danny,Biega,CAN,Montreal,1991-09-29,9,September
+8475294,Rasmus,Rissanen,FIN,Kuopio,1991-07-13,7,July
+8475414,Craig,Cunningham,CAN,Trail,1990-09-13,9,September
+8476495,Seth,Griffith,CAN,Wallaceburg,1993-01-04,1,January
+8475917,Jason,Akeson,CAN,Ottawa,1990-06-03,6,June
+8475274,Seth,Helgeson,USA,Faribault,1990-10-08,10,October
+8477070,Liam,O'Brien,CAN,Halifax,1994-07-29,7,July
+8474516,Bryan,Lerg,USA,Livonia,1986-01-20,1,January
+8476478,Stuart,Percy,CAN,Oakville,1993-05-18,5,May
+8475842,Sam,Carrick,CAN,Markham,1992-02-04,2,February
+8475996,Brendan,Shinnimin,CAN,Winnipeg,1991-01-07,1,January
+8475260,Corban,Knight,CAN,Oliver,1990-09-10,9,September
+8475826,Justin,Shugg,CAN,Niagara Falls,1991-12-24,12,December
+8477486,Emile,Poirier,CAN,Montreal,1994-12-14,12,December
+8476397,Keegan,Lowe,USA,Greenwich,1993-03-29,3,March
+8477589,Ronalds,Kenins,LVA,Riga,1991-02-28,2,February
+8477407,Anthony,Duclair,CAN,Pointe-Claire,1995-08-26,8,August
+8475902,Zach,Trotman,USA,Carmel,1990-08-26,8,August
+8475896,Brendan,Ranford,CAN,Edmonton,1992-05-03,5,May
+8476426,David,Musil,CAN,Calgary,1993-04-09,4,April
+8475734,Curtis,Hamilton,USA,Tacoma,1991-12-04,12,December
+8476316,Laurent,Brossoit,CAN,Port Alberni,1993-03-23,3,March
+8475203,Jesse,Blacker,CAN,Toronto,1991-04-19,4,April
+8467972,Rob,Zepp,CAN,Scarborough,1981-09-07,9,September
+8475252,Matt,Hackett,CAN,London,1990-03-07,3,March
+8477913,David,Wolf,DEU,Dusseldorf,1989-09-15,9,September
+8475157,Landon,Ferraro,CAN,Trail,1991-08-08,8,August
+8477227,Eriah,Hayes,USA,La Crescent,1988-07-07,7,July
+8473415,Alex,Biega,CAN,Montreal,1988-04-04,4,April
+8478393,Kyle,Baun,CAN,Toronto,1992-05-04,5,May
+8478376,Casey,Bailey,USA,Anchorage,1991-10-27,10,October
+8476868,Henrik,Samuelsson,USA,Scottsdale,1994-02-07,2,February
+8470798,Dylan,Reese,USA,Pittsburgh,1984-08-29,8,August
+8476994,Vinnie,Hinostroza,USA,Chicago,1994-04-03,4,April
+8478055,Gustav,Forsling,SWE,Linkoping,1996-06-12,6,June
+8477929,Dennis,Rasmussen,SWE,Vasteras,1990-07-03,7,July
+8479648,Roman,Lyubimov,RUS,Tver,1992-01-06,1,January
+8477951,Nick,Schmaltz,USA,Madison,1996-02-23,2,February
+8477353,Tyler,Motte,USA,St. Clair,1995-03-10,3,March
+8476866,Nicolas,Kerdiles,USA,Lewisville,1994-01-11,1,January
+8477933,Sam,Reinhart,CAN,West Vancouver,1995-11-06,11,November
+8479268,Casey,Nelson,USA,Wisconsin Rapids,1992-07-18,7,July
+8476931,Jake,McCabe,USA,Eau Claire,1993-10-12,10,October
+8479755,Victor,Antipin,RUS,Ust-Kamenogorsk,1992-12-06,12,December
+8478403,Jack,Eichel,USA,North Chelmsford,1996-10-28,10,October
+8478542,Evan,Rodrigues,CAN,Toronto,1993-07-28,7,July
+8478561,Andreas,Martinsen,NOR,Bærum,1990-06-13,6,June
+8477488,Brett,Pesce,USA,Tarrytown,1994-11-15,11,November
+8478396,Noah,Hanifin,USA,Boston,1997-01-25,1,January
+8476858,Phillip,Di Giuseppe,CAN,Toronto,1993-10-09,10,October
+8476958,Jaccob,Slavin,USA,Denver,1994-05-01,5,May
+8476967,Brett,Kulak,CAN,Edmonton,1994-01-06,1,January
+8476971,Kevin,Roy,CAN,Greenfield Park,1993-05-20,5,May
+8476873,Mark,Jankowski,CAN,Hamilton,1994-09-13,9,September
+8477903,Garnet,Hathaway,USA,Kennebunkport,1991-11-23,11,November
+8477957,Nikita,Scherbak,RUS,Moscow,1995-12-30,12,December
+8477446,Michael,McCarron,USA,Grosse Pointe,1995-03-07,3,March
+8477476,Artturi,Lehkonen,FIN,Piikkio,1995-07-04,7,July
+8478963,Ryan,Johnston,CAN,Sudbury,1992-02-14,2,February
+8476352,Michael,Mersch,USA,Park Ridge,1992-10-02,10,October
+8475278,Byron,Froese,CAN,Winkler,1991-03-12,3,March
+8477937,Jake,Virtanen,CAN,New Westminster,1996-08-17,8,August
+8477018,Ben,Hutton,CAN,Brockville,1993-04-20,4,April
+8476867,Brendan,Gaunce,CAN,Sudbury,1994-03-25,3,March
+8478444,Brock,Boeser,USA,Burnsville,1997-02-25,2,February
+8479290,Kalle,Kossila,FIN,Kauniainen,1993-04-14,4,April
+8478842,Andrei,Mironov,RUS,Moscow,1994-07-29,7,July
+8478421,A.J.,Greer,CAN,Joliette,1996-12-14,12,December
+8478928,Sergei,Plotnikov,RUS,Komsomolsk,1990-06-03,6,June
+8476915,Jujhar,Khaira,CAN,Surrey,1994-08-13,8,August
+8477498,Darnell,Nurse,CAN,Hamilton,1995-02-04,2,February
+8476902,Esa,Lindell,FIN,Vantaa,1994-05-23,5,May
+8476966,Gemel,Smith,CAN,Toronto,1994-04-16,4,April
+8477461,Remi,Elie,CAN,Cornwall,1995-04-16,4,April
+8476913,Devin,Shore,CAN,Ajax,1994-07-19,7,July
+8477450,Jason,Dickinson,CAN,Georgetown,1995-07-04,7,July
+8475343,Nic,Dowd,USA,Huntsville,1990-05-27,5,May
+8478463,Anthony,Beauvillier,CAN,Sorel-Tracy,1997-06-08,6,June
+8477936,Michael,Dal Colle,CAN,Richmond Hill,1996-06-20,6,June
+8476921,Jordan,Martinook,CAN,Brandon,1992-07-25,7,July
+8479206,Tanner,Fritz,CAN,Grande Prairie,1991-08-20,8,August
+8479345,Jakob,Chychrun,USA,Boca Raton,1998-03-31,3,March
+8478432,Christian,Fischer,USA,Chicago,1997-04-15,4,April
+8479343,Clayton,Keller,USA,Chesterfield,1998-07-29,7,July
+8480222,Sebastian,Aho,SWE,Umea,1996-02-17,2,February
+8477943,Brendan,Perlini,GBR,Guildford,1996-04-27,4,April
+8477503,Max,Domi,CAN,Winnipeg,1995-03-02,3,March
+8477527,Ross,Johnston,CAN,Charlottetown,1994-02-18,2,February
+8477989,Christian,Dvorak,USA,Palos,1996-02-02,2,February
+8478445,Mathew,Barzal,CAN,Coquitlam,1997-05-26,5,May
+8478474,Lawson,Crouse,CAN,Mt. Brydges,1997-06-23,6,June
+8477460,Laurent,Dauphin,CAN,Repentigny,1995-03-27,3,March
+8478440,Dylan,Strome,CAN,Mississauga,1997-03-07,3,March
+8479483,Yohann,Auvitu,FRA,Ivry-sur-Seine,1989-07-27,7,July
+8478566,Sergey,Kalinin,RUS,Omsk,1991-03-17,3,March
+8478397,Rasmus,Andersson,SWE,Malmö,1996-10-27,10,October
+8477945,Julius,Honka,FIN,Jyväskylä,1995-12-03,12,December
+8477938,Haydn,Fleury,CAN,Carlyle,1996-07-08,7,July
+8477415,Anton,Slepyshev,RUS,Penza,1994-05-13,5,May
+8478427,Sebastian,Aho,FIN,Rauma,1997-07-26,7,July
+8477458,Valentin,Zykov,RUS,St. Petersburg,1995-05-15,5,May
+8476988,Matt,Benning,CAN,Edmonton,1994-05-25,5,May
+8479465,Drake,Caggiula,CAN,Pickering,1994-06-20,6,June
+8479344,Jesse,Puljujarvi,FIN,Alvkarleby,1998-05-07,5,May
+8478451,Ethan,Bear,CAN,Regina,1997-06-26,6,June
+8476934,Brock,McGinn,CAN,Fergus,1994-02-02,2,February
+8476416,Dillon,Simpson,CAN,Edmonton,1993-02-10,2,February
+8478402,Connor,McDavid,CAN,Richmond Hill,1997-01-13,1,January
+8478585,Derek,Ryan,USA,Spokane,1986-12-29,12,December
+8477010,Joseph,Blandisi,CAN,Markham,1994-07-18,7,July
+8479316,Luke,Kunin,USA,Chesterfield,1997-12-04,12,December
+8476914,Joonas,Korpisalo,FIN,Pori,1994-04-28,4,April
+8480158,Andreas,Borgman,SWE,Stockholm,1995-06-18,6,June
+8475292,Tyler,Randell,CAN,Scarborough,1991-06-15,6,June
+8474018,Christopher,DiDomenico,CAN,Toronto,1989-02-20,2,February
+8476288,Ryan,Dzingel,USA,Wheaton,1992-03-09,3,March
+8479376,Victor,Mete,CAN,Woodbridge,1998-06-07,6,June
+8477810,Joel,Hanley,CAN,Keswick,1991-06-08,6,June
+8475736,Connor,Brickley,USA,Everett,1992-02-25,2,February
+8477916,Borna,Rendulic,HRV,Zagreb,1992-03-25,3,March
+8477453,Chris,Bigras,CAN,Orillia,1995-02-22,2,February
+8477958,Nikolay,Goldobin,RUS,Moscow,1995-10-07,10,October
+8479442,Troy,Stecher,CAN,Richmond,1994-04-07,4,April
+8479292,Charlie,Lindgren,USA,Lakeville,1993-12-18,12,December
+8477642,Rinat,Valiev,RUS,Nizhnekamsk,1995-05-11,5,May
+8478454,Noah,Juulsen,CAN,Surrey,1997-04-02,4,April
+8477003,Riley,Barber,USA,Pittsburgh,1994-02-07,2,February
+8474149,Evgenii,Dadonov,RUS,Chelyabinsk,1989-03-12,3,March
+8477955,Jared,McCann,CAN,Stratford,1996-05-31,5,May
+8477346,MacKenzie,Weegar,CAN,Ottawa,1994-01-07,1,January
+8478843,Denis,Malgin,CHE,Olten,1997-01-18,1,January
+8479553,Maxim,Mamin,RUS,Moscow,1995-01-13,1,January
+8478366,Frank,Vatrano,USA,East Longmeadow,1994-03-14,3,March
+8477452,Ian,McCoshen,USA,Anaheim,1995-08-05,8,August
+8477512,Frederik,Gauthier,CAN,Laval,1995-04-26,4,April
+8478233,Andrew,Mangiapane,CAN,Toronto,1996-04-04,4,April
+8476924,Martin,Frk,CZE,Pelhrimov,1993-10-05,10,October
+8478562,Jakub,Nakladal,CZE,Hradec Králové,1987-12-30,12,December
+8477887,Patrick,Brown,USA,Bloomfield Hills,1992-05-29,5,May
+8476450,Ryan,Sproul,CAN,Mississauga,1993-01-13,1,January
+8477946,Dylan,Larkin,USA,Waterford,1996-07-30,7,July
+8475324,Nick,Jensen,USA,St. Paul,1990-09-21,9,September
+8476960,Andreas,Athanasiou,CAN,London,1994-08-06,8,August
+8477511,Anthony,Mantha,CAN,Longueuil,1994-09-16,9,September
+8478075,Anders,Bjork,USA,Mequon,1996-08-05,8,August
+8477959,Joshua,Ho-Sang,CAN,Toronto,1996-01-22,1,January
+8476999,Linus,Ullmark,SWE,Lugnvik,1993-07-31,7,July
+8480072,Lias,Andersson,SWE,Smogen,1998-10-13,10,October
+8476303,Rob,O'Gara,USA,Massapequa,1993-07-06,7,July
+8477337,John,Gilmour,CAN,Montreal,1993-05-17,5,May
+8477402,Pavel,Buchnevich,RUS,Cherepovets,1995-04-17,4,April
+8480145,Neal,Pionk,USA,Hermantown,1995-07-29,7,July
+8476918,Jimmy,Vesey,USA,Boston,1993-05-26,5,May
+8480382,Alexandar,Georgiev,RUS,Ruse,1996-02-10,2,February
+8480078,Filip,Chytil,CZE,Kromeriz,1999-09-05,9,September
+8478449,Roope,Hintz,FIN,Tampere,1996-11-17,11,November
+8477997,Nikita,Tryamkin,RUS,Yekaterinburg,1994-08-30,8,August
+8475210,Anton,Rodin,SWE,Stockholm,1990-11-21,11,November
+8476200,Paul,Thompson,USA,Methuen,1988-11-30,11,November
+8477851,Jordan,Oesterle,USA,Dearborn Heights,1992-06-25,6,June
+8477471,Dillon,Heatherington,CAN,Calgary,1995-05-09,5,May
+8477426,Nick,Paul,CAN,Mississauga,1995-03-20,3,March
+8477433,Ben,Harpur,CAN,Hamilton,1995-01-12,1,January
+8478469,Thomas,Chabot,CAN,Sainte-Marie,1997-01-30,1,January
+8476396,Steven,Fogarty,USA,Chambersburg,1993-04-19,4,April
+8477816,Michael,Zalewski,USA,New Hartford,1992-08-18,8,August
+8478564,Joonas,Kemppainen,FIN,Kajaani,1988-04-07,4,April
+8480144,David,Kampf,CZE,Chomutov,1995-01-12,1,January
+8479337,Alex,DeBrincat,USA,Farmington Hills,1997-12-18,12,December
+8480153,Victor,Ejdsell,SWE,Karlstad,1995-06-06,6,June
+8480172,Jan,Rutta,CZE,Písek,1990-07-29,7,July
+8478407,Vince,Dunn,CAN,Mississauga,1996-10-29,10,October
+8479588,Nolan,Stevens,CAN,Brantford,1996-07-22,7,July
+8477401,John,Hayden,USA,Chicago,1995-02-14,2,February
+8479420,Tage,Thompson,USA,Phoenix,1997-10-30,10,October
+8480761,Mitch,Reinke,USA,STILLWATER,1996-02-04,2,February
+8478106,Dylan,Sikura,CAN,Aurora,1995-06-01,6,June
+8479595,Blake,Hillman,USA,Elk River,1996-01-26,1,January
+8477472,Carl,Dahlstrom,SWE,Stockholm,1995-01-28,1,January
+8478146,Matthew,Highmore,CAN,Halifax,1996-02-27,2,February
+8478528,Tanner,Kero,USA,Hancock,1992-07-24,7,July
+8476343,Garret,Sparks,USA,Elmhurst,1993-06-28,6,June
+8477491,Nicholas,Baptiste,CAN,Ottawa,1995-08-04,8,August
+8480727,Zach,Whitecloud,CAN,Brandon,1996-11-28,11,November
+8478488,Filip,Chlapik,CZE,Prague,1997-06-03,6,June
+8477479,Tyler,Bertuzzi,CAN,Sudbury,1995-02-24,2,February
+8475982,Erik,Burgdoerfer,USA,Abington,1988-12-11,12,December
+8478400,Colin,White,USA,Boston,1997-01-30,1,January
+8474588,Viktor,Tikhonov,RUS,Riga,1988-05-12,5,May
+8476894,Brendan,Leipsic,CAN,Winnipeg,1994-05-19,5,May
+8478584,Vojtech,Mozik,CZE,Prague,1992-12-26,12,December
+8475413,Justin,Dowling,CAN,Calgary,1990-10-01,10,October
+8478495,Denis,Gurianov,RUS,Togliatti,1997-06-07,6,June
+8476982,Danny,O'Regan,USA,Berlin,1994-01-30,1,January
+8476910,Scott,Kosmachuk,CAN,Richmond Hill,1994-01-24,1,January
+8471714,Michael,Sauer,USA,St. Cloud,1987-08-07,8,August
+8468224,Sean,Avery,CAN,North York,1980-04-10,4,April
+8459462,Bryan,McCabe,CAN,St. Catharines,1975-06-08,6,June
+8470299,Erik,Christensen,CAN,Edmonton,1983-12-17,12,December
+8460562,Chris,Drury,USA,Trumbull,1976-08-20,8,August
+8462047,Martin,Biron,CAN,Lac St. Charles,1977-08-15,8,August
+8468463,Mathieu,Darche,CAN,Montreal,1976-11-26,11,November
+8470678,Alexandre,Picard,CAN,Gatineau,1985-07-05,7,July
+8467439,Jaroslav,Spacek,CZE,Rokycany,1974-02-11,2,February
+8466144,Paul,Mara,USA,Ridgewood,1979-09-07,9,September
+8462176,Brent,Sopel,CAN,Calgary,1977-01-07,1,January
+8467913,Alex,Auld,CAN,Cold Lake,1981-01-07,1,January
+8471411,Chad,Kolarik,USA,Abington,1986-01-26,1,January
+8474670,Andre,Petersson,SWE,Olofstrom,1990-09-11,9,September
+8460535,Jose,Theodore,CAN,Laval,1976-09-13,9,September
+8466371,John,Madden,CAN,Toronto,1973-05-04,5,May
+8476268,Mattias,Sjogren,SWE,Landskrona,1987-11-27,11,November
+8467430,Dany,Sabourin,CAN,Val D'or,1980-09-02,9,September
+8476767,Sebastian,Stalberg,SWE,Gothenburg,1990-03-06,3,March
+8471996,Bracken,Kearns,CAN,North Vancouver,1981-05-12,5,May
+8475365,Sena,Acolatse,CAN,Hayward,1990-11-28,11,November
+8476810,Travis,Oleksuk,CAN,Thunder Bay,1989-02-03,2,February
+8475939,J.P.,Anderson,CAN,Toronto,1992-04-27,4,April
+8460541,Richard,Park,USA,Seoul,1976-05-27,5,May
+8471756,Oskars,Bartulis,LVA,Ogre,1987-01-21,1,January
+8459427,Rob,Niedermayer,CAN,Cassiar,1974-12-28,12,December
+8467878,Tim,Connolly,USA,Syracuse,1981-05-07,5,May
+8471419,Mark,Mancari,CAN,London,1985-07-11,7,July
+8459579,Patrick,Lalime,CAN,St. Bonaventure,1974-07-07,7,July
+8459640,Mike,Grier,USA,Detroit,1975-01-05,1,January
+8469472,Shaone,Morrisonn,CAN,Vancouver,1982-12-23,12,December
+8473497,Dennis,Persson,SWE,Nykoping,1988-06-02,6,June
+8458525,Brian,Rolston,USA,Flint,1973-02-21,2,February
+8470636,Josh,Hennessy,USA,Brockton,1985-02-07,2,February
+8474607,Max,Sauve,CAN,Tours,1990-01-30,1,January
+8475771,Mark,Visentin,CAN,Hamilton,1992-08-07,8,August
+8474745,Paul,Karpowich,CAN,Thunder Bay,1988-10-25,10,October
+8475257,Peter,Andersson,SWE,Kvidinge,1991-04-13,4,April
+8475978,Alexandre,Mallet,CAN,Amqui,1992-05-22,5,May
+8471409,Andrew,Gordon,CAN,Porters Lake,1985-12-13,12,December
+8475300,Joe,Cannata,USA,Wakefield,1990-01-02,1,January
+8469681,Ryan,Hollweg,USA,Downey,1983-04-23,4,April
+8474875,Brent,Raedeke,CAN,Regina,1990-05-29,5,May
+8471011,Garrett,Stafford,USA,Los Angeles,1980-01-28,1,January
+8474488,Matt,Climie,CAN,Leduc,1983-02-11,2,February
+8471261,Dane,Byers,CAN,Nipawin,1986-02-21,2,February
+8473409,Logan,Pyett,CAN,Regina,1988-05-26,5,May
+8475707,Ilari,Filppula,FIN,Vantaa,1981-11-05,11,November
+8471221,Alexandre,Picard,CAN,Les Saules,1985-10-09,10,October
+8474378,Matt,Beaudoin,CAN,Rock Forest,1984-04-06,4,April
+8474620,Danny,Kristo,USA,Edina,1990-06-18,6,June
+8477221,Tommy,Hughes,CAN,London,1992-04-07,4,April
+8477214,Conor,Allen,USA,Chicago,1990-01-31,1,January
+8470263,David,Leneveu,CAN,Fernie,1983-05-23,5,May
+8475845,Justin,Florek,USA,Marquette,1990-05-18,5,May
+8479432,Nick,Ellis,USA,Millersville,1994-01-18,1,January
+8476949,Joey,Laleggia,CAN,Burnaby,1992-06-24,6,June
+8479368,Max,Jones,USA,Rochester,1998-02-17,2,February
+8479294,Kevin,Boyle,USA,Manalapan,1992-05-30,5,May
+8479351,Sam,Steel,CAN,Ardrossan,1998-02-03,2,February
+8475833,Bill,Arnold,USA,Boston,1992-05-13,5,May
+8476890,Patrick,Sieloff,USA,Ann Arbor,1994-05-15,5,May
+8476505,Turner,Elson,CAN,New Westminster,1992-09-13,9,September
+8476950,Ryan,Culkin,CAN,Montreal,1993-12-15,12,December
+8476970,Andrew,O'Brien,CAN,Hamilton,1992-11-21,11,November
+8477863,Ryan,Faragher,CAN,Thunder Bay,1990-07-03,7,July
+8477489,Keegan,Kanzig,CAN,Athabasca,1995-02-26,2,February
+8478559,Matthew,O'Connor,CAN,Sault Ste. Marie,1992-02-14,2,February
+8477971,Andreas,Englund,SWE,Stockholm,1996-01-21,1,January
+8476323,Max,McCormick,USA,De Pere,1992-05-01,5,May
+8477920,Johan,Alm,SWE,Skellefteå,1992-01-28,1,January
+8473921,Joe,Piskula,USA,Antigo,1984-07-05,7,July
+8475723,Petr,Straka,CZE,Plzen,1992-06-15,6,June
+8477190,Brandon,Alderson,CAN,Oakville,1992-01-22,1,January
+8471186,Yann,Danis,CAN,Lafontaine,1981-06-21,6,June
+8476763,Calvin,Heeter,USA,St. Louis,1988-11-02,11,November
+8471301,Jeff,Glass,CAN,Calgary,1985-11-19,11,November
+8476896,Jake,Paterson,CAN,Mississauga,1994-05-03,5,May
+8476412,Jordan,Binnington,CAN,Richmond Hill,1993-07-11,7,July
+8476922,Boo,Nieves,USA,Syracuse,1994-01-23,1,January
+8475789,Jack,Campbell,USA,Port Huron,1992-01-09,1,January
+8460577,Milan,Hejduk,CZE,Usti,1976-02-14,2,February
+8471705,Brendan,Mikkelson,CAN,Regina,1987-06-22,6,June
+8475304,Scott,Timmins,CAN,Hamilton,1989-09-11,9,September
+8477811,Ryan,Haggerty,USA,Stamford,1993-03-04,3,March
+8476319,Nathan,Lieuwen,CAN,Abbotsford,1991-08-08,8,August
+8473734,Tim,Wallace,USA,Anchorage,1984-08-06,8,August
+8470777,Francis,Wathier,CAN,St. Isidore,1984-12-07,12,December
+8475332,Adam,Almquist,SWE,Jönköping,1991-02-27,2,February
+8477245,Eric,Hartzell,USA,White Bear Lake,1989-05-28,5,May
+8470896,Steve,MacIntyre,CAN,Brock,1980-08-08,8,August
+8464999,Mathieu,Garon,CAN,Chandler,1978-01-09,1,January
+8477666,Simon,Moser,CHE,Bern,1989-03-10,3,March
+8477836,Matt,Carey,CAN,Hamilton,1992-02-28,2,February
+8473416,Michael,Caruso,CAN,Mississauga,1988-07-05,7,July
+8468745,Jean-Philippe,Cote,CAN,Charlesbourg,1982-04-22,4,April
+8470268,Denis,Grebeshkov,RUS,Yaroslavl,1983-10-11,10,October
+8475395,Matthew,Konan,USA,Orange,1991-09-03,9,September
+8469798,Maxime,Fortunus,CAN,Longueuil,1983-07-28,7,July
+8475680,Jussi,Rynnas,FIN,Pori,1987-05-22,5,May
+8475190,Jamie,Devane,CAN,Mississauga,1991-02-20,2,February
+8459306,Robbie,Tallas,CAN,Edmonton,1973-03-20,3,March
+8473505,Peter,LeBlanc,CAN,Hamilton,1988-02-03,2,February
+8473616,Jonathan,Rheault,USA,Arlington,1986-08-01,8,August
+8468382,Rob,Laurie,USA,East Lansing,1970-05-19,5,May
+8472365,Bobby,Robins,USA,Rhinelander,1981-10-17,10,October
+8471708,Ryan,Stoa,USA,Bloomington,1987-04-13,4,April
+8471912,Kevin,Henderson,CAN,Toronto,1986-12-03,12,December
+8462152,Chris,Mason,CAN,Red Deer,1976-04-20,4,April
+8476835,Daniel,Bang,SWE,Stockholm,1987-04-19,4,April
+8475893,Joonas,Rask,FIN,Savonlinna,1990-03-24,3,March
+8473638,Cedrick,Desjardins,CAN,Edmundston,1985-09-30,9,September
+8476846,Cristopher,Nilstorp,SWE,Malmö,1984-02-16,2,February
+8475241,Sergey,Andronov,RUS,Penza,1989-07-19,7,July
+8477082,Dmitry,Korobov,BLR,Novopolotsk,1989-03-12,3,March
+8476522,Adam,Payerl,CAN,Kitchener,1991-03-04,3,March
+8471312,JT,Wyman,USA,Edina,1986-02-27,2,February
+8477228,Matt,Lindblad,USA,Evanston,1990-03-23,3,March
+8470704,Jamie,Tardif,CAN,Welland,1985-01-23,1,January
+8474035,Bill,Sweatt,USA,Elburn,1988-09-21,9,September
+8476549,Daniil,Tarasov,RUS,Moscow,1991-06-20,6,June
+8470065,Ryan,Craig,CAN,Abbotsford,1982-01-06,1,January
+8476435,Alex,Khokhlachev,RUS,Moscow,1993-09-09,9,September
+8475980,Brody,Sutter,CAN,Viking,1991-09-26,9,September
+8477249,Andrew,Miller,USA,Bloomfield Hills,1988-09-18,9,September
+8477473,Justin,Bailey,USA,Buffalo,1995-07-01,7,July
+8480015,Owen,Tippett,CAN,Peterborough,1999-02-16,2,February
+8478999,Niklas,Treutle,DEU,Nuremberg,1991-04-29,4,April
+8479511,Janne,Kuokkanen,FIN,Oulunsalo,1998-05-25,5,May
+8480039,Martin,Necas,CZE,Nove Mesto na Morave,1999-01-15,1,January
+8477445,Hunter,Shinkaruk,CAN,Calgary,1994-10-13,10,October
+8477427,Tobias,Lindberg,SWE,Stockholm,1995-07-22,7,July
+8474131,Mario,Kempe,SWE,Kramfors,1988-09-19,9,September
+8480157,Calle,Rosen,SWE,Vaxjo,1994-02-02,2,February
+8475809,Scott,Wedgewood,CAN,Brampton,1992-08-14,8,August
+8475836,Alex,Friesen,CAN,St. Catharines,1991-01-30,1,January
+8479968,Vinni,Lettieri,USA,Excelsior,1995-02-06,2,February
+8477541,Dakota,Mermis,USA,Alton,1994-01-05,1,January
+8476766,Cole,Schneider,USA,Williamsville,1990-08-26,8,August
+8476401,Daniel,Catenacci,CAN,Richmond Hill,1993-03-09,3,March
+8479066,Ryan,Lomberg,CAN,Richmond Hill,1994-12-09,12,December
+8477033,Viktor,Loov,SWE,Sodertalje,1992-11-16,11,November
+8479496,David,Rittich,CZE,Jihlava,1992-08-19,8,August
+8476425,Joseph,LaBate,USA,Burnsville,1993-04-16,4,April
+8478211,Dryden,Hunt,CAN,Cranbrook,1995-11-24,11,November
+8477998,Warren,Foegele,CAN,Markham,1996-04-01,4,April
+8478846,Christian,Wolanin,CAN,Quebec City,1995-03-17,3,March
+8477981,Roland,McKeown,CAN,Listowel,1996-01-20,1,January
+8475328,Ben,Sexton,CAN,Ottawa,1991-06-06,6,June
+8479193,Casey,DeSmith,USA,Rochester,1991-08-13,8,August
+8474698,Brent,Regner,CAN,Westlock,1989-05-17,5,May
+8477914,Roman,Will,CZE,Plzen,1992-05-22,5,May
+8475263,Wade,Megan,USA,Canton,1990-07-22,7,July
+8478104,Sammy,Blais,CAN,Montmagny,1996-06-17,6,June
+8476414,Alexandre,Grenier,CAN,Laval,1991-09-05,9,September
+8477961,John,Quenneville,CAN,Edmonton,1996-04-16,4,April
+8480087,Mike,Vecchione,USA,Saugus,1993-02-25,2,February
+8478431,Evgeny,Svechnikov,RUS,Yuzhno-Sakhalinsk,1996-10-31,10,October
+8478027,Lucas,Wallmark,SWE,Umea,1995-09-05,9,September
+8477466,Nick,Sorensen,DNK,Farevejle,1994-10-23,10,October
+8480762,Eric,Robinson,USA,BELLMAWR,1995-06-14,6,June
+8477392,Hudson,Fasching,USA,Milwaukee,1995-07-28,7,July
+8479304,Kyle,Criscuolo,USA,Southampton,1992-05-05,5,May
+8479969,Griffen,Molino,USA,Trenton,1994-01-21,1,January
+8475597,Shane,Harper,USA,Valencia,1989-02-01,2,February
+8477583,Curtis,Valk,CAN,Medicine Hat,1993-02-08,2,February
+8476322,Chase,Balisy,USA,Fullerton,1992-02-02,2,February
+8476020,Andrew,Crescenzi,CAN,Thornhill,1992-07-29,7,July
+8477417,Peter,Cehlarik,SVK,Zilina,1995-08-02,8,August
+8478476,Kyle,Capobianco,CAN,Mississauga,1997-08-13,8,August
+8475782,Morgan,Ellis,CAN,Summerside,1992-04-30,4,April
+8473440,Will,O'Neill,USA,Boston,1988-04-28,4,April
+8479115,Jorge,Alves,USA,Boston,1979-01-30,1,January
+8479312,Alex,Lyon,USA,Baudette,1992-12-09,12,December
+8478447,Nicholas,Merkley,CAN,Calgary,1997-05-23,5,May
+8478268,Jack,Rodewald,CAN,Calgary,1994-02-14,2,February
+8477199,Zach,Sikich,USA,Gilbert,1980-10-21,10,October
+8477246,Antoine,Laganiere,CAN,Montreal,1990-07-05,7,July
+8471853,Nicolas,Blanchard,CAN,Granby,1987-05-31,5,May
+8474615,Jared,Staal,CAN,Thunder Bay,1990-08-21,8,August
+8476805,Spencer,Abbott,CAN,Hamilton,1988-04-30,4,April
+8474236,Brett,Gallant,CAN,Summerside,1988-12-28,12,December
+8471433,Daniel,Taylor,GBR,Plymouth,1986-04-28,4,April
+8476304,David,Broll,CAN,Mississauga,1993-01-04,1,January
+8474601,Yann,Sauve,CAN,Montreal,1990-02-18,2,February
+8476411,Jonathan,Racine,CAN,Montreal,1993-05-28,5,May
+8474254,John,Kurtz,CAN,Oakville,1989-05-16,5,May
+8475303,Connor,Knapp,USA,York,1990-05-01,5,May
+8476086,Justin,Johnson,USA,Anchorage,1981-05-05,5,May
+8474754,Joacim,Eriksson,SWE,Gävle,1990-04-09,4,April
+8474939,Mark,Van Guilder,USA,Roseville,1984-01-17,1,January
+8467543,Toby,Petersen,USA,Minneapolis,1978-10-27,10,October
+8470366,Martin,St Pierre,CAN,Ottawa,1983-08-11,8,August
+8476339,Dominik,Uher,CZE,Ostvava,1992-12-31,12,December
+8476944,Brendan,Woods,CAN,Humboldt,1992-06-11,6,June
+8475821,Sam,Brittain,CAN,Calgary,1992-05-10,5,May
+8475712,Taylor,Aronson,USA,Placentia,1991-12-30,12,December
+8475781,Tyler,Bunz,CAN,Regina,1992-02-11,2,February
+8477127,Raman,Hrabarenka,BLR,Mogilev,1992-08-24,8,August
+8477092,Andrey,Makarov,RUS,Kazan,1993-04-20,4,April
+8477410,Bogdan,Yakimov,RUS,Nizhnekamsk,1994-10-04,10,October
+8477084,Mackenzie,Skapski,CAN,Abbotsford,1994-06-15,6,June
+8476526,Ben,Thomson,CAN,Brampton,1993-01-16,1,January
+8478371,Matt,Lorito,CAN,Oakville,1990-07-03,7,July
+8476418,Robbie,Russo,USA,Westmont,1993-02-15,2,February
+8477399,Tyrell,Goulbourne,CAN,Edmonton,1994-01-26,1,January
+8479404,Henrik,Borgstrom,FIN,Helsinki,1997-08-06,8,August
+8479249,Andrew,Poturalski,USA,Williamsville,1994-01-14,1,January
+8478870,Rudolfs,Balcers,LVA,Latvia,1997-04-08,4,April
+8475436,Mike,Liambas,CAN,Toronto,1989-02-16,2,February
+8480771,Daniel,Brickley,USA,SANDY,1995-03-30,3,March
+8480776,Sheldon,Rempal,CAN,CALGARY,1995-08-07,8,August
+8480163,Philip,Holm,SWE,Stockholm,1991-12-08,12,December
+8477994,Dominic,Turgeon,CAN,Pointe-Claire,1996-02-25,2,February
+8477041,Brady,Austin,CAN,Bobcaygeon,1993-06-16,6,June
+8478874,Adam,Gaudette,USA,Braintree,1996-10-03,10,October
+8477085,Ashton,Sautner,CAN,Flin Flon,1994-05-27,5,May
+8479977,Kailer,Yamamoto,USA,Spokane,1998-09-29,9,September
+8479366,Logan,Brown,USA,Raleigh,1998-03-05,3,March
+8480083,C.J.,Smith,USA,Des Moines,1994-12-01,12,December
+8479423,Alexander,Nylander,CAN,Calgary,1998-03-02,3,March
+8477428,Justin,Auger,CAN,Kitchener,1994-05-14,5,May
+8478425,Brendan,Guhle,CAN,Edmonton,1997-07-29,7,July
+8476309,Jason,Kasdorf,CAN,Winnipeg,1992-05-18,5,May
+8475756,John,McFarland,CAN,Richmond Hill,1992-04-02,4,April
+8478176,Joe,Hicketts,CAN,Kamloops,1996-05-04,5,May
+8480164,Henrik,Haapala,FIN,Lempaala,1994-02-28,2,February
+8477566,Sergey,Tolchinsky,RUS,Moscow,1995-02-03,2,February
+8478868,Christian,Jaros,SVK,Kosice,1996-04-02,4,April
+8480029,Alex,Formenton,CAN,Barrie,1999-09-13,9,September
+8476953,Trevor,Carrick,CAN,Stouffville,1994-07-04,7,July
+8478480,Blake,Speers,CAN,Sault Ste. Marie,1997-01-02,1,January
+8477990,Brandon,Halverson,USA,Traverse City,1996-03-29,3,March
+8473431,Bud,Holloway,CAN,Wapella,1988-03-01,3,March
+8477390,Ben,Betker,CAN,Cranbrook,1994-09-29,9,September
+8478499,Adin,Hill,CAN,Comox,1996-05-11,5,May
+8480420,Collin,Delia,USA,Rancho Cucamonga,1994-06-20,6,June
+8479138,Scott,Foster,,,1982-01-17,1,January
+8476006,Brenden,Kichton,CAN,Spruce Grove,1992-06-18,6,June
+8477881,Connor,Jones,CAN,Montrose,1990-08-16,8,August
+8479650,Vadim,Shipachyov,RUS,Cherepovets,1987-03-12,3,March
+8480330,Spencer,Foo,CAN,St. Albert,1994-05-19,5,May
+8478462,Nicolas,Roy,CAN,Amos,1997-02-05,2,February
+8475611,Zane,Kalemba,USA,Saddle Brook,1985-12-19,12,December
+8477967,Thatcher,Demko,USA,San Diego,1995-12-08,12,December
+8477391,Sean,Malone,USA,Buffalo,1995-04-30,4,April
+8477441,Jordan,Subban,CAN,Toronto,1995-03-03,3,March
+8478965,Ken,Appleby,CAN,North Bay,1995-04-10,4,April
+8479999,Casey,Mittelstadt,USA,Eden Prairie,1998-11-22,11,November
+8475291,Garrett,Mitchell,CAN,Regina,1991-09-02,9,September
+8477449,Morgan,Klimchuk,CAN,Regina,1995-03-02,3,March
+8478013,Jake,Walman,CAN,Toronto,1996-02-20,2,February
+8478365,Danick,Martel,CAN,Drummondville,1994-12-12,12,December
+8479613,Giovanni,Fiore,CAN,Laval,1996-08-13,8,August
+8480718,Ben,Wexler,,,1994-12-23,12,December
+8479252,Dan,Renouf,CAN,Pickering,1994-06-01,6,June
+8477028,Nick,Ebert,USA,Livingston,1994-05-11,5,May
+8475718,Justin,Holl,USA,Tonka Bay,1992-01-30,1,January
+8480524,Tyler,Stewart,USA,St. Louis,1992-04-23,4,April
+8477968,Alex,Nedeljkovic,USA,Parma,1996-01-07,1,January
+8477483,Yan Pavel,Laplante,CAN,Ste-Martine,1995-04-23,4,April
+8478430,Oliver,Kylington,SWE,Stockholm,1997-05-19,5,May
+8478565,Matthias,Plachta,DEU,Freiburg,1991-05-16,5,May
+8478024,Ville,Husso,FIN,Helsinki,1995-02-06,2,February
+8476511,Samuel,Henley,CAN,Val-d'Or,1993-07-25,7,July
+8478839,Aleksi,Saarela,FIN,Helsinki,1997-01-07,1,January
+8477091,Evan,McEneny,CAN,Hamilton,1994-05-22,5,May
+8476986,Marek,Langhamer,CZE,Moravska Trebova,1994-07-22,7,July
+8470705,Corey,Locke,CAN,Toronto,1984-05-08,5,May
+8471634,Ryan,Shannon,USA,Darien,1983-03-02,3,March
+8469461,Pascal,Leclaire,CAN,Repentigny,1982-11-07,11,November
+8466212,Francis,Lessard,CAN,Montreal,1979-05-30,5,May
+8471368,Roman,Wick,CHE,Zuzwil,1985-12-30,12,December
+8469670,Marek,Svatos,SVK,Kosice,1982-06-17,6,June
+8468789,Jason,Williams,CAN,London,1980-08-11,8,August
+8467519,Karlis,Skrastins,LVA,Riga,1974-07-09,7,July
+8468506,Brian,Sutherby,CAN,Edmonton,1982-03-01,3,March
+8469584,Joel,Perrault,CAN,Montreal,1983-04-06,4,April
+8460533,Dave,Scatchard,CAN,Hinton,1976-02-20,2,February
+8474762,Stefan,Della Rovere,CAN,Richmond Hill,1990-02-25,2,February
+8471692,Ryan,Parent,CAN,Prince Albert,1987-03-17,3,March
+8462118,Marc,Savard,CAN,Ottawa,1977-07-17,7,July
+8467915,Mike,Commodore,CAN,Fort Saskatchewan,1979-11-07,11,November
+8467927,Andrew,Hutchinson,USA,Evanston,1980-03-24,3,March
+8460502,Wade,Belak,CAN,Saskatoon,1976-07-03,7,July
+8467579,Trevor,Gillies,CAN,Cambridge,1979-01-30,1,January
+8469684,Milan,Jurcina,SVK,Liptovsky Mikulas,1983-06-07,6,June
+8473501,Ty,Wishart,CAN,Belleville,1988-05-19,5,May
+8474731,Justin,DiBenedetto,CAN,Maple,1988-08-25,8,August
+8474063,Mark,Katic,CAN,Porcupine,1989-05-09,5,May
+8468500,Alex,Frolov,RUS,Moscow,1982-06-19,6,June
+8471753,T.J.,Hensick,USA,Lansing,1985-12-10,12,December
+8466181,Kristian,Huselius,SWE,Osterhaninge,1978-11-10,11,November
+8460567,Chris,Clark,USA,South Windsor,1976-03-08,3,March
+8470737,Brett,Sterling,USA,Los Angeles,1984-04-24,4,April
+8474220,Jerome,Samson,CAN,Greenfield Park,1987-09-04,9,September
+8473999,Nick,Palmieri,USA,Utica,1989-07-12,7,July
+8466216,Adam,Mair,CAN,Hamilton,1979-02-15,2,February
+8466035,Sergei,Samsonov,RUS,Moscow,1978-10-27,10,October
+8472355,Rod,Pelley,CAN,Kitimat,1984-09-01,9,September
+8474557,Anssi,Salmela,FIN,Nokia,1984-08-13,8,August
+8460580,Brad,Lukowich,CAN,Cranbrook,1976-08-12,8,August
+8470661,Jean-Francois,Jacques,CAN,Montreal,1985-04-29,4,April
+8470687,Zack,Stortini,CAN,Elliot Lake,1985-09-11,9,September
+8460555,Jason,Strudwick,CAN,Edmonton,1975-07-17,7,July
+8471689,Ryan,O'Marra,CAN,Tokyo,1987-06-09,6,June
+8470986,Darryl,Boyce,CAN,Summerside,1984-07-07,7,July
+8471187,Brett,Lebda,USA,Buffalo Grove,1982-01-15,1,January
+8469464,Fredrik,Sjostrom,SWE,Färgelanda,1983-05-06,5,May
+8467943,Niklas,Hagman,FIN,Espoo,1979-12-05,12,December
+8467466,Trent,Hunter,CAN,Red Deer,1980-07-05,7,July
+8474139,Maxime,Macenauer,CAN,Laval,1989-01-04,1,January
+8460504,Ethan,Moreau,CAN,Huntsville,1975-09-22,9,September
+8474566,Nikita,Filatov,RUS,Moscow,1990-05-25,5,May
+8470649,Patrick,O'Sullivan,USA,Toronto,1985-02-01,2,February
+8471697,Niclas,Bergfors,SWE,Sodertalje,1987-03-07,3,March
+8460556,Freddy,Modin,SWE,Sundsvall,1974-10-08,10,October
+8469647,Derek,Boogaard,CAN,Saskatoon,1982-06-23,6,June
+8469505,Noah,Welch,USA,Brighton,1982-08-26,8,August
+8466392,Todd,White,CAN,Kanata,1975-05-21,5,May
+8470578,Freddy,Meyer,USA,Sanbornville,1981-01-04,1,January
+8458568,Chris,Osgood,CAN,Peace River,1972-11-26,11,November
+8471324,Liam,Reddox,CAN,Whitby,1986-01-27,1,January
+8468166,Curtis,Sanford,CAN,Owen sound,1979-10-05,10,October
+8468887,Warren,Peters,CAN,Saskatoon,1982-07-10,7,July
+8473605,Alexander,Vasyunov,RUS,Yaroslavl,1988-04-22,4,April
+8471508,Olivier,Magnan,CAN,Sherbrooke,1986-05-01,5,May
+8476764,Jack,Maclellan,CAN,Richmond Hill,1988-06-05,6,June
+8458541,Steve,Staios,CAN,Hamilton,1973-07-28,7,July
+8465026,Mark,Parrish,USA,Bloomington,1977-02-02,2,February
+8470680,Ryan,Potulny,USA,Grand Forks,1984-09-05,9,September
+8471978,Brett,Festerling,CAN,Prince George,1986-03-03,3,March
+8471694,Kenndal,McArdle,CAN,Toronto,1987-01-04,1,January
+8472379,Tim,Stapleton,USA,Forest Park,1982-07-19,7,July
+8473493,Ben,Maxwell,CAN,North Vancouver,1988-03-30,3,March
+8470780,Mark,Flood,CAN,Charlottetown,1984-09-29,9,September
+8474128,Milan,Kytnar,SVK,Topolcany,1989-05-19,5,May
+8474575,Colten,Teubert,CAN,White Rock,1990-03-08,3,March
+8456283,Adam,Foote,CAN,Toronto,1971-07-10,7,July
+8470623,Shawn,Belle,CAN,Edmonton,1985-01-03,1,January
+8474730,Jonas,Holos,NOR,Sarpsborg,1987-08-27,8,August
+8470697,Philippe,Dupuis,CAN,Laval,1985-04-24,4,April
+8468626,David,Koci,CZE,Prague,1981-05-12,5,May
+8474587,Greg,Nemisz,CAN,Courtice,1990-06-05,6,June
+8467502,Ales,Kotalik,CZE,Jindrichuv Hradec,1978-12-23,12,December
+8470580,Jed,Ortmeyer,USA,Omaha,1978-09-03,9,September
+8470988,Bryan,Rodney,CAN,London,1984-04-22,4,April
+8474042,Cody,Almond,CAN,Calgary,1989-07-24,7,July
+8459004,Craig,Rivet,CAN,North Bay,1974-09-13,9,September
+8471413,Mike,Vernace,CAN,Toronto,1986-05-26,5,May
+8474085,Johan,Harju,SWE,Övertorneå,1986-05-15,5,May
+8474592,Philip,McRae,USA,Minneapolis,1990-03-15,3,March
+8469152,Ty,Conklin,USA,Anchorage,1976-03-30,3,March
+8468881,Jason,Jaffray,CAN,Olds,1981-06-30,6,June
+8470136,Nathan,Oystrick,CAN,Regina,1982-12-17,12,December
+8471310,Dustin,Boyd,CAN,Winnipeg,1986-07-16,7,July
+8472262,Clay,Wilson,USA,Sturgeon Lake,1983-04-05,4,April
+8471399,Robbie,Earl,USA,Chicago,1985-06-02,6,June
+8471238,Rob,Schremp,USA,Fulton,1986-07-01,7,July
+8470651,Jeremy,Colliton,CAN,Blackie,1985-01-13,1,January
+8475156,Mikko,Koskinen,FIN,Vantaa,1988-07-18,7,July
+8468646,Nolan,Schaefer,CAN,Yellow,1980-01-15,1,January
+8470072,Petr,Prucha,CZE,Chrudim,1982-09-14,9,September
+8470708,Guillaume,Desbiens,CAN,Alma,1985-04-20,4,April
+8462093,Peter,Schaefer,CAN,Regina,1977-07-12,7,July
+8473444,Jon,Matsumoto,CAN,Ottawa,1986-10-13,10,October
+8471868,Ryan,Russell,CAN,Caroline,1987-05-02,5,May
+8475104,Evan,Oberg,CAN,Forestburg,1988-02-16,2,February
+8474057,Allen,York,CAN,Wetaskiwin,1989-06-17,6,June
+8467453,Andrew,Raycroft,CAN,Belleville,1980-05-04,5,May
+8476225,Mike,Connolly,CAN,Calgary,1989-07-03,7,July
+8470741,Nigel,Dawes,CAN,Winnipeg,1985-02-09,2,February
+8455919,Craig,Conroy,USA,Potsdam,1971-09-04,9,September
+8474153,Michal,Repik,CZE,Vlasim,1988-12-31,12,December
+8472361,Bill,Thomas,USA,Pittsburgh,1983-06-20,6,June
+8474146,Spencer,Machacek,CAN,Lethbridge,1988-10-14,10,October
+8470086,Joe,Callahan,USA,Brockton,1982-12-20,12,December
+8474222,Maxim,Noreau,CAN,Montreal,1987-05-24,5,May
+8473997,Luca,Caputi,CAN,Toronto,1988-10-01,10,October
+8474029,Cade,Fairchild,USA,Duluth,1989-01-15,1,January
+8473511,David,McIntyre,CAN,Oakville,1987-02-04,2,February
+8471696,Matt,Lashoff,USA,East Greenbush,1986-09-29,9,September
+8471941,Mike,Duco,CAN,Toronto,1987-07-08,7,July
+8475372,Andreas,Engqvist,SWE,Stockholm,1987-12-23,12,December
+8465024,Jon,Sim,CAN,New Glasgow,1977-09-29,9,September
+8470113,John,Zeiler,USA,Jefferson Hills,1982-11-21,11,November
+8470656,David,Liffiton,CAN,Windsor,1984-10-18,10,October
+8471395,Trevor,Ludwig,USA,Rhinelander,1985-05-24,5,May
+8468502,David,Hale,USA,Colorado Springs,1981-06-18,6,June
+8471628,Rick,Rypien,CAN,Coleman,1984-05-16,5,May
+8469564,Richard,Petiot,CAN,Daysland,1982-08-20,8,August
+8469675,Martin,Gerber,CHE,Burgdorf,1974-09-03,9,September
+8458361,Doug,Weight,USA,Detroit,1971-01-21,1,January
+8458943,Cory,Stillman,CAN,Peterborough,1973-12-20,12,December
+8470005,Mark,Cullen,USA,Moorhead,1978-10-28,10,October
+8474383,Joel,Rechlicz,USA,Brookfield,1987-06-14,6,June
+8470787,Drew,Bagnall,CAN,Oakbank,1983-10-26,10,October
+8470800,Mike,Brodeur,CAN,Calgary,1983-03-30,3,March
+8460612,Marty,Turco,CAN,Sault Ste. Marie,1975-08-13,8,August
+8467959,Sebastien,Caron,CAN,Amqui,1980-06-25,6,June
+8458520,Peter,Forsberg,SWE,Ornskoldsvik,1973-07-20,7,July
+8470605,Hugh,Jessiman,USA,New York City,1984-03-28,3,March
+8475097,Brad,Thiessen,CAN,Aldergrove,1986-03-19,3,March
+8468599,Brian,Fahey,USA,Glenview,1981-03-02,3,March
+8471730,Evan,Brophey,CAN,Kitchener,1986-12-03,12,December
+8475087,Christian,Hanson,USA,"Glens Falls,",1986-03-10,3,March
+8468432,Steve,Reinprecht,CAN,Edmonton,1976-05-07,5,May
+8475679,Jarod,Palmer,USA,Fridley,1986-02-10,2,February
+8469672,Aaron,Voros,CAN,Vancouver,1981-07-02,7,July
+8469582,Colin,Stuart,USA,Rochester,1982-07-08,7,July
+8468086,Alexandre,Giroux,CAN,Quebec City,1981-06-16,6,June
+8467937,Michael,Zigomanis,CAN,Toronto,1981-01-17,1,January
+8470301,Andre,Deveaux,BHS,Freeport,1984-02-23,2,February
+8470321,Patrick,Rissmiller,USA,Belmont,1978-10-26,10,October
+8475102,Travis,Turnbull,USA,St. Louis,1986-07-07,7,July
+8473456,Rhett,Rakhshani,USA,Orange,1988-03-06,3,March
+8470203,Greg,Mauldin,USA,Boston,1982-06-10,6,June
+8476791,Scott,Arnold,CAN,Montreal,1989-06-23,6,June
+8471846,Kris,Fredheim,CAN,Campbell River,1987-02-23,2,February
+8476224,Chay,Genoway,CAN,Swan River,1986-12-20,12,December
+8474195,Maksim,Mayorov,RUS,Leninogorsk,1989-03-26,3,March
+8474771,Peter,Mannino,USA,Farmington Hills,1984-02-17,2,February
+8473898,Paul,Szczechura,CAN,Brantford,1985-11-30,11,November
+8474046,Alex,Plante,CAN,Brandon,1989-05-09,5,May
+8474693,Tomas,Kubalik,CZE,Plzen,1990-05-01,5,May
+8471863,Mario,Bliznak,SVK,Trencin,1987-03-06,3,March
+8475677,Linus,Klasen,SWE,Stockholm,1986-02-19,2,February
+8468499,Krys,Kolanos,CAN,Calgary,1981-07-27,7,July
+8470648,Stefan,Meyer,CAN,Medicine Hat,1985-07-20,7,July
+8469120,Raitis,Ivanans,LVA,Riga,1979-01-03,1,January
+8475934,Dennis,Endras,DEU,Immenstadt,1985-07-14,7,July
+8474500,Derek,Whitmore,USA,Rochester,1984-12-17,12,December
+8470838,Andrew,Joudrey,CAN,Halifax,1984-07-15,7,July
+8475950,Marcel,Mueller,DEU,Berlin,1988-07-10,7,July
+8473916,Steve,Wagner,USA,Grand Rapids,1984-03-06,3,March
+8475641,Brendon,Nash,CAN,Calgary,1987-03-31,3,March
+8471223,Boris,Valabik,SVK,Nitra,1986-02-14,2,February
+8469516,Brendan,Bell,CAN,Ottawa,1983-03-31,3,March
+8467906,Jonas,Andersson,SWE,Lidingo,1981-02-24,2,February
+8474647,Ian,Schultz,CAN,Calgary,1990-02-04,2,February
+8471848,Andrey,Zubarev,RUS,Ufa,1987-03-03,3,March
+8469716,Severin,Blindenbacher,CHE,Zürich,1983-03-15,3,March
+8467335,Mark,Bell,CAN,St. Pauls,1980-08-05,8,August
+8471728,Brodie,Dupont,CAN,Russell,1987-02-17,2,February
+8476803,Shawn,Hunwick,USA,Sterling Heights,1987-04-09,4,April
+8471822,Brian,Foster,USA,Pembroke,1987-02-04,2,February
+8476208,Matt,Campanale,USA,Chester Springs,1988-02-14,2,February
+8471764,Patrick,Davis,USA,Sterling Heights,1986-12-28,12,December
+8471429,Tyler,Eckford,CAN,Vancouver,1985-09-08,9,September
+8476243,Iiro,Tarkki,FIN,Rauma,1985-07-01,7,July
+8470809,Jeremy,Williams,CAN,Regina,1984-01-26,1,January
+8473532,Mark,Dekanich,CAN,N. Vancouver,1986-05-10,5,May
+8473539,Carl,Sneep,USA,St. Louis Park,1987-11-05,11,November
+8474585,Tyler,Cuma,CAN,Toronto,1990-01-19,1,January
+8471786,Ray,Macias,USA,Long Beach,1986-09-18,9,September
+8474154,Andreas,Thuresson,SWE,Kristianstad,1987-11-18,11,November
+8475990,Jamie,Doornbosch,CAN,Scarborough,1990-02-01,2,February
+8471265,Raymond,Sawada,CAN,Richmond,1985-02-19,2,February
+8474691,Philippe,Cornet,CAN,Val-Senneville,1990-03-28,3,March
+8471845,Jean-Philippe,Levasseur,CAN,Victoriaville,1987-01-15,1,January
+8475173,Scott,Glennie,CAN,Oakville,1991-02-22,2,February
+8474194,Timo,Pielmeier,DEU,Deggendorf,1989-07-07,7,July
+8469479,Jason,Bacashihua,USA,Garden City,1982-09-20,9,September
+8476674,Paul,Deutsch,USA,Minneapolis,1960-10-24,10,October
+8465113,Brian,Willsie,CAN,Belmont,1978-03-16,3,March
+8473451,Kevin,Montgomery,USA,Rochester,1988-04-04,4,April
+8474143,Ryan,Thang,USA,Chicago,1987-05-11,5,May
+8468584,Jon,Disalvatore,USA,Bangor,1981-03-30,3,March
+8475255,Scott,Stajcer,CAN,Cambridge,1991-06-14,6,June
+8474729,Mike,Murphy,CAN,Kingston,1989-01-15,1,January
+8474737,Patrick,Killeen,CAN,Almonte,1990-04-15,4,April
+8468113,Jeff,Finger,USA,Houghton,1979-12-18,12,December
+8473611,Shane,Sims,USA,East Amherst,1988-04-30,4,April
+8475219,Kristopher,Foucault,CAN,Calgary,1990-12-12,12,December

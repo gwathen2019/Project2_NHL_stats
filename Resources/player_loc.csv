@@ -1,0 +1,1304 @@
+player_cnt,nationality,birthcity,city_ascii,iso3,latitude,longitude
+5,USA,Los Angeles                                  ,Los Angeles                        ,USA,34.1139,-118.4068
+21,RUS,Moscow                                       ,Moscow                             ,RUS,55.7522,37.6155
+1,FRA,Paris                                        ,Paris                              ,FRA,48.8667,2.3333
+10,USA,Chicago                                      ,Chicago                            ,USA,41.8373,-87.6862
+2,USA,Philadelphia                                 ,Philadelphia                       ,USA,40.0077,-75.1339
+2,USA,Washington                                   ,Washington                         ,USA,38.9047,-77.0163
+67,CAN,Toronto                                      ,Toronto                            ,CAN,43.7,-79.42
+16,USA,Boston                                       ,Boston                             ,USA,42.3188,-71.0846
+1,USA,Phoenix                                      ,Phoenix                            ,USA,33.5722,-112.0891
+31,CAN,Montreal                                     ,Montreal                           ,CAN,45.5,-73.5833
+1,USA,San Francisco                                ,San Francisco                      ,USA,37.7562,-122.443
+9,USA,Detroit                                      ,Detroit                            ,USA,42.3834,-83.1024
+1,DEU,Berlin                                       ,Berlin                             ,DEU,52.5218,13.4015
+2,USA,San Diego                                    ,San Diego                          ,USA,32.8312,-117.1225
+13,USA,Minneapolis                                  ,Minneapolis                        ,USA,44.9635,-93.2678
+7,USA,Denver                                       ,Denver                             ,USA,39.7621,-104.8759
+1,USA,Brooklyn                                     ,Brooklyn                           ,USA,40.6501,-73.9496
+2,AUT,Vienna                                       ,Vienna                             ,AUT,48.2,16.3666
+1,DEU,Mannheim                                     ,Mannheim                           ,DEU,49.5004,8.47
+15,CAN,Vancouver                                    ,Vancouver                          ,CAN,49.2734,-123.1216
+1,USA,Riverside                                    ,Riverside                          ,USA,33.9381,-117.3948
+11,USA,St. Louis                                    ,St. Louis                          ,USA,38.6358,-90.2451
+1,BLR,Minsk                                        ,Minsk                              ,BLR,53.9,27.5666
+4,USA,Cleveland                                    ,Cleveland                          ,USA,41.4767,-81.6805
+12,USA,Pittsburgh                                   ,Pittsburgh                         ,USA,40.4396,-79.9763
+1,USA,Kansas City                                  ,Kansas City                        ,USA,39.1239,-94.5541
+2,USA,Indianapolis                                 ,Indianapolis                       ,USA,39.7771,-86.1458
+1,USA,Columbus                                     ,Columbus                           ,USA,39.986,-82.9851
+1,USA,Charlotte                                    ,Charlotte                          ,USA,35.2079,-80.8304
+4,USA,Milwaukee                                    ,Milwaukee                          ,USA,43.0642,-87.9673
+1,RUS,Yekaterinburg                                ,Yekaterinburg                      ,RUS,56.85,60.6
+1,DEU,Munich                                       ,Munich                             ,DEU,48.1299,11.575
+30,SWE,Stockholm                                    ,Stockholm                          ,SWE,59.3508,18.0973
+1,DEU,Dusseldorf                                   ,Dusseldorf                         ,DEU,51.2204,6.78
+10,CZE,Prague                                       ,Prague                             ,CZE,50.0833,14.466
+1,USA,Jacksonville                                 ,Jacksonville                       ,USA,30.3322,-81.6749
+26,CAN,Ottawa                                       ,Ottawa                             ,CAN,45.4167,-75.7
+1,RUS,Samara                                       ,Samara                             ,RUS,53.195,50.1513
+2,RUS,Omsk                                         ,Omsk                               ,RUS,54.99,73.4
+13,FIN,Helsinki                                     ,Helsinki                           ,FIN,60.1756,24.9341
+37,CAN,Calgary                                      ,Calgary                            ,CAN,51.083,-114.08
+1,CHE,Zurich                                       ,Zurich                             ,CHE,47.38,8.55
+3,USA,Salt Lake City                               ,Salt Lake City                     ,USA,40.7774,-111.93
+8,RUS,Chelyabinsk                                  ,Chelyabinsk                        ,RUS,55.155,61.4387
+50,CAN,Edmonton                                     ,Edmonton                           ,CAN,53.55,-113.5
+1,NLD,Amsterdam                                    ,Amsterdam                          ,NLD,52.35,4.9166
+1,USA,Raleigh                                      ,Raleigh                            ,USA,35.8324,-78.6438
+1,RUS,Ufa                                          ,Ufa                                ,RUS,54.79,56.04
+1,DEU,Cologne                                      ,Cologne                            ,DEU,50.93,6.95
+1,NOR,Oslo                                         ,Oslo                               ,NOR,59.9167,10.75
+7,LVA,Riga                                         ,Riga                               ,LVA,56.95,24.1
+1,HRV,Zagreb                                       ,Zagreb                             ,HRV,45.8,16
+1,SVK,Bratislava                                   ,Bratislava                         ,SVK,48.15,17.117
+5,CHE,Bern                                         ,Bern                               ,CHE,46.9167,7.467
+1,USA,Oklahoma City                                ,Oklahoma City                      ,USA,35.4676,-97.5137
+9,USA,Buffalo                                      ,Buffalo                            ,USA,42.9017,-78.8487
+4,USA,Hartford                                     ,Hartford                           ,USA,41.7661,-72.6834
+2,USA,Omaha                                        ,Omaha                              ,USA,41.2628,-96.0498
+1,DEU,Nuremberg                                    ,Nuremberg                          ,DEU,49.45,11.08
+18,CAN,Hamilton                                     ,Hamilton                           ,CAN,43.25,-79.83
+11,USA,Rochester                                    ,Rochester                          ,USA,43.168,-77.6162
+3,USA,Concord                                      ,Concord                            ,USA,37.9722,-122.0016
+27,CAN,Winnipeg                                     ,Winnipeg                           ,CAN,49.883,-97.166
+1,RUS,Izhevsk                                      ,Izhevsk                            ,RUS,56.85,53.23
+3,USA,Colorado Springs                             ,Colorado Springs                   ,USA,38.8674,-104.7606
+5,USA,Grand Rapids                                 ,Grand Rapids                       ,USA,42.9615,-85.6557
+1,USA,Albany                                       ,Albany                             ,USA,42.6664,-73.7987
+2,RUS,Khabarovsk                                   ,Khabarovsk                         ,RUS,48.455,135.12
+1,USA,New Haven                                    ,New Haven                          ,USA,41.3112,-72.9246
+2,RUS,Novokuznetsk                                 ,Novokuznetsk                       ,RUS,53.75,87.115
+1,RUS,Lipetsk                                      ,Lipetsk                            ,RUS,52.62,39.64
+2,RUS,Penza                                        ,Penza                              ,RUS,53.18,45
+2,USA,Worcester                                    ,Worcester                          ,USA,42.2705,-71.8079
+2,USA,Des Moines                                   ,Des Moines                         ,USA,41.5725,-93.6105
+3,CZE,Ostrava                                      ,Ostrava                            ,CZE,49.8304,18.25
+1,USA,Staten Island                                ,Staten Island                      ,USA,40.5834,-74.1496
+5,USA,Long Beach                                   ,Long Beach                         ,USA,33.798,-118.1675
+3,CAN,Oshawa                                       ,Oshawa                             ,CAN,43.88,-78.85
+8,USA,Madison                                      ,Madison                            ,USA,43.0827,-89.3923
+11,CAN,Kitchener                                    ,Kitchener                          ,CAN,43.45,-80.5
+1,USA,Winston-Salem                                ,Winston-Salem                      ,USA,36.1029,-80.261
+2,RUS,Magnitogorsk                                 ,Magnitogorsk                       ,RUS,53.4227,58.98
+5,USA,Syracuse                                     ,Syracuse                           ,USA,43.0409,-76.1438
+4,USA,Spokane                                      ,Spokane                            ,USA,47.6671,-117.433
+1,RUS,Surgut                                       ,Surgut                             ,RUS,61.2599,73.425
+2,USA,Arlington                                    ,Arlington                          ,USA,32.6998,-97.1251
+3,CZE,Brno                                         ,Brno                               ,CZE,49.2004,16.61
+1,LTU,Kaunas                                       ,Kaunas                             ,LTU,54.9504,23.88
+8,CAN,Halifax                                      ,Halifax                            ,CAN,44.65,-63.6
+2,USA,Anaheim                                      ,Anaheim                            ,USA,33.839,-117.8573
+1,USA,Gilbert                                      ,Gilbert                            ,USA,33.3103,-111.7463
+20,CAN,London                                       ,London                             ,CAN,42.97,-81.25
+2,USA,Flint                                        ,Flint                              ,USA,43.0235,-83.6922
+7,USA,Ann Arbor                                    ,Ann Arbor                          ,USA,42.2755,-83.7312
+3,USA,Lansing                                      ,Lansing                            ,USA,42.7142,-84.5601
+12,CAN,Windsor                                      ,Windsor                            ,CAN,42.3333,-83.0333
+3,RUS,Cherepovets                                  ,Cherepovets                        ,RUS,59.1404,37.91
+1,USA,Huntsville                                   ,Huntsville                         ,USA,34.6988,-86.6412
+5,USA,St. Paul                                     ,St. Paul                           ,USA,44.9477,-93.104
+4,USA,Trenton                                      ,Trenton                            ,USA,40.2236,-74.7641
+6,CAN,Victoria                                     ,Victoria                           ,CAN,48.4333,-123.35
+2,USA,Plano                                        ,Plano                              ,USA,33.0502,-96.7487
+4,USA,Canton                                       ,Canton                             ,USA,40.8076,-81.3678
+1,USA,Reading                                      ,Reading                            ,USA,40.34,-75.9267
+2,USA,Salem                                        ,Salem                              ,USA,44.9232,-123.0245
+5,FIN,Tampere                                      ,Tampere                            ,FIN,61.5,23.75
+1,USA,Columbus                                     ,Columbus                           ,USA,32.51,-84.8771
+10,USA,Anchorage                                    ,Anchorage                          ,USA,61.1508,-149.1091
+3,USA,Concord                                      ,Concord                            ,USA,35.3932,-80.6363
+2,USA,Scottsdale                                   ,Scottsdale                         ,USA,33.6872,-111.8651
+1,GBR,Plymouth                                     ,Plymouth                           ,GBR,50.3854,-4.16
+1,RUS,Orsk                                         ,Orsk                               ,RUS,51.21,58.6273
+1,USA,Wilmington                                   ,Wilmington                         ,USA,34.2101,-77.886
+5,SVK,Kosice                                       ,Kosice                             ,SVK,48.7304,21.25
+4,RUS,Nizhnekamsk                                  ,Nizhnekamsk                        ,RUS,55.6404,51.82
+1,USA,York                                         ,York                               ,USA,39.9651,-76.7315
+1,USA,Nashua                                       ,Nashua                             ,USA,42.7491,-71.491
+2,USA,Arlington                                    ,Arlington                          ,USA,38.8786,-77.1011
+1,USA,Kalamazoo                                    ,Kalamazoo                          ,USA,42.2749,-85.5882
+1,USA,Tacoma                                       ,Tacoma                             ,USA,47.2431,-122.4531
+1,USA,Green Bay                                    ,Green Bay                          ,USA,44.515,-87.9896
+1,USA,Fargo                                        ,Fargo                              ,USA,46.8653,-96.8292
+20,CAN,Saskatoon                                    ,Saskatoon                          ,CAN,52.17,-106.67
+4,CAN,Barrie                                       ,Barrie                             ,CAN,44.3838,-79.7
+1,USA,Fort Lauderdale                              ,Fort Lauderdale                    ,USA,26.1412,-80.1464
+1,USA,Newport News                                 ,Newport News                       ,USA,37.1051,-76.5185
+1,USA,Rancho Cucamonga                             ,Rancho Cucamonga                   ,USA,34.1248,-117.5666
+1,RUS,Yuzhno-Sakhalinsk                            ,Yuzhno-Sakhalinsk                  ,RUS,46.965,142.74
+23,CAN,Regina                                       ,Regina                             ,CAN,50.45,-104.617
+8,FIN,Turku                                        ,Turku                              ,FIN,60.4539,22.255
+1,USA,Pembroke Pines                               ,Pembroke Pines                     ,USA,26.0128,-80.3382
+5,CZE,Plzen                                        ,Plzen                              ,CZE,49.7404,13.36
+1,USA,Muskegon                                     ,Muskegon                           ,USA,43.2281,-86.2562
+1,RUS,Maykop                                       ,Maykop                             ,RUS,44.61,40.12
+7,CAN,Sudbury                                      ,Sudbury                            ,CAN,46.5,-80.9666
+1,USA,Kansas City                                  ,Kansas City                        ,USA,39.1234,-94.7443
+7,CAN,Abbotsford                                   ,Abbotsford                         ,CAN,49.0504,-122.3
+1,USA,Binghamton                                   ,Binghamton                         ,USA,42.1014,-75.9093
+1,CAN,Sarnia                                       ,Sarnia                             ,CAN,42.9666,-82.4
+2,USA,Orange                                       ,Orange                             ,USA,33.8038,-117.8218
+1,USA,Fullerton                                    ,Fullerton                          ,USA,33.8841,-117.9279
+5,CAN,Sherbrooke                                   ,Sherbrooke                         ,CAN,45.4,-71.9
+4,FIN,Oulu                                         ,Oulu                               ,FIN,65,25.47
+2,USA,Roseville                                    ,Roseville                          ,USA,38.7691,-121.3178
+2,USA,Warren                                       ,Warren                             ,USA,42.4934,-83.027
+7,USA,Bloomington                                  ,Bloomington                        ,USA,40.4757,-88.9703
+2,SWE,Uppsala                                      ,Uppsala                            ,SWE,59.8601,17.64
+3,USA,Sterling Heights                             ,Sterling Heights                   ,USA,42.5809,-83.0305
+1,USA,Stamford                                     ,Stamford                           ,USA,41.1035,-73.5583
+2,CAN,Kelowna                                      ,Kelowna                            ,CAN,49.9,-119.4833
+1,USA,Amherst                                      ,Amherst                            ,USA,43.0117,-78.7569
+2,CZE,Zlin                                         ,Zlin                               ,CZE,49.2304,17.65
+1,DNK,Aalborg                                      ,Aalborg                            ,DNK,57.0337,9.9166
+5,USA,Duluth                                       ,Duluth                             ,USA,46.7757,-92.1392
+2,CAN,Trois-Rivieres                               ,Trois-Rivieres                     ,CAN,46.35,-72.5499
+2,USA,Smithtown                                    ,Smithtown                          ,USA,40.8662,-73.2164
+11,USA,Rochester                                    ,Rochester                          ,USA,44.0151,-92.4778
+1,USA,Dover                                        ,Dover                              ,USA,39.161,-75.5203
+7,USA,Bloomington                                  ,Bloomington                        ,USA,39.1637,-86.5257
+2,USA,Utica                                        ,Utica                              ,USA,43.0961,-75.226
+1,SVN,Maribor                                      ,Maribor                            ,SVN,46.5405,15.65
+2,USA,St. Cloud                                    ,St. Cloud                          ,USA,45.5339,-94.1718
+9,CAN,Kingston                                     ,Kingston                           ,CAN,44.2337,-76.4833
+2,USA,Cambridge                                    ,Cambridge                          ,USA,42.3759,-71.1185
+1,USA,Downey                                       ,Downey                             ,USA,33.9379,-118.1312
+1,USA,Westminster                                  ,Westminster                        ,USA,39.8837,-105.0624
+2,USA,Everett                                      ,Everett                            ,USA,47.9524,-122.167
+1,USA,Jacksonville                                 ,Jacksonville                       ,USA,34.7287,-77.394
+4,SWE,Vasteras                                     ,Vasteras                           ,SWE,59.63,16.54
+3,USA,Eau Claire                                   ,Eau Claire                         ,USA,44.82,-91.4951
+2,CZE,Pardubice                                    ,Pardubice                          ,CZE,50.0404,15.76
+1,USA,Lewisville                                   ,Lewisville                         ,USA,33.0452,-96.9823
+1,USA,Edison                                       ,Edison                             ,USA,40.536,-74.3697
+1,USA,Woodbridge                                   ,Woodbridge                         ,USA,40.5611,-74.2943
+1,CZE,Olomouc                                      ,Olomouc                            ,CZE,49.63,17.25
+1,USA,Holland                                      ,Holland                            ,USA,42.7677,-86.0984
+1,FIN,Lahti                                        ,Lahti                              ,FIN,60.9939,25.6649
+2,SWE,Orebro                                       ,Orebro                             ,SWE,59.2803,15.22
+1,SWE,Linkoping                                    ,Linkoping                          ,SWE,58.41,15.6299
+1,USA,Quincy                                       ,Quincy                             ,USA,42.2516,-71.0183
+5,FIN,Kuopio                                       ,Kuopio                             ,FIN,62.8943,27.6949
+1,USA,Westminster                                  ,Westminster                        ,USA,33.7523,-117.9938
+2,SWE,Helsingborg                                  ,Helsingborg                        ,SWE,56.0505,12.7
+3,CAN,Moncton                                      ,Moncton                            ,CAN,46.0833,-64.7667
+1,SVK,Zilina                                       ,Zilina                             ,SVK,49.2198,18.7494
+1,USA,Whittier                                     ,Whittier                           ,USA,33.9678,-118.0188
+5,CAN,Peterborough                                 ,Peterborough                       ,CAN,44.3,-78.3333
+1,USA,New Rochelle                                 ,New Rochelle                       ,USA,40.9305,-73.7836
+2,SWE,Umea                                         ,Umea                               ,SWE,63.83,20.24
+5,FIN,Pori                                         ,Pori                               ,FIN,61.4789,21.7749
+3,USA,Evanston                                     ,Evanston                           ,USA,42.0463,-87.6942
+4,SWE,Karlstad                                     ,Karlstad                           ,SWE,59.3671,13.4999
+1,DNK,Esbjerg                                      ,Esbjerg                            ,DNK,55.467,8.45
+1,USA,Wilmington                                   ,Wilmington                         ,USA,39.7415,-75.5413
+1,USA,Schenectady                                  ,Schenectady                        ,USA,42.8025,-73.9276
+1,USA,Skokie                                       ,Skokie                             ,USA,42.036,-87.74
+1,USA,Brentwood                                    ,Brentwood                          ,USA,40.7839,-73.2522
+1,USA,Gardena                                      ,Gardena                            ,USA,33.8944,-118.3073
+1,SWE,Vaxjo                                        ,Vaxjo                              ,SWE,56.8837,14.8167
+2,CAN,Drummondville                                ,Drummondville                      ,CAN,45.8833,-72.4834
+2,USA,Middletown                                   ,Middletown                         ,USA,41.4458,-74.4228
+1,SWE,Halmstad                                     ,Halmstad                           ,SWE,56.6718,12.8556
+1,USA,Ithaca                                       ,Ithaca                             ,USA,42.4442,-76.5032
+1,CZE,Jihlava                                      ,Jihlava                            ,CZE,49.4004,15.5833
+2,CAN,Fredericton                                  ,Fredericton                        ,CAN,45.95,-66.6333
+1,USA,Oak Park                                     ,Oak Park                           ,USA,41.8872,-87.7899
+1,USA,Placentia                                    ,Placentia                          ,USA,33.8807,-117.8553
+1,USA,Wheaton                                      ,Wheaton                            ,USA,39.0492,-77.0572
+1,CAN,Shawinigan                                   ,Shawinigan                         ,CAN,46.5504,-72.7333
+1,USA,La Mirada                                    ,La Mirada                          ,USA,33.9025,-118.0093
+1,CAN,Cornwall                                     ,Cornwall                           ,CAN,45.0171,-74.7333
+1,SWE,Lulea                                        ,Lulea                              ,SWE,65.5966,22.1584
+2,USA,Everett                                      ,Everett                            ,USA,42.4064,-71.0545
+2,SWE,Ostersund                                    ,Ostersund                          ,SWE,63.1833,14.65
+2,USA,Arlington                                    ,Arlington                          ,USA,42.4187,-71.1639
+8,CAN,Belleville                                   ,Belleville                         ,CAN,44.1667,-77.3833
+2,USA,Salem                                        ,Salem                              ,USA,42.5129,-70.902
+3,USA,Concord                                      ,Concord                            ,USA,43.2305,-71.5595
+4,CAN,Charlottetown                                ,Charlottetown                      ,CAN,46.2493,-63.1313
+1,USA,Woonsocket                                   ,Woonsocket                         ,USA,42.001,-71.4993
+3,CAN,Victoriaville                                ,Victoriaville                      ,CAN,46.0504,-71.9667
+1,CAN,Grande Prairie                               ,Grande Prairie                     ,CAN,55.1666,-118.8
+1,CHE,Chur                                         ,Chur                               ,CHE,46.85,9.5
+2,USA,Park Ridge                                   ,Park Ridge                         ,USA,42.0125,-87.8436
+2,SWE,Karlskrona                                   ,Karlskrona                         ,SWE,56.203,15.296
+5,USA,Long Beach                                   ,Long Beach                         ,USA,40.5887,-73.666
+1,USA,Westmont                                     ,Westmont                           ,USA,33.9417,-118.3018
+2,CAN,Campbell River                               ,Campbell River                     ,CAN,50.0171,-125.25
+1,CHE,Fribourg                                     ,Fribourg                           ,CHE,46.8,7.15
+3,CAN,Orangeville                                  ,Orangeville                        ,CAN,43.9171,-80.0833
+1,USA,Oak Park                                     ,Oak Park                           ,USA,42.4649,-83.1824
+9,CAN,Brandon                                      ,Brandon                            ,CAN,49.8333,-99.95
+2,USA,Winchester                                   ,Winchester                         ,USA,36.1368,-115.1299
+1,SWE,Nykoping                                     ,Nykoping                           ,SWE,58.764,17.015
+1,USA,Belmont                                      ,Belmont                            ,USA,37.5154,-122.2955
+2,CAN,Brockville                                   ,Brockville                         ,CAN,44.5893,-75.6953
+1,USA,Belmont                                      ,Belmont                            ,USA,42.396,-71.1795
+1,USA,Maplewood                                    ,Maplewood                          ,USA,40.733,-74.2711
+1,CAN,Rouyn-Noranda                                ,Rouyn-Noranda                      ,CAN,48.25,-79.0332
+2,USA,Massapequa                                   ,Massapequa                         ,USA,40.6676,-73.4706
+2,CAN,Fort McMurray                                ,Fort McMurray                      ,CAN,56.7333,-111.3833
+1,USA,Albany                                       ,Albany                             ,USA,37.8898,-122.3018
+1,USA,North Bellmore                               ,North Bellmore                     ,USA,40.6904,-73.539
+1,USA,Morristown                                   ,Morristown                         ,USA,40.7966,-74.4772
+2,USA,Brookfield                                   ,Brookfield                         ,USA,41.8245,-87.847
+1,USA,Dover                                        ,Dover                              ,USA,40.8859,-74.5597
+1,USA,Robbinsdale                                  ,Robbinsdale                        ,USA,45.0261,-93.3332
+1,USA,Little Falls                                 ,Little Falls                       ,USA,40.8762,-74.218
+1,USA,Saddle Brook                                 ,Saddle Brook                       ,USA,40.9033,-74.0955
+1,USA,Forest Park                                  ,Forest Park                        ,USA,41.8683,-87.8157
+1,USA,Shorewood                                    ,Shorewood                          ,USA,43.0914,-87.8864
+1,USA,Clawson                                      ,Clawson                            ,USA,42.5367,-83.1504
+1,CAN,Wetaskiwin                                   ,Wetaskiwin                         ,CAN,52.9666,-113.3833
+1,USA,Northbrook                                   ,Northbrook                         ,USA,39.2466,-84.5795
+1,USA,Brentwood                                    ,Brentwood                          ,USA,40.3734,-79.9757
+1,USA,Maplewood                                    ,Maplewood                          ,USA,38.6121,-90.324
+1,USA,Riverside                                    ,Riverside                          ,USA,40.0358,-74.9564
+1,USA,Bronxville                                   ,Bronxville                         ,USA,40.9394,-73.8263
+3,CAN,Meadow Lake                                  ,Meadow Lake                        ,CAN,54.1301,-108.4347
+1,USA,Plymouth                                     ,Plymouth                           ,USA,41.2404,-75.9505
+4,USA,Hartford                                     ,Hartford                           ,USA,43.621,-96.9424
+1,USA,Dover                                        ,Dover                              ,USA,40.0033,-76.8484
+2,SWE,Uppsala                                      ,Uppsala                            ,SWE,59.85,17.6333
+1,SVN,Jesenice                                     ,Jesenice                           ,SVN,46.4306,14.0669
+1,CZE,Karlovy Vary                                 ,Karlovy Vary                       ,CZE,50.237,12.875
+1,SVK,Nitra                                        ,Nitra                              ,SVK,48.309,18.0873
+3,SVK,Trencin                                      ,Trencin                            ,SVK,48.8867,18.048
+1,NOR,Sarpsborg                                    ,Sarpsborg                          ,NOR,59.2833,11.1167
+1,LVA,Aizkraukle                                   ,Aizkraukle                         ,LVA,56.6029,25.2636
+1,LTU,Elektrenai                                   ,Elektrenai                         ,LTU,54.7863,24.6626
+1,LVA,Ogre                                         ,Ogre                               ,LVA,56.8113,24.6113
+1,FIN,Kajaani                                      ,Kajaani                            ,FIN,64.2333,27.6833
+13,CAN,Thunder Bay                                  ,Thunder Bay                        ,CAN,48.4462,-89.275
+1,USA,Boca Raton                                   ,Boca Raton                         ,USA,26.3749,-80.1077
+2,USA,Middletown                                   ,Middletown                         ,USA,39.5032,-84.366
+2,USA,Brockton                                     ,Brockton                           ,USA,42.0821,-71.0242
+2,USA,Dearborn                                     ,Dearborn                           ,USA,42.3127,-83.2129
+6,USA,Livonia                                      ,Livonia                            ,USA,42.3972,-83.3733
+2,USA,Plantation                                   ,Plantation                         ,USA,26.126,-80.2617
+1,DEU,Rosenheim                                    ,Rosenheim                          ,DEU,47.8503,12.1333
+1,USA,Dover                                        ,Dover                              ,USA,43.1887,-70.8845
+2,USA,Carmel                                       ,Carmel                             ,USA,39.9658,-86.1461
+1,USA,Edmond                                       ,Edmond                             ,USA,35.6689,-97.4159
+1,USA,Albany                                       ,Albany                             ,USA,31.5776,-84.1762
+1,USA,Auburn                                       ,Auburn                             ,USA,32.6087,-85.4899
+1,SWE,Norrkoping                                   ,Norrkoping                         ,SWE,58.5954,16.1787
+1,USA,Newport Beach                                ,Newport Beach                      ,USA,33.6151,-117.8669
+7,USA,Bloomington                                  ,Bloomington                        ,USA,44.8306,-93.3151
+2,USA,Port Huron                                   ,Port Huron                         ,USA,42.9822,-82.4387
+1,USA,Troy                                         ,Troy                               ,USA,42.5818,-83.1457
+1,USA,Westland                                     ,Westland                           ,USA,42.3192,-83.3805
+2,USA,Farmington Hills                             ,Farmington Hills                   ,USA,42.486,-83.3771
+1,USA,Auburn                                       ,Auburn                             ,USA,47.3041,-122.211
+1,USA,Alton                                        ,Alton                              ,USA,38.9033,-90.1523
+1,USA,Parma                                        ,Parma                              ,USA,41.3843,-81.7286
+1,CAN,Saint-Jerome                                 ,Saint-Jerome                       ,CAN,45.7666,-74
+1,USA,Plymouth                                     ,Plymouth                           ,USA,45.0224,-93.4615
+1,USA,Flower Mound                                 ,Flower Mound                       ,USA,33.0344,-97.1147
+1,USA,San Ramon                                    ,San Ramon                          ,USA,37.7625,-121.9365
+5,CAN,Red Deer                                     ,Red Deer                           ,CAN,52.2666,-113.8
+1,USA,Rochester Hills                              ,Rochester Hills                    ,USA,42.6645,-83.1563
+2,USA,Winchester                                   ,Winchester                         ,USA,39.1735,-78.1746
+3,SWE,Sundsvall                                    ,Sundsvall                          ,SWE,62.4001,17.3167
+1,USA,Apple Valley                                 ,Apple Valley                       ,USA,34.5328,-117.2104
+4,USA,Cleveland                                    ,Cleveland                          ,USA,35.1818,-84.8707
+1,USA,Cherry Hill                                  ,Cherry Hill                        ,USA,39.9034,-74.9947
+4,CAN,Lethbridge                                   ,Lethbridge                         ,CAN,49.7005,-112.8333
+1,USA,St. Charles                                  ,St. Charles                        ,USA,38.7956,-90.5156
+1,USA,Woodbury                                     ,Woodbury                           ,USA,44.9056,-92.923
+2,CAN,Kamloops                                     ,Kamloops                           ,CAN,50.6667,-120.3333
+1,USA,Dubuque                                      ,Dubuque                            ,USA,42.5007,-90.7067
+1,RUS,Leninogorsk                                  ,Leninogorsk                        ,RUS,54.5987,52.4487
+3,USA,Grand Forks                                  ,Grand Forks                        ,USA,47.9221,-97.0887
+2,USA,Middletown                                   ,Middletown                         ,USA,40.3897,-74.0813
+4,CAN,Prince George                                ,Prince George                      ,CAN,53.9167,-122.7667
+1,SWE,Boras                                        ,Boras                              ,SWE,57.7304,12.92
+1,USA,Blaine                                       ,Blaine                             ,USA,45.1696,-93.2078
+5,USA,Eden Prairie                                 ,Eden Prairie                       ,USA,44.8488,-93.4595
+4,USA,Lakeville                                    ,Lakeville                          ,USA,44.6776,-93.2521
+3,CAN,Medicine Hat                                 ,Medicine Hat                       ,CAN,50.0333,-110.6833
+2,USA,Greenwich                                    ,Greenwich                          ,USA,41.0665,-73.6368
+2,USA,Waltham                                      ,Waltham                            ,USA,42.3889,-71.2423
+1,USA,Brentwood                                    ,Brentwood                          ,USA,37.9356,-121.719
+5,USA,Burnsville                                   ,Burnsville                         ,USA,44.7648,-93.2795
+2,USA,Rome                                         ,Rome                               ,USA,34.2662,-85.1862
+2,USA,Dublin                                       ,Dublin                             ,USA,37.7161,-121.8964
+1,USA,Albany                                       ,Albany                             ,USA,44.6275,-123.0966
+1,USA,Morristown                                   ,Morristown                         ,USA,36.2047,-83.3005
+1,USA,Pontiac                                      ,Pontiac                            ,USA,42.6493,-83.2878
+1,USA,Bangor                                       ,Bangor                             ,USA,44.8322,-68.7906
+1,USA,Columbus                                     ,Columbus                           ,USA,39.2094,-85.9183
+3,USA,Orland Park                                  ,Orland Park                        ,USA,41.6075,-87.8619
+1,USA,Plymouth                                     ,Plymouth                           ,USA,41.8783,-70.6309
+1,USA,Dearborn Heights                             ,Dearborn Heights                   ,USA,42.3164,-83.2769
+1,USA,Wheaton                                      ,Wheaton                            ,USA,41.8561,-88.1083
+2,USA,Minnetonka                                   ,Minnetonka                         ,USA,44.9332,-93.4617
+1,USA,Farmington                                   ,Farmington                         ,USA,36.7555,-108.1823
+1,USA,Apple Valley                                 ,Apple Valley                       ,USA,44.7457,-93.2006
+1,USA,Chambersburg                                 ,Chambersburg                       ,USA,39.9315,-77.6556
+7,USA,Edina                                        ,Edina                              ,USA,44.8914,-93.3602
+2,USA,St. Cloud                                    ,St. Cloud                          ,USA,28.2294,-81.2829
+2,CAN,North Bay                                    ,North Bay                          ,CAN,46.3,-79.45
+1,USA,Minot                                        ,Minot                              ,USA,48.2374,-101.278
+2,USA,Traverse City                                ,Traverse City                      ,USA,44.7547,-85.6035
+1,USA,Troy                                         ,Troy                               ,USA,42.7354,-73.6751
+1,USA,St. Louis Park                               ,St. Louis Park                     ,USA,44.9488,-93.3649
+8,USA,Madison                                      ,Madison                            ,USA,34.7114,-86.7626
+2,USA,East Lansing                                 ,East Lansing                       ,USA,42.748,-84.4835
+1,USA,Portage                                      ,Portage                            ,USA,42.2,-85.5906
+1,USA,Niagara Falls                                ,Niagara Falls                      ,USA,43.0921,-79.0147
+1,USA,Glenview                                     ,Glenview                           ,USA,42.0825,-87.8216
+2,USA,Dublin                                       ,Dublin                             ,USA,40.1112,-83.1453
+3,USA,Chesterfield                                 ,Chesterfield                       ,USA,38.6588,-90.5803
+2,USA,Roseville                                    ,Roseville                          ,USA,42.5074,-82.9369
+1,USA,Elmhurst                                     ,Elmhurst                           ,USA,41.8973,-87.9432
+2,USA,Middletown                                   ,Middletown                         ,USA,41.5476,-72.6549
+1,USA,Potomac                                      ,Potomac                            ,USA,39.0141,-77.1943
+1,CAN,Joliette                                     ,Joliette                           ,CAN,46.0333,-73.4333
+2,USA,West Seneca                                  ,West Seneca                        ,USA,42.8374,-78.7509
+1,USA,Quincy                                       ,Quincy                             ,USA,39.9335,-91.3798
+1,USA,Farmington                                   ,Farmington                         ,USA,37.7821,-90.4288
+4,USA,Moorhead                                     ,Moorhead                           ,USA,46.8674,-96.746
+1,USA,Brentwood                                    ,Brentwood                          ,USA,35.9918,-86.7758
+1,USA,Beverly                                      ,Beverly                            ,USA,42.5681,-70.8627
+1,USA,Buffalo Grove                                ,Buffalo Grove                      ,USA,42.1674,-87.9616
+1,USA,Maplewood                                    ,Maplewood                          ,USA,44.984,-93.0247
+1,USA,Oviedo                                       ,Oviedo                             ,USA,28.658,-81.1872
+1,USA,Brighton                                     ,Brighton                           ,USA,39.9716,-104.7964
+1,USA,Manalapan                                    ,Manalapan                          ,USA,40.28,-74.3436
+1,USA,Amherst                                      ,Amherst                            ,USA,42.3645,-72.5069
+1,USA,Marlborough                                  ,Marlborough                        ,USA,42.3494,-71.5468
+2,USA,Warren                                       ,Warren                             ,USA,41.239,-80.8174
+1,USA,Huntsville                                   ,Huntsville                         ,USA,30.705,-95.5545
+2,SWE,Borlange                                     ,Borlange                           ,SWE,60.4833,15.4167
+2,USA,Brookfield                                   ,Brookfield                         ,USA,43.064,-88.1231
+1,USA,Oswego                                       ,Oswego                             ,USA,43.4516,-76.5005
+1,CAN,Orillia                                      ,Orillia                            ,CAN,44.6,-79.4167
+1,USA,Brighton                                     ,Brighton                           ,USA,43.1175,-77.5835
+1,USA,Portage                                      ,Portage                            ,USA,41.5866,-87.1792
+1,USA,Trumbull                                     ,Trumbull                           ,USA,41.2602,-73.2083
+2,USA,Roseville                                    ,Roseville                          ,USA,45.0155,-93.1544
+1,USA,Natick                                       ,Natick                             ,USA,42.2847,-71.3497
+1,CAN,Rimouski                                     ,Rimouski                           ,CAN,48.4337,-68.5167
+1,CAN,Timmins                                      ,Timmins                            ,CAN,48.4666,-81.3333
+1,USA,Oswego                                       ,Oswego                             ,USA,41.6834,-88.3372
+1,USA,Auburn                                       ,Auburn                             ,USA,38.895,-121.0777
+2,CAN,Prince Albert                                ,Prince Albert                      ,CAN,53.2,-105.75
+2,USA,Carmel                                       ,Carmel                             ,USA,41.3898,-73.7239
+2,USA,Middletown                                   ,Middletown                         ,USA,39.4453,-75.7166
+1,USA,Northbrook                                   ,Northbrook                         ,USA,42.1292,-87.8353
+1,USA,Sun Prairie                                  ,Sun Prairie                        ,USA,43.1827,-89.2357
+1,USA,St. Charles                                  ,St. Charles                        ,USA,41.9193,-88.311
+1,USA,Oxford                                       ,Oxford                             ,USA,34.3609,-89.5286
+1,SWE,Kristianstad                                 ,Kristianstad                       ,SWE,56.0337,14.1333
+2,USA,Rome                                         ,Rome                               ,USA,43.226,-75.491
+1,USA,Columbus                                     ,Columbus                           ,USA,33.5088,-88.4097
+1,USA,Willingboro                                  ,Willingboro                        ,USA,40.028,-74.8882
+1,USA,Wheat Ridge                                  ,Wheat Ridge                        ,USA,39.7727,-105.1028
+2,USA,Des Moines                                   ,Des Moines                         ,USA,47.3914,-122.3154
+1,USA,Auburn                                       ,Auburn                             ,USA,42.9338,-76.5685
+11,USA,Rochester                                    ,Rochester                          ,USA,43.299,-70.9787
+1,USA,Gurnee                                       ,Gurnee                             ,USA,42.3708,-87.9392
+1,USA,Garden City                                  ,Garden City                        ,USA,37.9754,-100.8528
+1,USA,North Andover                                ,North Andover                      ,USA,42.6713,-71.0865
+1,USA,Livingston                                   ,Livingston                         ,USA,40.7855,-74.3291
+5,USA,Syracuse                                     ,Syracuse                           ,USA,41.0864,-112.0697
+5,USA,Duluth                                       ,Duluth                             ,USA,34.0053,-84.1491
+1,USA,Johnston                                     ,Johnston                           ,USA,41.8274,-71.5201
+1,USA,Geneva                                       ,Geneva                             ,USA,42.8644,-76.9827
+1,USA,Windsor                                      ,Windsor                            ,USA,41.871,-72.6736
+1,USA,Plattsburgh                                  ,Plattsburgh                        ,USA,44.6951,-73.4563
+2,USA,Salem                                        ,Salem                              ,USA,42.7902,-71.2203
+3,USA,Milford                                      ,Milford                            ,USA,42.1565,-71.5188
+1,USA,Jacksonville                                 ,Jacksonville                       ,USA,34.8807,-92.1302
+1,USA,Wisconsin Rapids                             ,Wisconsin Rapids                   ,USA,44.3928,-89.8265
+1,USA,Saugus                                       ,Saugus                             ,USA,42.4681,-71.0145
+3,USA,Lansing                                      ,Lansing                            ,USA,41.5648,-87.5462
+4,USA,Canton                                       ,Canton                             ,USA,34.2466,-84.4901
+1,USA,Fridley                                      ,Fridley                            ,USA,45.0841,-93.2595
+1,USA,Westport                                     ,Westport                           ,USA,41.1428,-73.3475
+4,SWE,Ornskoldsvik                                 ,Ornskoldsvik                       ,SWE,63.318,18.7167
+1,USA,Windsor                                      ,Windsor                            ,USA,38.5418,-122.8086
+4,FIN,Savonlinna                                   ,Savonlinna                         ,FIN,61.8666,28.8833
+2,USA,West Islip                                   ,West Islip                         ,USA,40.7097,-73.2971
+1,USA,Wakefield                                    ,Wakefield                          ,USA,42.5035,-71.0656
+1,USA,Garden City                                  ,Garden City                        ,USA,42.3244,-83.3412
+1,USA,New Lenox                                    ,New Lenox                          ,USA,41.5097,-87.97
+1,USA,Chaska                                       ,Chaska                             ,USA,44.8164,-93.6092
+2,USA,Washington                                   ,Washington                         ,USA,37.1325,-113.4893
+1,USA,Wethersfield                                 ,Wethersfield                       ,USA,41.7013,-72.6703
+1,USA,Superior                                     ,Superior                           ,USA,46.6941,-92.0823
+1,USA,Marquette                                    ,Marquette                          ,USA,46.544,-87.4082
+2,USA,Winchester                                   ,Winchester                         ,USA,38.0017,-84.1908
+2,USA,White Bear Lake                              ,White Bear Lake                    ,USA,45.0655,-93.015
+1,USA,Troy                                         ,Troy                               ,USA,40.0435,-84.2189
+2,USA,Salem                                        ,Salem                              ,USA,37.2864,-80.0555
+1,USA,South Windsor                                ,South Windsor                      ,USA,41.8353,-72.5733
+1,USA,Reading                                      ,Reading                            ,USA,42.5351,-71.1056
+1,USA,Ridgewood                                    ,Ridgewood                          ,USA,40.9821,-74.1128
+1,USA,Marshfield                                   ,Marshfield                         ,USA,42.114,-70.715
+8,USA,Madison                                      ,Madison                            ,USA,32.4738,-90.13
+1,USA,Farmington                                   ,Farmington                         ,USA,41.7288,-72.8407
+1,USA,Merrimack                                    ,Merrimack                          ,USA,42.8547,-71.5188
+1,USA,Chanhassen                                   ,Chanhassen                         ,USA,44.8544,-93.5621
+1,USA,Windsor                                      ,Windsor                            ,USA,40.4679,-104.9211
+1,USA,Riverside                                    ,Riverside                          ,USA,39.7836,-84.1219
+1,USA,De Pere                                      ,De Pere                            ,USA,44.4313,-88.0793
+1,USA,Walpole                                      ,Walpole                            ,USA,42.1465,-71.2555
+1,USA,Hudson                                       ,Hudson                             ,USA,42.7639,-71.4072
+1,USA,Westmont                                     ,Westmont                           ,USA,41.7948,-87.9742
+2,USA,Elk River                                    ,Elk River                          ,USA,45.3314,-93.567
+2,USA,Hastings                                     ,Hastings                           ,USA,40.5963,-98.3914
+1,USA,Mequon                                       ,Mequon                             ,USA,43.2352,-87.9838
+1,USA,Hudson                                       ,Hudson                             ,USA,44.9639,-92.7316
+1,USA,Faribault                                    ,Faribault                          ,USA,44.2985,-93.2787
+1,USA,Farmington                                   ,Farmington                         ,USA,40.9846,-111.9064
+1,USA,Wilmington                                   ,Wilmington                         ,USA,42.5609,-71.1654
+1,USA,Columbus                                     ,Columbus                           ,USA,41.4361,-97.3561
+1,USA,Farmington                                   ,Farmington                         ,USA,44.6572,-93.1687
+1,USA,Hingham                                      ,Hingham                            ,USA,42.2176,-70.8854
+1,USA,Auburn                                       ,Auburn                             ,USA,44.085,-70.2492
+2,USA,Hastings                                     ,Hastings                           ,USA,44.7318,-92.8538
+1,USA,Oxford                                       ,Oxford                             ,USA,39.5061,-84.7434
+4,USA,Canton                                       ,Canton                             ,USA,42.175,-71.1264
+1,USA,Garden City                                  ,Garden City                        ,USA,40.7266,-73.6447
+2,USA,Winchester                                   ,Winchester                         ,USA,42.4518,-71.1463
+1,USA,Auburn                                       ,Auburn                             ,USA,41.3666,-85.0559
+7,USA,Bloomington                                  ,Bloomington                        ,USA,34.0601,-117.4013
+1,USA,Hudson                                       ,Hudson                             ,USA,41.2399,-81.4408
+1,USA,Darien                                       ,Darien                             ,USA,41.7447,-87.9823
+1,USA,Geneva                                       ,Geneva                             ,USA,41.8833,-88.3242
+1,USA,Darien                                       ,Darien                             ,USA,41.0786,-73.4819
+1,USA,Johnston                                     ,Johnston                           ,USA,41.6857,-93.7174
+1,USA,Golden Valley                                ,Golden Valley                      ,USA,44.9901,-93.3591
+1,USA,Jacksonville                                 ,Jacksonville                       ,USA,39.7292,-90.2316
+1,USA,Biddeford                                    ,Biddeford                          ,USA,43.4673,-70.4511
+1,USA,Oxford                                       ,Oxford                             ,USA,33.5966,-85.869
+3,USA,Milford                                      ,Milford                            ,USA,38.9091,-75.4224
+1,USA,Bonney Lake                                  ,Bonney Lake                        ,USA,47.1789,-122.1698
+1,CAN,Val-d'Or                                     ,Val-d'Or                           ,CAN,48.1166,-77.7666
+1,USA,Berlin                                       ,Berlin                             ,USA,41.6114,-72.7758
+2,USA,Dublin                                       ,Dublin                             ,USA,32.5359,-82.9279
+1,USA,Marblehead                                   ,Marblehead                         ,USA,42.4991,-70.8638
+1,USA,New Canaan                                   ,New Canaan                         ,USA,41.1592,-73.4992
+2,CAN,New Glasgow                                  ,New Glasgow                        ,CAN,45.5833,-62.6333
+1,USA,South St. Paul                               ,South St. Paul                     ,USA,44.8877,-93.0411
+1,USA,Hudson                                       ,Hudson                             ,USA,42.3887,-71.5465
+1,USA,Forest Park                                  ,Forest Park                        ,USA,33.6209,-84.359
+2,USA,Syosset                                      ,Syosset                            ,USA,40.8156,-73.502
+1,CAN,Terrace                                      ,Terrace                            ,CAN,54.5,-128.5833
+3,USA,Concord                                      ,Concord                            ,USA,42.462,-71.3639
+2,USA,Arlington                                    ,Arlington                          ,USA,48.1697,-122.1446
+1,USA,Waterford                                    ,Waterford                          ,USA,41.3692,-72.1483
+2,USA,Orange                                       ,Orange                             ,USA,30.121,-93.7616
+1,USA,Cherry Hill                                  ,Cherry Hill                        ,USA,38.5696,-77.2895
+1,USA,Marshfield                                   ,Marshfield                         ,USA,44.6627,-90.1728
+1,USA,Forest Park                                  ,Forest Park                        ,USA,39.286,-84.5259
+1,USA,Hopkins                                      ,Hopkins                            ,USA,44.9261,-93.4056
+3,CAN,Cranbrook                                    ,Cranbrook                          ,CAN,49.5167,-115.7667
+1,USA,Westminster                                  ,Westminster                        ,USA,39.5797,-77.0064
+4,USA,Trenton                                      ,Trenton                            ,USA,42.1395,-83.193
+8,USA,Madison                                      ,Madison                            ,USA,41.3398,-72.6278
+1,USA,Pembroke                                     ,Pembroke                           ,USA,42.0655,-70.8014
+8,USA,Madison                                      ,Madison                            ,USA,38.758,-85.3971
+1,CAN,Edmundston                                   ,Edmundston                         ,CAN,47.3794,-68.3333
+2,USA,Salem                                        ,Salem                              ,USA,40.9049,-80.8491
+3,USA,Concord                                      ,Concord                            ,USA,38.5117,-90.3574
+1,USA,Alton                                        ,Alton                              ,USA,26.2884,-98.3098
+1,USA,Shorewood                                    ,Shorewood                          ,USA,41.5175,-88.2149
+2,USA,Brookfield                                   ,Brookfield                         ,USA,41.4674,-73.3923
+2,USA,Washington                                   ,Washington                         ,USA,40.7048,-89.4345
+1,USA,Troy                                         ,Troy                               ,USA,31.8021,-85.9665
+9,USA,Buffalo                                      ,Buffalo                            ,USA,45.1794,-93.8644
+1,USA,Eden                                         ,Eden                               ,USA,36.5029,-79.7421
+1,USA,Auburn                                       ,Auburn                             ,USA,42.1972,-71.8453
+1,USA,Ham Lake                                     ,Ham Lake                           ,USA,45.2545,-93.2039
+1,USA,East Greenbush                               ,East Greenbush                     ,USA,42.6122,-73.6969
+2,USA,Abington                                     ,Abington                           ,USA,42.118,-70.959
+1,USA,East Longmeadow                              ,East Longmeadow                    ,USA,42.0597,-72.499
+2,USA,Washington                                   ,Washington                         ,USA,35.5587,-77.0546
+2,USA,Middletown                                   ,Middletown                         ,USA,41.5174,-71.2772
+8,USA,Madison                                      ,Madison                            ,USA,40.7586,-74.417
+2,USA,Warren                                       ,Warren                             ,USA,40.6323,-74.5146
+1,USA,Houghton                                     ,Houghton                           ,USA,47.1119,-88.5672
+1,USA,Westport                                     ,Westport                           ,USA,41.5886,-71.0837
+2,CAN,Camrose                                      ,Camrose                            ,CAN,53.0167,-112.8166
+1,USA,Parma                                        ,Parma                              ,USA,43.2651,-77.7968
+5,USA,Long Beach                                   ,Long Beach                         ,USA,30.3608,-89.165
+2,USA,Grosse Pointe Woods                          ,Grosse Pointe Woods                ,USA,42.4366,-82.8987
+1,USA,New Haven                                    ,New Haven                          ,USA,41.0673,-85.0233
+2,USA,Washington                                   ,Washington                         ,USA,40.7587,-74.9825
+2,USA,Cambridge                                    ,Cambridge                          ,USA,45.5612,-93.2283
+1,CHE,Herisau                                      ,Herisau                            ,CHE,47.3833,9.2833
+1,USA,Fullerton                                    ,Fullerton                          ,USA,40.6308,-75.4834
+3,USA,Milford                                      ,Milford                            ,USA,42.8178,-71.6736
+1,USA,Farmingville                                 ,Farmingville                       ,USA,40.8389,-73.0401
+1,USA,Troy                                         ,Troy                               ,USA,38.9708,-90.9714
+4,USA,Hartford                                     ,Hartford                           ,USA,43.322,-88.3782
+4,USA,Cleveland                                    ,Cleveland                          ,USA,33.744,-90.7285
+2,USA,Cambridge                                    ,Cambridge                          ,USA,40.0221,-81.5868
+4,USA,Canton                                       ,Canton                             ,USA,32.5976,-90.0315
+1,USA,Fraser                                       ,Fraser                             ,USA,42.5388,-82.9496
+2,USA,Warren                                       ,Warren                             ,USA,41.8433,-79.1445
+1,USA,Holliston                                    ,Holliston                          ,USA,42.1977,-71.445
+1,USA,Oak Park                                     ,Oak Park                           ,USA,34.1849,-118.7669
+1,USA,Jacksonville                                 ,Jacksonville                       ,USA,31.9642,-95.2617
+2,USA,Cambridge                                    ,Cambridge                          ,USA,38.5515,-76.0787
+2,USA,Washington                                   ,Washington                         ,USA,38.5514,-91.0151
+1,USA,Livingston                                   ,Livingston                         ,USA,37.3875,-120.7248
+1,USA,Effingham                                    ,Effingham                          ,USA,39.1207,-88.5509
+2,USA,Orange                                       ,Orange                             ,USA,41.2827,-73.0272
+4,USA,Canton                                       ,Canton                             ,USA,40.5632,-90.0409
+1,USA,Lewisville                                   ,Lewisville                         ,USA,36.103,-80.4164
+1,USA,Oxford                                       ,Oxford                             ,USA,42.1286,-71.8665
+1,CAN,Quesnel                                      ,Quesnel                            ,CAN,52.9837,-122.4833
+1,CAN,Thompson                                     ,Thompson                           ,CAN,55.7499,-97.8666
+2,USA,Washington                                   ,Washington                         ,USA,40.1739,-80.2465
+1,USA,Lapeer                                       ,Lapeer                             ,USA,43.0448,-83.3255
+2,USA,Washington                                   ,Washington                         ,USA,38.6592,-87.1721
+11,USA,Rochester                                    ,Rochester                          ,USA,42.6866,-83.1197
+1,USA,Oxford                                       ,Oxford                             ,USA,41.4313,-73.135
+1,USA,Superior                                     ,Superior                           ,USA,39.9341,-105.1588
+1,USA,Commerce                                     ,Commerce                           ,USA,33.9963,-118.1519
+4,USA,Trenton                                      ,Trenton                            ,USA,39.4791,-84.462
+1,USA,Farmington                                   ,Farmington                         ,USA,42.9894,-77.3087
+1,USA,York                                         ,York                               ,USA,43.186,-70.6661
+1,USA,Plover                                       ,Plover                             ,USA,44.4614,-89.5382
+1,USA,Dover                                        ,Dover                              ,USA,40.5302,-81.4805
+1,USA,Cloquet                                      ,Cloquet                            ,USA,46.7221,-92.4923
+1,USA,Lynnfield                                    ,Lynnfield                          ,USA,42.5356,-71.0382
+1,USA,Charlotte                                    ,Charlotte                          ,USA,42.5662,-84.8304
+1,USA,Jacksonville                                 ,Jacksonville                       ,USA,33.8088,-85.7544
+2,USA,Virginia                                     ,Virginia                           ,USA,47.5169,-92.5128
+1,USA,Winnetka                                     ,Winnetka                           ,USA,42.1064,-87.7421
+1,USA,Hudson                                       ,Hudson                             ,USA,28.3594,-82.6888
+1,USA,Plymouth                                     ,Plymouth                           ,USA,41.3482,-86.3187
+1,USA,Ellwood City                                 ,Ellwood City                       ,USA,40.8619,-80.283
+1,USA,Wilmington                                   ,Wilmington                         ,USA,39.4387,-83.8184
+1,USA,Fulton                                       ,Fulton                             ,USA,38.8551,-91.951
+1,USA,Pontiac                                      ,Pontiac                            ,USA,40.8881,-88.6414
+1,USA,Amherst                                      ,Amherst                            ,USA,41.4022,-82.2303
+1,USA,Belmont                                      ,Belmont                            ,USA,35.2214,-81.0403
+3,USA,Lansing                                      ,Lansing                            ,USA,39.2427,-94.8951
+1,USA,Garden City                                  ,Garden City                        ,USA,43.6526,-116.2743
+1,USA,Plymouth                                     ,Plymouth                           ,USA,41.6642,-73.0263
+1,USA,Vail                                         ,Vail                               ,USA,32.0217,-110.6937
+2,USA,Arlington                                    ,Arlington                          ,USA,35.2594,-89.668
+2,USA,Winchester                                   ,Winchester                         ,USA,35.1898,-86.1075
+2,USA,Plano                                        ,Plano                              ,USA,41.6757,-88.5294
+1,USA,Tarrytown                                    ,Tarrytown                          ,USA,41.0647,-73.8673
+3,USA,Evanston                                     ,Evanston                           ,USA,41.2602,-110.9646
+1,USA,Bellmawr                                     ,Bellmawr                           ,USA,39.8665,-75.0941
+1,USA,Berlin                                       ,Berlin                             ,USA,44.4869,-71.2599
+1,USA,Fulton                                       ,Fulton                             ,USA,43.3171,-76.4162
+4,USA,Lakeville                                    ,Lakeville                          ,USA,41.831,-70.9594
+1,USA,Amherst                                      ,Amherst                            ,USA,42.8705,-71.6068
+1,USA,Jefferson Hills                              ,Jefferson Hills                    ,USA,40.2927,-79.9329
+1,USA,Woodbury                                     ,Woodbury                           ,USA,41.3284,-74.1004
+2,USA,Winchester                                   ,Winchester                         ,USA,41.9219,-73.1028
+1,CAN,Kenora                                       ,Kenora                             ,CAN,49.7667,-94.4666
+1,USA,Brooklyn                                     ,Brooklyn                           ,USA,41.4349,-81.7498
+1,USA,Waterford                                    ,Waterford                          ,USA,39.7415,-74.8207
+1,USA,Hudson                                       ,Hudson                             ,USA,42.2515,-73.7859
+1,USA,Massena                                      ,Massena                            ,USA,44.9292,-74.8923
+1,USA,Farmington                                   ,Farmington                         ,USA,42.4614,-83.3784
+4,USA,Cleveland                                    ,Cleveland                          ,USA,30.3369,-95.0924
+1,USA,Portage                                      ,Portage                            ,USA,43.5489,-89.4658
+1,CAN,Amos                                         ,Amos                               ,CAN,48.5666,-78.1167
+2,USA,Warren                                       ,Warren                             ,USA,41.7282,-71.2629
+1,CAN,Baie-Comeau                                  ,Baie-Comeau                        ,CAN,49.2227,-68.158
+4,USA,Canton                                       ,Canton                             ,USA,41.86,-72.9083
+1,USA,Southampton                                  ,Southampton                        ,USA,39.9137,-74.7171
+1,CAN,Hinton                                       ,Hinton                             ,CAN,53.4,-117.5834
+1,USA,Reading                                      ,Reading                            ,USA,39.2241,-84.4332
+1,USA,Troy                                         ,Troy                               ,USA,38.7268,-89.8974
+1,CAN,Selkirk                                      ,Selkirk                            ,CAN,50.15,-96.8833
+1,USA,Woodbury                                     ,Woodbury                           ,USA,39.8379,-75.1524
+1,CAN,Steinbach                                    ,Steinbach                          ,CAN,49.5171,-96.6833
+1,USA,Garden City                                  ,Garden City                        ,USA,33.5927,-79.007
+1,USA,Waterford                                    ,Waterford                          ,USA,37.6429,-120.7553
+1,USA,Potsdam                                      ,Potsdam                            ,USA,44.6699,-74.9831
+1,USA,Oxford                                       ,Oxford                             ,USA,36.3156,-78.5848
+1,USA,Little Falls                                 ,Little Falls                       ,USA,45.9835,-94.3599
+2,USA,Middletown                                   ,Middletown                         ,USA,40.201,-76.7289
+1,USA,Plymouth                                     ,Plymouth                           ,USA,42.3719,-83.468
+2,CAN,Dauphin                                      ,Dauphin                            ,CAN,51.15,-100.05
+1,USA,Aliquippa                                    ,Aliquippa                          ,USA,40.6155,-80.2547
+1,USA,Garden City                                  ,Garden City                        ,USA,32.0867,-81.1773
+2,USA,Park Ridge                                   ,Park Ridge                         ,USA,41.0352,-74.0423
+1,USA,Plymouth                                     ,Plymouth                           ,USA,43.7451,-87.9656
+1,USA,Quincy                                       ,Quincy                             ,USA,30.5659,-84.5857
+1,USA,Riverside                                    ,Riverside                          ,USA,41.831,-87.8169
+2,USA,Rhinelander                                  ,Rhinelander                        ,USA,45.636,-89.4256
+1,USA,Commerce                                     ,Commerce                           ,USA,33.2421,-95.8991
+1,USA,Livingston                                   ,Livingston                         ,USA,45.6665,-110.5538
+1,USA,Riverside                                    ,Riverside                          ,USA,41.0319,-73.5827
+1,USA,Millersville                                 ,Millersville                       ,USA,40.0047,-76.3522
+1,USA,York                                         ,York                               ,USA,34.9967,-81.234
+2,USA,Salem                                        ,Salem                              ,USA,40.054,-111.6721
+1,USA,Bayport                                      ,Bayport                            ,USA,40.746,-73.0546
+1,USA,Brentwood                                    ,Brentwood                          ,USA,38.6194,-90.3476
+1,USA,Shorewood                                    ,Shorewood                          ,USA,44.9131,-93.5796
+2,USA,Salem                                        ,Salem                              ,USA,38.6278,-88.9579
+2,USA,Middletown                                   ,Middletown                         ,USA,38.241,-85.5215
+1,USA,Crookston                                    ,Crookston                          ,USA,47.7747,-96.6062
+1,CAN,Dryden                                       ,Dryden                             ,CAN,49.7833,-92.8333
+1,USA,Grand Ledge                                  ,Grand Ledge                        ,USA,42.7534,-84.7448
+1,USA,Quincy                                       ,Quincy                             ,USA,47.2347,-119.8522
+1,USA,York                                         ,York                               ,USA,40.8698,-97.5943
+1,USA,Antigo                                       ,Antigo                             ,USA,45.1415,-89.1556
+2,USA,Hastings                                     ,Hastings                           ,USA,42.6498,-85.2886
+1,CAN,Revelstoke                                   ,Revelstoke                         ,CAN,51.0005,-118.1833
+1,USA,Auburn                                       ,Auburn                             ,USA,34.0157,-83.8319
+1,USA,Brighton                                     ,Brighton                           ,USA,42.5298,-83.7847
+1,USA,Berlin                                       ,Berlin                             ,USA,39.7915,-74.9375
+2,USA,Philadelphia                                 ,Philadelphia                       ,USA,32.7761,-89.1221
+1,USA,Pembroke                                     ,Pembroke                           ,USA,34.6766,-79.1934
+1,CAN,Banff                                        ,Banff                              ,CAN,51.178,-115.5719
+1,CAN,Yarmouth                                     ,Yarmouth                           ,CAN,43.8308,-66.1126
+1,USA,Charlestown                                  ,Charlestown                        ,USA,38.427,-85.6677
+1,USA,Marshfield                                   ,Marshfield                         ,USA,37.3414,-92.9116
+1,USA,Geneva                                       ,Geneva                             ,USA,41.8006,-80.9462
+11,USA,St. Louis                                    ,St. Louis                          ,USA,43.4082,-84.6118
+5,USA,Syracuse                                     ,Syracuse                           ,USA,41.4226,-85.7492
+11,USA,Rochester                                    ,Rochester                          ,USA,41.059,-86.196
+8,USA,Madison                                      ,Madison                            ,USA,44.0062,-97.1084
+1,USA,Commerce                                     ,Commerce                           ,USA,34.2127,-83.4729
+1,USA,Farmington                                   ,Farmington                         ,USA,36.037,-94.2537
+3,USA,Milford                                      ,Milford                            ,USA,39.17,-84.281
+1,USA,Rumson                                       ,Rumson                             ,USA,40.3626,-74.0046
+2,USA,Washington                                   ,Washington                         ,USA,41.2982,-91.6928
+1,USA,Portage                                      ,Portage                            ,USA,40.3868,-78.6746
+1,USA,Columbus                                     ,Columbus                           ,USA,43.3354,-89.03
+4,USA,Canton                                       ,Canton                             ,USA,44.6,-75.1703
+1,USA,Belmont                                      ,Belmont                            ,USA,39.065,-77.4965
+3,USA,Milford                                      ,Milford                            ,USA,42.587,-83.6012
+1,CAN,Flin Flon                                    ,Flin Flon                          ,CAN,54.7666,-101.8833
+2,USA,Salem                                        ,Salem                              ,USA,38.6048,-86.0977
+1,USA,Riverside                                    ,Riverside                          ,USA,39.4777,-76.2385
+1,USA,Vail                                         ,Vail                               ,USA,39.6386,-106.3608
+1,USA,St. Clair                                    ,St. Clair                          ,USA,38.3479,-90.9934
+2,USA,Elburn                                       ,Elburn                             ,USA,41.8838,-88.4615
+1,USA,Oxford                                       ,Oxford                             ,USA,39.7859,-75.9801
+2,USA,Greenwich                                    ,Greenwich                          ,USA,40.6791,-75.1121
+1,USA,Honeoye Falls                                ,Honeoye Falls                      ,USA,42.9557,-77.5903
+1,USA,Apple Valley                                 ,Apple Valley                       ,USA,40.4389,-82.3481
+1,USA,Waterford                                    ,Waterford                          ,USA,42.7646,-88.2158
+2,USA,Warren                                       ,Warren                             ,USA,33.6113,-92.0678
+4,USA,Trenton                                      ,Trenton                            ,USA,40.0819,-93.603
+1,USA,Fairport                                     ,Fairport                           ,USA,43.099,-77.4427
+1,USA,West Hills                                   ,West Hills                         ,USA,40.8198,-73.4339
+1,CAN,Peace River                                  ,Peace River                        ,CAN,56.2333,-117.2833
+1,USA,Maplewood                                    ,Maplewood                          ,USA,47.3715,-122.5689
+1,USA,St. Clair                                    ,St. Clair                          ,USA,42.8262,-82.493
+1,USA,Blaine                                       ,Blaine                             ,USA,48.9839,-122.7414
+2,USA,Salem                                        ,Salem                              ,USA,39.5681,-75.4724
+2,USA,Williamsville                                ,Williamsville                      ,USA,42.9623,-78.7418
+1,USA,Bangor                                       ,Bangor                             ,USA,40.8678,-75.2085
+1,USA,North Oaks                                   ,North Oaks                         ,USA,45.1002,-93.0881
+2,USA,Grosse Pointe                                ,Grosse Pointe                      ,USA,42.3915,-82.9118
+2,USA,Orange                                       ,Orange                             ,USA,38.2486,-78.1127
+1,USA,La Crescent                                  ,La Crescent                        ,USA,43.8299,-91.3042
+4,USA,Cleveland                                    ,Cleveland                          ,USA,34.5971,-83.7622
+1,CAN,Cochrane                                     ,Cochrane                           ,CAN,49.067,-81.0166
+2,CAN,Melville                                     ,Melville                           ,CAN,50.9333,-102.8
+1,CAN,Gaspe                                        ,Gaspe                              ,CAN,48.8373,-64.4934
+1,CAN,Lac La Biche                                 ,Lac La Biche                       ,CAN,54.7719,-111.9647
+1,CAN,Athabasca                                    ,Athabasca                          ,CAN,54.717,-113.2666
+1,USA,Woodbury                                     ,Woodbury                           ,USA,41.5615,-73.207
+4,USA,Hartford                                     ,Hartford                           ,USA,43.6644,-72.3866
+5,USA,Grand Rapids                                 ,Grand Rapids                       ,USA,47.238,-93.5327
+1,USA,Hermantown                                   ,Hermantown                         ,USA,46.8058,-92.2407
+2,USA,Hastings                                     ,Hastings                           ,USA,43.3215,-76.1582
+1,USA,Woodbridge                                   ,Woodbridge                         ,USA,41.3566,-73.0102
+1,USA,Marlborough                                  ,Marlborough                        ,USA,41.6338,-73.9903
+1,USA,Golden Valley                                ,Golden Valley                      ,USA,35.206,-114.2327
+3,USA,Concord                                      ,Concord                            ,USA,42.545,-78.7075
+1,USA,Dover                                        ,Dover                              ,USA,41.6839,-73.5739
+1,USA,Brooklyn                                     ,Brooklyn                           ,USA,41.787,-71.9543
+2,USA,Boxford                                      ,Boxford                            ,USA,42.6815,-71.0189
+16,USA,Boston                                       ,Boston                             ,USA,42.6528,-78.7555
+1,USA,Charlestown                                  ,Charlestown                        ,USA,41.3973,-71.6702
+2,USA,Orange                                       ,Orange                             ,USA,42.6066,-72.2931
+1,USA,Eden                                         ,Eden                               ,USA,42.6527,-78.8787
+1,USA,Farmington                                   ,Farmington                         ,USA,44.676,-70.141
+3,USA,Chesterfield                                 ,Chesterfield                       ,USA,40.1165,-74.6459
+1,USA,Westminster                                  ,Westminster                        ,USA,42.5512,-71.9027
+1,USA,Belmont                                      ,Belmont                            ,USA,43.4685,-71.4757
+1,USA,Pembroke                                     ,Pembroke                           ,USA,43.1803,-71.45
+1,USA,Windsor                                      ,Windsor                            ,USA,43.2406,-89.2952
+1,USA,Millersville                                 ,Millersville                       ,USA,36.3968,-86.7111
+1,USA,Farmington                                   ,Farmington                         ,USA,43.3629,-71.076
+1,USA,New Hartford                                 ,New Hartford                       ,USA,41.8442,-73.0055
+1,CAN,Antigonish                                   ,Antigonish                         ,CAN,45.6269,-61.9982
+1,USA,Plymouth                                     ,Plymouth                           ,USA,43.7437,-71.7224
+1,USA,Marlborough                                  ,Marlborough                        ,USA,41.6331,-72.4547
+1,CAN,Smithers                                     ,Smithers                           ,CAN,54.7666,-127.1666
+1,USA,Southampton                                  ,Southampton                        ,USA,42.2308,-72.7386
+1,USA,Winthrop                                     ,Winthrop                           ,USA,44.3116,-69.9615
+1,USA,Dover                                        ,Dover                              ,USA,42.2366,-71.2842
+1,USA,Wilmington                                   ,Wilmington                         ,USA,41.3203,-88.1633
+1,USA,Riga                                         ,Riga                               ,USA,43.0802,-77.8753
+11,USA,Rochester                                    ,Rochester                          ,USA,41.76,-70.8385
+1,USA,Morristown                                   ,Morristown                         ,USA,44.5485,-72.6377
+1,USA,Auburn                                       ,Auburn                             ,USA,42.9906,-71.3438
+1,USA,Alton                                        ,Alton                              ,USA,43.4906,-71.2462
+1,USA,Holland                                      ,Holland                            ,USA,40.5966,-75.1221
+2,USA,Warren                                       ,Warren                             ,USA,42.2002,-72.2006
+1,USA,Bolton                                       ,Bolton                             ,USA,42.4362,-71.6073
+1,CAN,Hearst                                       ,Hearst                             ,CAN,49.7005,-83.6666
+1,USA,Charlestown                                  ,Charlestown                        ,USA,43.2469,-72.3939
+1,USA,Wakefield                                    ,Wakefield                          ,USA,43.5916,-71.0098
+2,CAN,Kindersley                                   ,Kindersley                         ,CAN,51.467,-109.1333
+1,CAN,Saint-Augustin                               ,Saint-Augustin                     ,CAN,51.2423,-58.647
+12,CAN,Windsor                                      ,Windsor                            ,CAN,44.9806,-64.1291
+1,CAN,Churchill                                    ,Churchill                          ,CAN,58.766,-94.166
+1,USA,Sewell                                       ,NULL,NULL,NULL,NULL
+1,SWE,Skovde                                       ,NULL,NULL,NULL,NULL
+1,CAN,Charlesbourg                                 ,NULL,NULL,NULL,NULL
+1,FIN,Tornio                                       ,NULL,NULL,NULL,NULL
+1,CAN,Sainte-Marie                                 ,NULL,NULL,NULL,NULL
+1,CAN,Kamsack                                      ,NULL,NULL,NULL,NULL
+1,CAN,Stewart Valley                               ,NULL,NULL,NULL,NULL
+1,CAN,Orleans                                      ,NULL,NULL,NULL,NULL
+1,USA,STILLWATER                                   ,NULL,NULL,NULL,NULL
+4,CAN,Longueuil                                    ,NULL,NULL,NULL,NULL
+1,CAN,Kleinburg                                    ,NULL,NULL,NULL,NULL
+1,RUS,Ruse                                         ,NULL,NULL,NULL,NULL
+1,CAN,Consort                                      ,NULL,NULL,NULL,NULL
+1,CAN,Sayabec                                      ,NULL,NULL,NULL,NULL
+6,CAN,Richmond                                     ,NULL,NULL,NULL,NULL
+3,CAN,Fort Saskatchewan                            ,NULL,NULL,NULL,NULL
+2,CAN,Hull                                         ,NULL,NULL,NULL,NULL
+1,USA,North Chelmsford                             ,NULL,NULL,NULL,NULL
+1,CAN,Central Butte                                ,NULL,NULL,NULL,NULL
+2,CHE,Zürich                                       ,NULL,NULL,NULL,NULL
+3,FIN,Jyväskylä                                    ,NULL,NULL,NULL,NULL
+1,USA,Villanova                                    ,NULL,NULL,NULL,NULL
+4,CAN,North York                                   ,NULL,NULL,NULL,NULL
+1,CHE,St. Gallen                                   ,NULL,NULL,NULL,NULL
+1,CAN,Millgrove                                    ,NULL,NULL,NULL,NULL
+4,CAN,Vernon                                       ,NULL,NULL,NULL,NULL
+2,CAN,Winchester                                   ,NULL,NULL,NULL,NULL
+1,CHE,Bulach                                       ,NULL,NULL,NULL,NULL
+2,CAN,St. Thomas                                   ,NULL,NULL,NULL,NULL
+1,SWE,Norrtälje                                    ,NULL,NULL,NULL,NULL
+1,CAN,Dorchester                                   ,NULL,NULL,NULL,NULL
+1,SWE,Ange                                         ,NULL,NULL,NULL,NULL
+1,DEU,Immenstadt                                   ,NULL,NULL,NULL,NULL
+2,CAN,Waterloo                                     ,NULL,NULL,NULL,NULL
+2,CAN,Alma                                         ,NULL,NULL,NULL,NULL
+1,CZE,Tabor                                        ,NULL,NULL,NULL,NULL
+1,CAN,Saint-Léonard                                ,NULL,NULL,NULL,NULL
+1,CAN,Truro                                        ,NULL,NULL,NULL,NULL
+1,CAN,Chandler                                     ,NULL,NULL,NULL,NULL
+1,SWE,Bromma                                       ,NULL,NULL,NULL,NULL
+1,USA,Dearborn Hts.                                ,NULL,NULL,NULL,NULL
+1,USA,Agawam                                       ,NULL,NULL,NULL,NULL
+1,CAN,Palmerston                                   ,NULL,NULL,NULL,NULL
+1,CAN,Seria                                        ,NULL,NULL,NULL,NULL
+2,CAN,Nobleton                                     ,NULL,NULL,NULL,NULL
+2,CAN,Lanigan                                      ,NULL,NULL,NULL,NULL
+5,CAN,Quebec City                                  ,NULL,NULL,NULL,NULL
+1,CAN,Aneroid                                      ,NULL,NULL,NULL,NULL
+2,USA,Toronto                                      ,NULL,NULL,NULL,NULL
+1,CAN,Yellow                                       ,NULL,NULL,NULL,NULL
+1,CHE,Brig                                         ,NULL,NULL,NULL,NULL
+1,SVK,Stará Lubovna                                ,NULL,NULL,NULL,NULL
+1,DNK,Gentofte                                     ,NULL,NULL,NULL,NULL
+2,SWE,Vetlanda                                     ,NULL,NULL,NULL,NULL
+1,CAN,Paris                                        ,NULL,NULL,NULL,NULL
+1,CAN,Courtice                                     ,NULL,NULL,NULL,NULL
+1,USA,East Amherst                                 ,NULL,NULL,NULL,NULL
+1,DEU,Dingolfing                                   ,NULL,NULL,NULL,NULL
+2,CAN,Ile Bizard                                   ,NULL,NULL,NULL,NULL
+3,BLR,Novopolotsk                                  ,NULL,NULL,NULL,NULL
+2,SWE,Pitea                                        ,NULL,NULL,NULL,NULL
+2,SWE,Landskrona                                   ,NULL,NULL,NULL,NULL
+1,CAN,Murray Hbr.                                  ,NULL,NULL,NULL,NULL
+1,SWE,Lugnvik                                      ,NULL,NULL,NULL,NULL
+1,CAN,Rouleau                                      ,NULL,NULL,NULL,NULL
+1,CAN,Rocky Mountain House                         ,NULL,NULL,NULL,NULL
+1,CZE,Havlickuv Brod                               ,NULL,NULL,NULL,NULL
+1,CAN,Wawota                                       ,NULL,NULL,NULL,NULL
+1,DEU,Deggendorf                                   ,NULL,NULL,NULL,NULL
+1,CAN,Huntington                                   ,NULL,NULL,NULL,NULL
+1,CAN,Humboldt                                     ,NULL,NULL,NULL,NULL
+1,CAN,Pictou                                       ,NULL,NULL,NULL,NULL
+5,CAN,Burlington                                   ,NULL,NULL,NULL,NULL
+1,CAN,Niagara on the Lake                          ,NULL,NULL,NULL,NULL
+1,SWE,Ljunby                                       ,NULL,NULL,NULL,NULL
+1,SWE,Olofstrom                                    ,NULL,NULL,NULL,NULL
+4,CAN,New Westminster                              ,NULL,NULL,NULL,NULL
+4,CAN,Summerside                                   ,NULL,NULL,NULL,NULL
+1,CAN,Petrolia                                     ,NULL,NULL,NULL,NULL
+1,DNK,Rodovre                                      ,NULL,NULL,NULL,NULL
+1,RUS,Ryazan                                       ,NULL,NULL,NULL,NULL
+1,CAN,Carbonear                                    ,NULL,NULL,NULL,NULL
+1,FIN,Piikkio                                      ,NULL,NULL,NULL,NULL
+1,CAN,Oakbank                                      ,NULL,NULL,NULL,NULL
+2,CAN,Swan River                                   ,NULL,NULL,NULL,NULL
+1,CZE,Hodonin                                      ,NULL,NULL,NULL,NULL
+1,NA ,Coral Springs                                ,NULL,NULL,NULL,NULL
+1,RUS,Elektrostal                                  ,NULL,NULL,NULL,NULL
+1,FIN,Asikkala                                     ,NULL,NULL,NULL,NULL
+1,CAN,Pitt Meadows                                 ,NULL,NULL,NULL,NULL
+1,CAN,Ardrossan                                    ,NULL,NULL,NULL,NULL
+1,SWE,Härnösand                                    ,NULL,NULL,NULL,NULL
+1,CAN,Kanata                                       ,NULL,NULL,NULL,NULL
+5,DNK,Herning                                      ,NULL,NULL,NULL,NULL
+2,CAN,Maple                                        ,NULL,NULL,NULL,NULL
+1,CAN,St. Hyacinthe                                ,NULL,NULL,NULL,NULL
+2,CAN,Olds                                         ,NULL,NULL,NULL,NULL
+1,CAN,Wilcox                                       ,NULL,NULL,NULL,NULL
+4,CAN,Surrey                                       ,NULL,NULL,NULL,NULL
+1,CAN,Judique                                      ,NULL,NULL,NULL,NULL
+2,SWE,Eksjo                                        ,NULL,NULL,NULL,NULL
+1,CAN,Ajax                                         ,NULL,NULL,NULL,NULL
+4,CAN,Whitby                                       ,NULL,NULL,NULL,NULL
+7,FIN,Vantaa                                       ,NULL,NULL,NULL,NULL
+1,CAN,Strasbourg                                   ,NULL,NULL,NULL,NULL
+24,CAN,Mississauga                                  ,NULL,NULL,NULL,NULL
+1,CHE,Olten                                        ,NULL,NULL,NULL,NULL
+1,SVK,Martin                                       ,NULL,NULL,NULL,NULL
+1,CAN,Torrance                                     ,NULL,NULL,NULL,NULL
+1,FIN,Kalvola                                      ,NULL,NULL,NULL,NULL
+1,CAN,St. Andrews                                  ,NULL,NULL,NULL,NULL
+1,CAN,Houston                                      ,NULL,NULL,NULL,NULL
+1,CAN,Recife                                       ,NULL,NULL,NULL,NULL
+1,CAN,Wasaga Beach                                 ,NULL,NULL,NULL,NULL
+1,SWE,Jonstorp                                     ,NULL,NULL,NULL,NULL
+1,NOR,Bærum                                        ,NULL,NULL,NULL,NULL
+1,CAN,Gloucester                                   ,NULL,NULL,NULL,NULL
+1,CAN,Barrhead                                     ,NULL,NULL,NULL,NULL
+1,FIN,Nousiainen                                   ,NULL,NULL,NULL,NULL
+1,CHE,Morges                                       ,NULL,NULL,NULL,NULL
+1,USA,Sturgeon Lake                                ,NULL,NULL,NULL,NULL
+2,CAN,Aurora                                       ,NULL,NULL,NULL,NULL
+8,CAN,Burnaby                                      ,NULL,NULL,NULL,NULL
+1,CAN,St. Georges                                  ,NULL,NULL,NULL,NULL
+1,CAN,Montmagny                                    ,NULL,NULL,NULL,NULL
+8,SWE,Gävle                                        ,NULL,NULL,NULL,NULL
+1,NGA,Okene                                        ,NULL,NULL,NULL,NULL
+1,DNK,Brondby                                      ,NULL,NULL,NULL,NULL
+3,CAN,Sherwood Park                                ,NULL,NULL,NULL,NULL
+1,CAN,Wakaw                                        ,NULL,NULL,NULL,NULL
+2,CAN,Bowmanville                                  ,NULL,NULL,NULL,NULL
+1,CZE,Pilsen                                       ,NULL,NULL,NULL,NULL
+1,CAN,Flesherton                                   ,NULL,NULL,NULL,NULL
+1,CAN,Portage La Prairie                           ,NULL,NULL,NULL,NULL
+1,RUS,Riga                                         ,NULL,NULL,NULL,NULL
+1,SWE,Landsbro                                     ,NULL,NULL,NULL,NULL
+1,CAN,Snowflake                                    ,NULL,NULL,NULL,NULL
+1,CAN,Neepawa                                      ,NULL,NULL,NULL,NULL
+2,CAN,West Vancouver                               ,NULL,NULL,NULL,NULL
+1,CAN,Val-Senneville                               ,NULL,NULL,NULL,NULL
+1,CAN,Clinton                                      ,NULL,NULL,NULL,NULL
+1,FRA,Roubaix                                      ,NULL,NULL,NULL,NULL
+1,USA,Kennebunkport                                ,NULL,NULL,NULL,NULL
+1,USA,South St.Paul                                ,NULL,NULL,NULL,NULL
+1,SWE,Mariefred                                    ,NULL,NULL,NULL,NULL
+1,CAN,Glace Bay                                    ,NULL,NULL,NULL,NULL
+1,SWE,Njurunda                                     ,NULL,NULL,NULL,NULL
+1,SWE,Are                                          ,NULL,NULL,NULL,NULL
+1,CZE,Frydlant                                     ,NULL,NULL,NULL,NULL
+1,USA,Thunder Bay                                  ,NULL,NULL,NULL,NULL
+1,CZE,Omsk                                         ,NULL,NULL,NULL,NULL
+3,UKR,Kiev                                         ,NULL,NULL,NULL,NULL
+1,RUS,Tyumen                                       ,NULL,NULL,NULL,NULL
+3,CZE,Mlada Boleslav                               ,NULL,NULL,NULL,NULL
+5,SWE,Sodertalje                                   ,NULL,NULL,NULL,NULL
+1,USA,Warroad                                      ,NULL,NULL,NULL,NULL
+2,RUS,Sverdlovsk                                   ,NULL,NULL,NULL,NULL
+1,CZE,Chomutov                                     ,NULL,NULL,NULL,NULL
+1,FIN,Vihti                                        ,NULL,NULL,NULL,NULL
+1,CAN,Laurier-Station                              ,NULL,NULL,NULL,NULL
+2,SVK,Ilava                                        ,NULL,NULL,NULL,NULL
+1,FIN,Forssa                                       ,NULL,NULL,NULL,NULL
+2,SWE,Övertorneå                                   ,NULL,NULL,NULL,NULL
+2,CAN,Caledonia                                    ,NULL,NULL,NULL,NULL
+1,CZE,Hradec Králové                               ,NULL,NULL,NULL,NULL
+1,SWE,Kvissleby                                    ,NULL,NULL,NULL,NULL
+1,FIN,Tuusula                                      ,NULL,NULL,NULL,NULL
+2,RUS,Nizhny Tagil                                 ,NULL,NULL,NULL,NULL
+1,SWE,Gallivare                                    ,NULL,NULL,NULL,NULL
+1,BHS,Freeport                                     ,NULL,NULL,NULL,NULL
+1,CAN,Elliot Lake                                  ,NULL,NULL,NULL,NULL
+1,USA,Kirtland Hills                               ,NULL,NULL,NULL,NULL
+1,USA,E. Weymouth                                  ,NULL,NULL,NULL,NULL
+2,DEU,Landshut                                     ,NULL,NULL,NULL,NULL
+1,CAN,Morinville                                   ,NULL,NULL,NULL,NULL
+1,USA,"Glens Falls,                                 ",NULL,NULL,NULL,NULL
+3,CAN,Repentigny                                   ,NULL,NULL,NULL,NULL
+1,USA,Excelsior                                    ,NULL,NULL,NULL,NULL
+1,CAN,Lafontaine                                   ,NULL,NULL,NULL,NULL
+1,CAN,Nipawin                                      ,NULL,NULL,NULL,NULL
+1,CAN,Grimsby                                      ,NULL,NULL,NULL,NULL
+2,CAN,Gatineau                                     ,NULL,NULL,NULL,NULL
+1,CZE,Ústí nad Labem                               ,NULL,NULL,NULL,NULL
+1,SWE,Ostervala                                    ,NULL,NULL,NULL,NULL
+1,CAN,Amherstburg                                  ,NULL,NULL,NULL,NULL
+1,CAN,Innisfil                                     ,NULL,NULL,NULL,NULL
+1,CAN,Levis                                        ,NULL,NULL,NULL,NULL
+4,CAN,Strathroy                                    ,NULL,NULL,NULL,NULL
+1,CZE,Sternberk                                    ,NULL,NULL,NULL,NULL
+1,CAN,Ste. Foy                                     ,NULL,NULL,NULL,NULL
+2,USA,Bloomfield Hills                             ,NULL,NULL,NULL,NULL
+1,SVK,Bojnice                                      ,NULL,NULL,NULL,NULL
+2,SWE,Huddinge                                     ,NULL,NULL,NULL,NULL
+1,SWE,Marsta                                       ,NULL,NULL,NULL,NULL
+2,CZE,Pisek                                        ,NULL,NULL,NULL,NULL
+1,CAN,Watson                                       ,NULL,NULL,NULL,NULL
+1,DEU,Fussen                                       ,NULL,NULL,NULL,NULL
+1,CAN,Port Elgin                                   ,NULL,NULL,NULL,NULL
+1,CAN,Ste-Justine                                  ,NULL,NULL,NULL,NULL
+1,CAN,Ste-Agathe                                   ,NULL,NULL,NULL,NULL
+2,CAN,Elk Point                                    ,NULL,NULL,NULL,NULL
+8,CAN,Sault Ste. Marie                             ,NULL,NULL,NULL,NULL
+1,CAN,Haliburton                                   ,NULL,NULL,NULL,NULL
+1,SWE,Port Chester                                 ,NULL,NULL,NULL,NULL
+1,CAN,Kitimat                                      ,NULL,NULL,NULL,NULL
+3,SWE,Leksand                                      ,NULL,NULL,NULL,NULL
+1,CAN,Montrose                                     ,NULL,NULL,NULL,NULL
+2,USA,Roseau                                       ,NULL,NULL,NULL,NULL
+1,CAN,Perth                                        ,NULL,NULL,NULL,NULL
+1,SVK,Povazská Bystrica                            ,NULL,NULL,NULL,NULL
+1,CHE,Baar                                         ,NULL,NULL,NULL,NULL
+4,CAN,Greenfield Park                              ,NULL,NULL,NULL,NULL
+1,CAN,Golden                                       ,NULL,NULL,NULL,NULL
+2,CAN,St-Hyacinthe                                 ,NULL,NULL,NULL,NULL
+1,CAN,Provost                                      ,NULL,NULL,NULL,NULL
+1,CAN,Petawawa                                     ,NULL,NULL,NULL,NULL
+1,USA,Yardley                                      ,NULL,NULL,NULL,NULL
+1,CAN,Unity                                        ,NULL,NULL,NULL,NULL
+1,CZE,Bilovec                                      ,NULL,NULL,NULL,NULL
+1,USA,Hancock                                      ,NULL,NULL,NULL,NULL
+1,CAN,Daysland                                     ,NULL,NULL,NULL,NULL
+12,CAN,Laval                                        ,NULL,NULL,NULL,NULL
+1,CZE,Koprivnice                                   ,NULL,NULL,NULL,NULL
+1,FIN,Alvkarleby                                   ,NULL,NULL,NULL,NULL
+1,CAN,Georgetown                                   ,NULL,NULL,NULL,NULL
+5,CAN,Newmarket                                    ,NULL,NULL,NULL,NULL
+12,CAN,Richmond Hill                                ,NULL,NULL,NULL,NULL
+6,CAN,St. Albert                                   ,NULL,NULL,NULL,NULL
+1,FIN,Jamsa                                        ,NULL,NULL,NULL,NULL
+1,SWE,Ljungby                                      ,NULL,NULL,NULL,NULL
+1,CAN,Freiburg                                     ,NULL,NULL,NULL,NULL
+1,RUS,Komsomolsk                                   ,NULL,NULL,NULL,NULL
+1,CAN,Les Saules                                   ,NULL,NULL,NULL,NULL
+1,CAN,Zabrze                                       ,NULL,NULL,NULL,NULL
+13,CAN,Oakville                                     ,NULL,NULL,NULL,NULL
+1,CZE,Prerov                                       ,NULL,NULL,NULL,NULL
+1,CAN,Long Sault                                   ,NULL,NULL,NULL,NULL
+1,CAN,Wallaceburg                                  ,NULL,NULL,NULL,NULL
+1,FIN,Toijala                                      ,NULL,NULL,NULL,NULL
+2,CZE,Novy Jicin                                   ,NULL,NULL,NULL,NULL
+8,SWE,Skellefteå                                   ,NULL,NULL,NULL,NULL
+1,CAN,Labrador City                                ,NULL,NULL,NULL,NULL
+1,CAN,St-Jean-Richelieu                            ,NULL,NULL,NULL,NULL
+1,CAN,Mt. Brydges                                  ,NULL,NULL,NULL,NULL
+1,CAN,Aldergrove                                   ,NULL,NULL,NULL,NULL
+1,CAN,Coleman                                      ,NULL,NULL,NULL,NULL
+2,CAN,Carp                                         ,NULL,NULL,NULL,NULL
+1,RUS,Zhukovskiy                                   ,NULL,NULL,NULL,NULL
+1,CAN,Boucherville                                 ,NULL,NULL,NULL,NULL
+1,CAN,Estevan                                      ,NULL,NULL,NULL,NULL
+1,CAN,Lantzville                                   ,NULL,NULL,NULL,NULL
+1,CAN,Drumheller                                   ,NULL,NULL,NULL,NULL
+1,RUS,St. Petersburg                               ,NULL,NULL,NULL,NULL
+1,CZE,Ostvava                                      ,NULL,NULL,NULL,NULL
+1,FIN,Imatra                                       ,NULL,NULL,NULL,NULL
+1,CZE,Rakovnik                                     ,NULL,NULL,NULL,NULL
+1,CZE,Frydek-Mistek                                ,NULL,NULL,NULL,NULL
+1,CAN,Quispamsis                                   ,NULL,NULL,NULL,NULL
+12,SWE,Gothenburg                                   ,NULL,NULL,NULL,NULL
+1,CAN,Woodstock                                    ,NULL,NULL,NULL,NULL
+1,CAN,NA                                           ,NULL,NULL,NULL,NULL
+1,CAN,Roberval                                     ,NULL,NULL,NULL,NULL
+1,CHE,Winterthur                                   ,NULL,NULL,NULL,NULL
+4,CAN,Trail                                        ,NULL,NULL,NULL,NULL
+3,SWE,Boden                                        ,NULL,NULL,NULL,NULL
+1,USA,BELLMAWR                                     ,NULL,NULL,NULL,NULL
+3,CAN,Fergus                                       ,NULL,NULL,NULL,NULL
+1,SWE,Smogen                                       ,NULL,NULL,NULL,NULL
+1,USA,Chester Springs                              ,NULL,NULL,NULL,NULL
+1,SWE,Munkedal                                     ,NULL,NULL,NULL,NULL
+2,NA ,NA                                           ,NULL,NULL,NULL,NULL
+1,CAN,Elkhorn                                      ,NULL,NULL,NULL,NULL
+6,CAN,Scarborough                                  ,NULL,NULL,NULL,NULL
+1,FIN,Kempele                                      ,NULL,NULL,NULL,NULL
+1,SVK,Handlova                                     ,NULL,NULL,NULL,NULL
+3,CZE,Jindrichuv Hradec                            ,NULL,NULL,NULL,NULL
+1,CAN,Port Hawkesbury                              ,NULL,NULL,NULL,NULL
+2,SWE,Lycksele                                     ,NULL,NULL,NULL,NULL
+1,SWE,Tibro                                        ,NULL,NULL,NULL,NULL
+1,CZE,Most                                         ,NULL,NULL,NULL,NULL
+2,SVK,Banská Bystrica                              ,NULL,NULL,NULL,NULL
+1,CAN,Cassiar                                      ,NULL,NULL,NULL,NULL
+1,USA,Repentigny                                   ,NULL,NULL,NULL,NULL
+1,CHE,Zuzwil                                       ,NULL,NULL,NULL,NULL
+1,SWE,Färgelanda                                   ,NULL,NULL,NULL,NULL
+1,CAN,Holland Landing                              ,NULL,NULL,NULL,NULL
+1,SVK,Liptovsky Mikulas                            ,NULL,NULL,NULL,NULL
+1,CAN,N. Vancouver                                 ,NULL,NULL,NULL,NULL
+1,CAN,Hinsdale                                     ,NULL,NULL,NULL,NULL
+1,CZE,Sumperk                                      ,NULL,NULL,NULL,NULL
+3,CAN,Woodbridge                                   ,NULL,NULL,NULL,NULL
+1,CAN,Ste-Agathe-Des-Monts                         ,NULL,NULL,NULL,NULL
+2,SWE,Jönköping                                    ,NULL,NULL,NULL,NULL
+2,SVK,Topolcany                                    ,NULL,NULL,NULL,NULL
+1,CAN,Binscarth                                    ,NULL,NULL,NULL,NULL
+2,FIN,Raahe                                        ,NULL,NULL,NULL,NULL
+2,CAN,Port McNeill                                 ,NULL,NULL,NULL,NULL
+1,SWE,Klagenfurt                                   ,NULL,NULL,NULL,NULL
+1,CAN,Bayfield                                     ,NULL,NULL,NULL,NULL
+1,CAN,Dorval                                       ,NULL,NULL,NULL,NULL
+1,CZE,Písek                                        ,NULL,NULL,NULL,NULL
+1,CAN,Vermilion                                    ,NULL,NULL,NULL,NULL
+1,CAN,St. Malo                                     ,NULL,NULL,NULL,NULL
+1,KAZ,Ust-Kamenogorsk                              ,NULL,NULL,NULL,NULL
+2,CAN,Sorel                                        ,NULL,NULL,NULL,NULL
+6,CAN,North Vancouver                              ,NULL,NULL,NULL,NULL
+1,CAN,Miramichi                                    ,NULL,NULL,NULL,NULL
+3,CAN,Pickering                                    ,NULL,NULL,NULL,NULL
+2,RUS,Voskresensk                                  ,NULL,NULL,NULL,NULL
+2,CAN,Keswick                                      ,NULL,NULL,NULL,NULL
+2,RUS,Ust-Kamenogorsk                              ,NULL,NULL,NULL,NULL
+1,RUS,Korkino                                      ,NULL,NULL,NULL,NULL
+1,CAN,Campbellville                                ,NULL,NULL,NULL,NULL
+1,FIN,Karkkila                                     ,NULL,NULL,NULL,NULL
+1,CZE,Nove Mesto na Morave                         ,NULL,NULL,NULL,NULL
+1,USA,Kingsford                                    ,NULL,NULL,NULL,NULL
+4,RUS,Togliatti                                    ,NULL,NULL,NULL,NULL
+1,FIN,Kauniainen                                   ,NULL,NULL,NULL,NULL
+4,CAN,St. John's                                   ,NULL,NULL,NULL,NULL
+2,USA,Braintree                                    ,NULL,NULL,NULL,NULL
+1,DEU,Moers                                        ,NULL,NULL,NULL,NULL
+1,CAN,Battleford                                   ,NULL,NULL,NULL,NULL
+4,CAN,Pointe-Claire                                ,NULL,NULL,NULL,NULL
+1,CAN,Blyth                                        ,NULL,NULL,NULL,NULL
+1,FIN,Kirkkonummi                                  ,NULL,NULL,NULL,NULL
+3,CAN,Caroline                                     ,NULL,NULL,NULL,NULL
+1,CAN,Rock Forest                                  ,NULL,NULL,NULL,NULL
+2,CAN,Taber                                        ,NULL,NULL,NULL,NULL
+3,CAN,Mimico                                       ,NULL,NULL,NULL,NULL
+1,CAN,Phoenix                                      ,NULL,NULL,NULL,NULL
+1,CAN,St. Isidore                                  ,NULL,NULL,NULL,NULL
+1,CAN,St. Bonaventure                              ,NULL,NULL,NULL,NULL
+3,CAN,White Rock                                   ,NULL,NULL,NULL,NULL
+1,CAN,Comox                                        ,NULL,NULL,NULL,NULL
+1,CAN,Porcupine                                    ,NULL,NULL,NULL,NULL
+1,SWE,Varmdo                                       ,NULL,NULL,NULL,NULL
+2,CAN,Wapella                                      ,NULL,NULL,NULL,NULL
+1,CAN,Bobcaygeon                                   ,NULL,NULL,NULL,NULL
+1,CAN,St. Paul                                     ,NULL,NULL,NULL,NULL
+1,CAN,Bradford                                     ,NULL,NULL,NULL,NULL
+3,CAN,Winkler                                      ,NULL,NULL,NULL,NULL
+1,CAN,Pincourt                                     ,NULL,NULL,NULL,NULL
+1,CZE,Moravska Trebova                             ,NULL,NULL,NULL,NULL
+1,FRA,Bayonne                                      ,NULL,NULL,NULL,NULL
+1,USA,East Palestine                               ,NULL,NULL,NULL,NULL
+1,CZE,Chrudim                                      ,NULL,NULL,NULL,NULL
+2,USA,New York City                                ,NULL,NULL,NULL,NULL
+1,SWE,Nynashamn                                    ,NULL,NULL,NULL,NULL
+1,USA,Seoul                                        ,NULL,NULL,NULL,NULL
+1,CAN,Sorel-Tracy                                  ,NULL,NULL,NULL,NULL
+1,CAN,Alfred                                       ,NULL,NULL,NULL,NULL
+2,CAN,Bonavista                                    ,NULL,NULL,NULL,NULL
+1,CAN,Kingsville                                   ,NULL,NULL,NULL,NULL
+1,SWE,Lidingo                                      ,NULL,NULL,NULL,NULL
+1,USA,Calgary                                      ,NULL,NULL,NULL,NULL
+1,CZE,Mastec Kralove                               ,NULL,NULL,NULL,NULL
+2,CAN,Carlyle                                      ,NULL,NULL,NULL,NULL
+1,CAN,Niagara Falls                                ,NULL,NULL,NULL,NULL
+1,SWE,Osterhaninge                                 ,NULL,NULL,NULL,NULL
+2,SWE,Sollentuna                                   ,NULL,NULL,NULL,NULL
+1,CAN,Russell                                      ,NULL,NULL,NULL,NULL
+7,CAN,Welland                                      ,NULL,NULL,NULL,NULL
+2,CAN,Maple Ridge                                  ,NULL,NULL,NULL,NULL
+1,CAN,Bonnyville                                   ,NULL,NULL,NULL,NULL
+1,CAN,Sooke                                        ,NULL,NULL,NULL,NULL
+2,CAN,Westlock                                     ,NULL,NULL,NULL,NULL
+6,CZE,Kladno                                       ,NULL,NULL,NULL,NULL
+1,CAN,Shaunavon                                    ,NULL,NULL,NULL,NULL
+1,CZE,Usti                                         ,NULL,NULL,NULL,NULL
+2,CAN,Lemoyne                                      ,NULL,NULL,NULL,NULL
+1,DNK,Rødovre                                      ,NULL,NULL,NULL,NULL
+1,CAN,Chateauguay                                  ,NULL,NULL,NULL,NULL
+1,CAN,Leduc                                        ,NULL,NULL,NULL,NULL
+1,CAN,Ilderton                                     ,NULL,NULL,NULL,NULL
+1,USA,Palos                                        ,NULL,NULL,NULL,NULL
+1,SWE,Katrineholm                                  ,NULL,NULL,NULL,NULL
+1,CAN,Tokyo                                        ,NULL,NULL,NULL,NULL
+1,RUS,Kiev                                         ,NULL,NULL,NULL,NULL
+1,CAN,Salt Lake City                               ,NULL,NULL,NULL,NULL
+1,FIN,Stockholm                                    ,NULL,NULL,NULL,NULL
+1,CHE,Volketswil                                   ,NULL,NULL,NULL,NULL
+1,SWE,Nassjo                                       ,NULL,NULL,NULL,NULL
+1,CAN,Ville Degelis                                ,NULL,NULL,NULL,NULL
+1,CAN,Morweena                                     ,NULL,NULL,NULL,NULL
+1,SWE,Lau                                          ,NULL,NULL,NULL,NULL
+1,CAN,Alameda                                      ,NULL,NULL,NULL,NULL
+1,CAN,Ayr                                          ,NULL,NULL,NULL,NULL
+1,CAN,Porters Lake                                 ,NULL,NULL,NULL,NULL
+1,CZE,Slany                                        ,NULL,NULL,NULL,NULL
+4,CAN,Brantford                                    ,NULL,NULL,NULL,NULL
+1,SWE,Calgary                                      ,NULL,NULL,NULL,NULL
+2,CAN,Owen sound                                   ,NULL,NULL,NULL,NULL
+3,CAN,Chatham                                      ,NULL,NULL,NULL,NULL
+1,CAN,Belmont                                      ,NULL,NULL,NULL,NULL
+1,SWE,Arvika                                       ,NULL,NULL,NULL,NULL
+3,CAN,Viking                                       ,NULL,NULL,NULL,NULL
+1,CAN,Portage la Prairie                           ,NULL,NULL,NULL,NULL
+1,CAN,Hayward                                      ,NULL,NULL,NULL,NULL
+3,FIN,Rauma                                        ,NULL,NULL,NULL,NULL
+3,CZE,Trebic                                       ,NULL,NULL,NULL,NULL
+4,CAN,LaSalle                                      ,NULL,NULL,NULL,NULL
+2,SWE,Kramfors                                     ,NULL,NULL,NULL,NULL
+1,FIN,Haapavesi                                    ,NULL,NULL,NULL,NULL
+1,SWE,Tumba                                        ,NULL,NULL,NULL,NULL
+1,CAN,Blackie                                      ,NULL,NULL,NULL,NULL
+1,CZE,Vitkov                                       ,NULL,NULL,NULL,NULL
+1,CAN,Cole Harbour                                 ,NULL,NULL,NULL,NULL
+2,USA,Dorchester                                   ,NULL,NULL,NULL,NULL
+1,CAN,Craik                                        ,NULL,NULL,NULL,NULL
+1,CAN,Delta                                        ,NULL,NULL,NULL,NULL
+1,CHE,Felben Wellhausen                            ,NULL,NULL,NULL,NULL
+1,CAN,Tours                                        ,NULL,NULL,NULL,NULL
+2,CAN,Coquitlam                                    ,NULL,NULL,NULL,NULL
+1,CAN,Bromont                                      ,NULL,NULL,NULL,NULL
+1,CAN,Ste-Catherine                                ,NULL,NULL,NULL,NULL
+1,CAN,Uxbridge                                     ,NULL,NULL,NULL,NULL
+1,CZE,Celadna                                      ,NULL,NULL,NULL,NULL
+1,SWE,Sundbyberg                                   ,NULL,NULL,NULL,NULL
+1,CHE,Burgdorf                                     ,NULL,NULL,NULL,NULL
+1,CAN,Stittsville                                  ,NULL,NULL,NULL,NULL
+1,CAN,Davidson                                     ,NULL,NULL,NULL,NULL
+1,FIN,Muurame                                      ,NULL,NULL,NULL,NULL
+2,RUS,Tver                                         ,NULL,NULL,NULL,NULL
+1,CAN,Vaughan                                      ,NULL,NULL,NULL,NULL
+2,CZE,Praha                                        ,NULL,NULL,NULL,NULL
+1,FRA,Le Blanc-Mesnil                              ,NULL,NULL,NULL,NULL
+1,LVA,Latvia                                       ,NULL,NULL,NULL,NULL
+1,CAN,Cold Lake                                    ,NULL,NULL,NULL,NULL
+2,CAN,Simcoe                                       ,NULL,NULL,NULL,NULL
+1,CAN,Val D'or                                     ,NULL,NULL,NULL,NULL
+1,SWE,Kalix                                        ,NULL,NULL,NULL,NULL
+5,CAN,Cambridge                                    ,NULL,NULL,NULL,NULL
+1,CAN,East St. Paul                                ,NULL,NULL,NULL,NULL
+1,CAN,Salmon Arm                                   ,NULL,NULL,NULL,NULL
+1,CAN,Oliver                                       ,NULL,NULL,NULL,NULL
+1,CAN,Huntsville                                   ,NULL,NULL,NULL,NULL
+1,FIN,Narva                                        ,NULL,NULL,NULL,NULL
+2,USA,Baudette                                     ,NULL,NULL,NULL,NULL
+1,CAN,Ancienne-Lorette                             ,NULL,NULL,NULL,NULL
+5,RUS,Yaroslavl                                    ,NULL,NULL,NULL,NULL
+2,CAN,Almonte                                      ,NULL,NULL,NULL,NULL
+1,CAN,Halkirk                                      ,NULL,NULL,NULL,NULL
+1,CAN,Brock                                        ,NULL,NULL,NULL,NULL
+1,FIN,Kalajoki                                     ,NULL,NULL,NULL,NULL
+1,USA,Hilton Head Isl.                             ,NULL,NULL,NULL,NULL
+1,AUS,Cardiff                                      ,NULL,NULL,NULL,NULL
+1,SWE,Danderyd                                     ,NULL,NULL,NULL,NULL
+2,CZE,Vlasim                                       ,NULL,NULL,NULL,NULL
+1,CAN,Cap-Rouge                                    ,NULL,NULL,NULL,NULL
+1,SWE,Molnlycke                                    ,NULL,NULL,NULL,NULL
+2,FIN,Espoo                                        ,NULL,NULL,NULL,NULL
+1,CAN,Lac-Beauport                                 ,NULL,NULL,NULL,NULL
+1,SVK,Eisenstadt                                   ,NULL,NULL,NULL,NULL
+1,USA,South St. Pau                                ,NULL,NULL,NULL,NULL
+6,CAN,Lloydminster                                 ,NULL,NULL,NULL,NULL
+1,CAN,Beaverlodge                                  ,NULL,NULL,NULL,NULL
+1,CAN,Listowel                                     ,NULL,NULL,NULL,NULL
+1,CAN,Sauble Beach                                 ,NULL,NULL,NULL,NULL
+1,CAN,Nesbitt                                      ,NULL,NULL,NULL,NULL
+1,FIN,Hämeenlinna                                  ,NULL,NULL,NULL,NULL
+1,DEU,Calw                                         ,NULL,NULL,NULL,NULL
+1,USA,Quebec City                                  ,NULL,NULL,NULL,NULL
+3,CAN,Langley                                      ,NULL,NULL,NULL,NULL
+3,CAN,Guelph                                       ,NULL,NULL,NULL,NULL
+1,DEU,Freiburg                                     ,NULL,NULL,NULL,NULL
+1,BLR,Mogilev                                      ,NULL,NULL,NULL,NULL
+3,CAN,Sicamous                                     ,NULL,NULL,NULL,NULL
+1,CAN,Buffalo                                      ,NULL,NULL,NULL,NULL
+1,RUS,Krasnojarsk                                  ,NULL,NULL,NULL,NULL
+1,SVK,Cadca                                        ,NULL,NULL,NULL,NULL
+2,CAN,Thornhill                                    ,NULL,NULL,NULL,NULL
+10,CAN,Brampton                                     ,NULL,NULL,NULL,NULL
+2,CAN,King City                                    ,NULL,NULL,NULL,NULL
+1,CAN,Vanier                                       ,NULL,NULL,NULL,NULL
+1,DEU,Schwenningen                                 ,NULL,NULL,NULL,NULL
+1,NA ,Pelhrimov                                    ,NULL,NULL,NULL,NULL
+1,CAN,Maple Creek                                  ,NULL,NULL,NULL,NULL
+1,CAN,Granby                                       ,NULL,NULL,NULL,NULL
+1,CAN,Strathmore                                   ,NULL,NULL,NULL,NULL
+2,CZE,Havirov                                      ,NULL,NULL,NULL,NULL
+1,USA,Sanbornville                                 ,NULL,NULL,NULL,NULL
+2,CAN,Spruce Grove                                 ,NULL,NULL,NULL,NULL
+7,CAN,Markham                                      ,NULL,NULL,NULL,NULL
+1,DEU,Kaufbeuren                                   ,NULL,NULL,NULL,NULL
+1,CAN,St. Sauveur                                  ,NULL,NULL,NULL,NULL
+1,CAN,Fernie                                       ,NULL,NULL,NULL,NULL
+1,CHE,Ozieri                                       ,NULL,NULL,NULL,NULL
+1,CAN,Collingwood                                  ,NULL,NULL,NULL,NULL
+1,CAN,St. Agapit                                   ,NULL,NULL,NULL,NULL
+1,CAN,Aylesbury                                    ,NULL,NULL,NULL,NULL
+1,USA,North Pole                                   ,NULL,NULL,NULL,NULL
+1,SWE,Kvidinge                                     ,NULL,NULL,NULL,NULL
+1,USA,SANDY                                        ,NULL,NULL,NULL,NULL
+5,CAN,St. Catharines                               ,NULL,NULL,NULL,NULL
+1,CAN,Murray River                                 ,NULL,NULL,NULL,NULL
+1,CAN,St-Esprit                                    ,NULL,NULL,NULL,NULL
+1,CAN,"Garden River, First Nations                  ",NULL,NULL,NULL,NULL
+1,CAN,Mont Saint-Hilaire                           ,NULL,NULL,NULL,NULL
+1,BLR,Potsdam                                      ,NULL,NULL,NULL,NULL
+3,CAN,Airdrie                                      ,NULL,NULL,NULL,NULL
+1,FIN,Oulunsalo                                    ,NULL,NULL,NULL,NULL
+1,CZE,Rokycany                                     ,NULL,NULL,NULL,NULL
+1,FIN,Nokia                                        ,NULL,NULL,NULL,NULL
+3,CAN,Etobicoke                                    ,NULL,NULL,NULL,NULL
+1,CAN,Beauceville                                  ,NULL,NULL,NULL,NULL
+1,USA,Methuen                                      ,NULL,NULL,NULL,NULL
+1,CAN,Saint-Narcisse                               ,NULL,NULL,NULL,NULL
+1,CZE,Kadan                                        ,NULL,NULL,NULL,NULL
+1,CZE,Kromeriz                                     ,NULL,NULL,NULL,NULL
+3,CZE,Ceské Budejovice                             ,NULL,NULL,NULL,NULL
+1,CAN,Ste-Martine                                  ,NULL,NULL,NULL,NULL
+2,CAN,Stratford                                    ,NULL,NULL,NULL,NULL
+1,CAN,Forestburg                                   ,NULL,NULL,NULL,NULL
+1,CAN,St. Pauls                                    ,NULL,NULL,NULL,NULL
+2,CAN,Stouffville                                  ,NULL,NULL,NULL,NULL
+1,CAN,Lively                                       ,NULL,NULL,NULL,NULL
+1,CZE,Pelhrimov                                    ,NULL,NULL,NULL,NULL
+1,CAN,Port Alberni                                 ,NULL,NULL,NULL,NULL
+2,AUT,Villach                                      ,NULL,NULL,NULL,NULL
+1,CAN,Cobourg                                      ,NULL,NULL,NULL,NULL
+1,CAN,Grand Prairie                                ,NULL,NULL,NULL,NULL
+1,USA,Valencia                                     ,NULL,NULL,NULL,NULL
+1,SWE,Nordingra                                    ,NULL,NULL,NULL,NULL
+1,FIN,Loviisa                                      ,NULL,NULL,NULL,NULL
+1,CAN,Anahim Lake                                  ,NULL,NULL,NULL,NULL
+1,CAN,West Lorne                                   ,NULL,NULL,NULL,NULL
+2,CAN,Amqui                                        ,NULL,NULL,NULL,NULL
+1,SWE,Köping                                       ,NULL,NULL,NULL,NULL
+1,CAN,Port Hope                                    ,NULL,NULL,NULL,NULL
+1,CZE,Marianske Lazne                              ,NULL,NULL,NULL,NULL
+1,USA,Island Park                                  ,NULL,NULL,NULL,NULL
+1,CAN,Punnichy                                     ,NULL,NULL,NULL,NULL
+1,GBR,Guildford                                    ,NULL,NULL,NULL,NULL
+2,RUS,Kazan                                        ,NULL,NULL,NULL,NULL
+1,CAN,Arthabaska                                   ,NULL,NULL,NULL,NULL
+3,SWE,Malmö                                        ,NULL,NULL,NULL,NULL
+1,SWE,Winnipeg                                     ,NULL,NULL,NULL,NULL
+1,USA,Shelby Twp.                                  ,NULL,NULL,NULL,NULL
+1,RUS,Kamenogorsk                                  ,NULL,NULL,NULL,NULL
+1,CAN,Melfort                                      ,NULL,NULL,NULL,NULL
+1,FRA,Ivry-sur-Seine                               ,NULL,NULL,NULL,NULL
+1,SWE,Västerås                                     ,NULL,NULL,NULL,NULL
+1,FIN,Lempaala                                     ,NULL,NULL,NULL,NULL
+1,CAN,Lac St. Charles                              ,NULL,NULL,NULL,NULL
+1,CAN,CALGARY                                      ,NULL,NULL,NULL,NULL
+1,DNK,Farevejle                                    ,NULL,NULL,NULL,NULL
+1,USA,Tonka Bay                                    ,NULL,NULL,NULL,NULL
